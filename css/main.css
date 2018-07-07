@@ -1,0 +1,213 @@
+/* Loading Helper */
+@import 'bootstrap.min.css';
+@import 'ruler.css';
+
+/* Loading Font */
+@font-face {
+    font-family: Lato;
+    src: url(../fonts/Lato-Regular.woff);
+}
+@font-face {
+    font-family: Lato-Bold;
+    src: url(../fonts/Lato-Bold.woff);
+}
+
+/* Body Element */
+body {
+  padding-top: 80px;
+  padding-bottom: 20px;
+  font-family: Lato;
+}
+
+/* Index */
+.caribbean {
+    background-image: url(../img/backgrounds/caribbean.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: ghostwhite;
+	padding: 12px;
+}
+
+.eurasia {
+    background-image: url(../img/backgrounds/eurasia.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: ghostwhite;
+    text-shadow: #000 1px 0 10px; 
+	  padding: 12px;
+}
+
+/* Navigation */
+.navbar-default {
+  min-height: 80px;
+}
+
+.navbar-default .navbar-brand {
+    padding: 9px 9px;
+    height: auto;
+}
+
+.navbar-default .navbar-nav a {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.navbar-default .navbar-nav .dropdown-menu a {
+    margin-top: 6px;
+    margin-bottom: 6px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.navbar-default button {
+    margin-top: 24px;
+}
+
+/* Jombotrons */
+.jumbotron.info {
+    background-image: url(../img/pictures/dp-ga2-blurred.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: ghostwhite;
+}
+.jumbotron.info p {
+  background-color: rgba(0,0,0,0.2);
+  padding: 8px;
+}
+
+.jumbotron.tribute {
+    background-image: url(../img/whitebg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+.jumbotron.tribute hr {
+    border-top: 1px solid #000;
+}
+
+.jumbotron.executive {
+    background-image: url(../img/backgrounds/night2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: ghostwhite;
+}
+
+.jumbotron.general {
+    background-image: url(../img/backgrounds/day1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: ghostwhite;
+}
+
+.jumbotron.venue {
+    background-image: url(../img/backgrounds/night3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: ghostwhite;
+}
+
+.jumbotron.registration {
+    background-image: url('../img/backgrounds/night1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: ghostwhite;
+}
+
+/* Paragraph Font Sizes */
+.text-12 {
+    font-size: 1.2em;
+}
+
+.text-bold {
+    font-family: Lato-Bold;
+}
+
+/* Responsive Text */
+@media (max-width: 992px) {
+    .text-responsive {
+        font-size: 80% !important;
+    }
+    .text-responsive p {
+        font-size: 80% !important;
+    }
+    .text-responsive h2 {
+        font-size: 24px;
+    }
+    .text-responsive h3 {
+        font-size: 15px;
+    }
+    .text-responsive h4 {
+        font-size: 14px;
+    }
+}
+
+/* Carousel image fit */
+.carousel .carousel-background {
+    object-fit: cover;
+    height: 500px !important;
+    width: 100%;
+}
+
+.carousel.main-carousel .carousel-background {
+    object-fit: cover;
+    min-height: 600px !important;
+    width: 100%;
+}
+
+.carousel.bigger-carousel img {
+    object-fit: cover;
+    height: 700px !important;
+    width: 100%;
+}
+
+@media(max-width:768px) {
+    .carousel img {
+        object-fit: cover;
+        height: 250px !important;
+        width: 100%;
+    }
+
+    .carousel.bigger-carousel img {
+        object-fit: cover;
+        height: 400px !important;
+        width: 100%;
+    }
+}
+
+.img-fit {
+    object-fit: cover;
+}
+
+/* Map on the Venue and Contact Page */
+.map {
+    height: 350px;
+}
+
+@media(max-width:768px) {
+    .map {
+        height: 75%;
+    }
+}
+
+/* Register Form */
+.register-section {
+    margin-top: 80px;
+}
+
+.stofflist {
+
+}
+
+.stofflist .members {
+  margin-bottom: 72px;
+}
