@@ -71,8 +71,8 @@
                 <img src="img/icon.png" height="260px">
             </div>
             <div class="col-md-10 col-xs-12">
-                <h1>XVIII. Annual Session of MUNDP</h1>
-                <p>Welcome to the XVII. annual session of Model United Nations Development Programme. It will be held from 22nd to 25th of February, 2018 in Istanbul, Turkey. This year, with the hopes of organizing an astonishing conference, our Executive Board and General Committee of MUNDP 2018 are getting ready to host more than 750 students. Apply now and become a part of the memorable MUNDP experience!</p>
+                <h1>XIX. Annual Session of MUNDP</h1>
+                <p>Welcome to the XIX. annual session of Model United Nations Development Programme. It will be held from 21nd to 24th of February, 2019 in Istanbul, Turkey. This year, with the hopes of organizing an astonishing conference, our Executive Board and General Committee of MUNDP 2019 are getting ready to host more than 750 students. Apply now and become a part of the memorable MUNDP experience!</p>
 			      </div>
         </div>
       </div>
@@ -81,10 +81,10 @@
     <div class="jumbotron tribute text-center hidden">
       <div class="container">
         <h2>MUNDP 2018 is OVER</h2>
-        <p>We would like to thank all participants for making the MUNDP 2017 the best MUNDP ever!</p>
+        <p>We would like to thank all participants for making the MUNDP 2018 the best MUNDP ever!</p>
         <div class="row">
           <div class="col-md-4">
-            <h3>MUNDP 2017 Closing Video</h3>
+            <h3>MUNDP 2018 Closing Video</h3>
             <div class="embed-responsive embed-responsive-16by9">
               <video width="320" height="240" class="embed-responsive-item" controls>
                 <source src="videos/closing2017.mp4" type="video/mp4">
@@ -94,7 +94,7 @@
           </div>
 
           <div class="col-md-4">
-            <h3>MUNDP 2017 Opening Video</h3>
+            <h3>MUNDP 2018 Opening Video</h3>
             <div class="embed-responsive embed-responsive-16by9">
               <video width="320" height="240" class="embed-responsive-item" controls>
                 <source src="videos/opening2017.mp4" type="video/mp4">
@@ -174,9 +174,9 @@ The organization has made varies efforts in the areas such as policing strategie
 
 		<br><br>
 
-		<h2>Theme <small>of the MUNDP 2018</small></h2>
-		<div class="eurasia text-center">
-			<h2>Europe and<br>Central Asia</h2>
+		<h2>Theme <small>of MUNDP 2019</small></h2>
+		<div class="africa text-center">
+			<h2>Africa</h2>
 		</div>
 
 		<br><br>
