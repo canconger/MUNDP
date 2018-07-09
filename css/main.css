@@ -29,13 +29,13 @@ body {
 	padding: 12px;
 }
 
-.eurasia {
-    background-image: url(../img/backgrounds/eurasia.jpg);
+.africa {
+    background-image: url(../img/backgrounds/africa.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     color: ghostwhite;
-    text-shadow: #000 1px 0 10px; 
+    text-shadow: #000 1px 0 10px;
 	  padding: 12px;
 }
 
