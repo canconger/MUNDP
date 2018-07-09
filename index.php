@@ -80,7 +80,7 @@
 
     <div class="jumbotron tribute text-center hidden">
       <div class="container">
-        <h2>MUNDP 2017 is OVER</h2>
+        <h2>MUNDP 2018 is OVER</h2>
         <p>We would like to thank all participants for making the MUNDP 2017 the best MUNDP ever!</p>
         <div class="row">
           <div class="col-md-4">
