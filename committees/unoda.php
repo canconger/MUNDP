@@ -39,19 +39,20 @@
 
     <div class="container">
 		<h3>Committee Description</h3>
-        <p>
-			Established in January 1998 the United Nations Office for Disarmament Affairs (UNODA) was a part of the former Secretary general Kofi Annan’s effort to reform the United Nations. UNODA promotes disarmament through dialogue confidence-building on military matters and regional disarmament efforts. UNODA actively works with other UN bodies such as the General Assembly First Committee and Disarmament Commission also heading various projects in eastern Europe and Central Asia.
+      <p>
+      Established in January 1998 the United Nations Office for Disarmament Affairs (UNODA) was a part of the former Secretary general Kofi Annan’s effort to reform the United Nations. UNODA promotes disarmament through dialogue confidence-building on military matters and regional disarmament efforts. UNODA actively works with other UN bodies such as the General Assembly First Committee and Disarmament Commission also heading various projects in Africa.
 			<br><br>
-			UNODA has various regional centres, the Asian center The United Nations Regional Centre for Peace and Disarmament in Asia and the Pacific (UNRCPD) is in Kathmandu, Nepal. These regional centers help the countries create national legislature to ensure disarmament. UNODA also heads efforts to achieve the proliferation of weapons of mass destructions such as nuclear weapons and implementation of the Arms Trade Treaty internationally. Overall UNODA is crucial for maintaining the security and stability of the Eastern European and Central Asian region.
-
-		</p>
+			UNODA has numerous regional centres, The United Nations Regional Center for Peace and Disarmament in Africa (UNREC) has been functioning as an organization which aims to maintain peace and security regarding disarmament in Africa. UNREC has organized various sub-regional workshops to enhance the process of disarmament in Africa. One of them concerning the Lake Chad Basin Countries which was held in 6-7 November 2017 in N’Djamena, Chad.  One of the  national workshops were to prevent diversion of arms to terrorist groups, held in 9-10 November 2017 in Abuja, Nigeria.
+      <br><br>
+      UNODA also heads efforts to achieve the proliferation of weapons of mass destructions such as nuclear weapons and implementation of the Arms Trade Treaty internationally. Overall UNODA is crucial for maintaining the security and stability of the African region.
+		  </p>
 
 		<h3>Agenda</h3>
-		<p>Dismantling of Soviet-era ordinance in East Europe</p>
-	    	<p>The Question of Implementation of the Chemical Weapons Convention (CWC)</p>
-	    	<p>The question of international nuclear disarmament negotiations</p>
+		<p>The agenda is not yet available.</p>
 
     <h3>Chair Reports</h3>
+      <p>Chair reports are not yet available.</p>
+    <!--
     <p><strong>Report 1</strong> <i>by Doğa Fadıllıoğlu</i><br>
       DISMANTLING OF SOVIET-ERA ORDINANCE IN EAST EUROPE<br>
       <a href="../reports/UNODA_1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
@@ -62,7 +63,7 @@
       THE QUESTION OF INTERNATIONAL DISARMAMENT NEGOTIATIONS<br>
       <a href="../reports/UNODA_3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
-
+-->
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

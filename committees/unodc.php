@@ -39,20 +39,18 @@
 
     <div class="container">
 		<h3>Committee Description</h3>
-        <p>
-			The United Nations Office on Drugs and Crime was established in 1977, with the prime goal of eradicating international crime and the use of illicit drugs. The organ pushes to achieve minimal terrorism, drug abuse, corruption, and criminal trafficking worldwide, and assists any Member Nation in need regarding such issues. There are up to 150 Member Nations along with 20 field offices.
+    <p>
+      The United Nations Office on Drugs and Crime was established in 1977, with the prime goal of eradicating international crime, particularly relating to the use of illicit drugs. The organ pushes to achieve minimal terrorism, drug abuse, corruption, and criminal trafficking worldwide and assists any Member Nation in need regarding such issues. There are up to 150 Member Nations along with 20 field offices.
 			<br><br>
-			The office also focuses on public services such as, providing help for individuals who live in regions in which they may have suffered from such crimes such as drug use, promoting the dangers of such crimes and ensuring justice in such regions.
-			<br><br>
-			In Central Asia and Eastern Europe illicit drug trade is a major issue. From Central Asia to Europe lies the biggest route for heroin trade. Because of the unstable borders in Central Asia, it has been made almost convenient to use this route in order to reach the Balkans and even extend the exchange as far as the Netherlands. As well as that, another issue prominent in the region would be corruption. Over 20 percent of all firms in the region suffer from financial loss due to inadequate security and other forms of crime.
+      The regional offices of the African continent particularly strive to conclude issues relating to transnational crime, criminal justice, anti-corruption, illicit drug use and drug trafficking, terrorism and human trafficking. As a region with no shortage of crime and corruption, Africa is always a main focus of the UNODC and faces some of the most difficult challenges relating to criminal activity, substance abuse and corruption.
 		</p>
 
 		<h3>Agenda</h3>
-		<p>Preventing illicit trafficking of opium through Central Asia and Europe</p>
-	    	<p>Stengthening measures to prevent and combat corruption in Central Asia and Eastern Europe</p>
-	    	<p>Measures to alleviate the entrenched smuggling networks in the region</p>
+		<p>The agenda is not yet available.</p>
 
     <h3>Chair Reports</h3>
+    <p>Chair reports are not yet available.</p>
+    <!--
     <p><strong>Report 1</strong> <i>by Cansu Dilek</i><br>
       MEASURES TO ALLEVIATE THE ENTRENCHED SMUGGLING NETWORKS IN THE REGION<br>
       <a href="../reports/UNODC 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
@@ -62,7 +60,7 @@
     <p><strong>Report 2</strong> <i>by Cansu Dilek</i><br>
       STRENGTHENING MEASURES TO PREVENT AND COMBAT CORRUPTION IN CENTRAL ASIA AND EASTERN EUROPE<br>
       <a href="../reports/UNODC 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-
+-->
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

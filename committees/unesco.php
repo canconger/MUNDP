@@ -10,7 +10,7 @@
     <meta name="keywords" content="<?= KEYWORDS ?>">
     <link rel="icon" href="../favicon.ico">
 
-    <title><?= TITLE ?>: UN-Habitat</title>
+    <title><?= TITLE ?>: UNESCO</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -32,25 +32,25 @@
 
     <div class="jumbotron executive">
         <div class="container">
-            <h1>UN-Habitat</h1>
-			<h2>United Nations Human Settlements Programme</h2>
+            <h1>UNESCO</h1>
+			<h2>United Nations Educational, Scientific, and Cultural Organization</h2>
         </div>
     </div>
 
     <div class="container">
 		<h3>Committee Description</h3>
-        <p>
-			Issues regarding urbanisation have been debated in the United Nations since the 1970s and the importance of addressing urbanisation was further acknowledged in 1978 with the establishment of the United Nations Human Settlements Programme –commonly referred to as UN-Habitat. The programme is a part of United Nations Development Group and its goal is to promote - socially and environmentally- sustainable urban living spaces.
+    <p>
+      UNESCO is the United Nations Educational, Scientific and Cultural organization. UNESCO aims to establish accord  through international collaboration in Education, the Sciences and Culture. UNESCO's programs contribute to the achievement of the Sustainable Development Goals defined in Agenda 2030, adopted by the UN General Assembly in 2015. Through its field offices, UNESCO works on different approaches, programmes and enterprises in cooperation with global authorities and persons. In addition, UNESCO runs a numerous amount of functional institutes and centres.
 			<br><br>
-			In 2015 the member states of the UN approved the Sustainable Development Goals (SDGs); which includes SDG 11,  “Make cities and human settlements inclusive, safe, resilient and sustainable.” Today UN-Habitat creates a sustainable urban environment for all peoples by creating various projects that focus on issues ranging from climate change to safety in urban environments.
+      UNESCO has prioritized projects with with the African region for a long time and has a great history of collaboration with Africa as well as prioritizing the region. For the medium term period 2014-2021, Member States have confirmed the two Global Priorities of UNESCO: Priority Africa and Gender Equality. Based on consultations with and decisions of Member States, UNESCO’s action for Africa will focus on two major areas during the medium term period 2014-2021, which are; “Building peace by building inclusive, peaceful and resilient societies” and “Building institutional capacities for sustainable development and poverty eradication.”
 		</p>
 
 		<h3>Agenda</h3>
-		<p>Creating an international framework to achive SDG 11</p>
-		<p>Creating an international framework to achive SDG 9</p>
-		<p>Measures to create sustainable solutions to eradicate widespread unemployment</p>
+		<p>The agenda is not yet available.</p>
 
     <h3>Chair Reports</h3>
+    <p>Chair reports are not yet available.</p>
+    <!--
     <p><strong>Report 1</strong> <i>by Gülce Uysal & Ege Özgüroğlu</i><br>
       CREATING AN INTERNATIONAL FRAMEWORK TO ACHIEVE SDG 11<br>
       <a href="../reports/UNHABITAT_1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
@@ -60,7 +60,7 @@
     <p><strong>Report 3</strong> <i>by Gülce Uysal</i><br>
       MEASURES TO CREATE SUSTAINABLE SOLUTIONS TO ERADICATE WIDESPREAD UNEMPLOYMENT<br>
       <a href="../reports/UNHABITAT 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-
+-->
 
     </div> <!-- /container -->
 

@@ -10,7 +10,7 @@
     <meta name="keywords" content="<?= KEYWORDS ?>">
     <link rel="icon" href="../favicon.ico">
 
-    <title><?= TITLE ?>: UNIDO</title>
+    <title><?= TITLE ?>: UNEP</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -32,25 +32,27 @@
 
     <div class="jumbotron executive">
         <div class="container">
-            <h1>UNIDO</h1>
-			<h2>United Nations Industrial Development Organization</h2>
+            <h1>UNEP</h1>
+			<h2>United Nations Environmental Programme</h2>
         </div>
     </div>
 
     <div class="container">
 		<h3>Committee Description</h3>
-        <p>
-			The United Nations Industrial Development Organisation is a UN branch which aims to further industrial development for, poverty reduction, inclusive globalisation, and environmental sustainability. The main goal is to accelerate inclusive and sustainable industrial development (ISID) in developing and ultimately transitioning countries.
+    <p>
+      The United Nations Environmental Programme (UNEP), established in 1972, is a UN agency that sets the global environmental agenda, promotes the consistent application of the environmental aspect of sustainable development within the UN, and serves as an authoritative advocate for solving global environmental problems.
 			<br><br>
-			In Central Asia and Eastern Europe, UNIDO aids a total of 28 member states. The organ stated that “The countries are highly diverse in terms of geography, history, population, social and economic levels of development and geopolitical issues. The group includes low, middle and high income countries, which face common and specific development challenges.” So for this region, it is definitely a challenge to sustain industrial development, since each kind of economy and culture needs specific attention. In order for the aforementioned goals to be achieved, UNIDO needs to pay special attention to the region.
+      The activities of UNEP cover a vast range of issues such as the atmosphere, marine and terrestrial ecosystems, environmental governance and green economy. It has been active in funding and implementing environmental development projects, and has worked on the establishment and implementation of various policies with national governments and regional institutions in cooperation with environmental non-governmental organizations.
+      <br><br>
+      The regional office of UNEP in Africa promotes sustainable development throughout the continent; it battles the plethora of environmental challenges Africa faces, including land degradation, deforestation, biodiversity loss and extreme vulnerability to climate change.
 		</p>
 
 		<h3>Agenda</h3>
-    <p>Alleviating poverty in Central Asia</p>
-    <p>Measures to optimise transnational trade flow in Central Asia</p>
-    <p>Instigating development of domestic technology and enterpreneurship in Central Asia</p>
+    <p>The agenda is not yet available.</p>
 
     <h3>Chair Reports</h3>
+      <p>Chair reports are not yet available.</p>
+    <!--
     <p><strong>Report 1</strong> <i>by Uras Efe Kahya</i><br>
       Alleviating poverty in Central Asia<br>
       <a href="../reports/UNIDO 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
@@ -60,7 +62,7 @@
     <p><strong>Report 1</strong> <i>by Erel Mose Saul & Uras Efe Kahya</i><br>
       Measures to Optimise Translational Trade Flow in Central Asia<br>
         <a href="../reports/UNIDO 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-
+-->
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

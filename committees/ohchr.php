@@ -40,19 +40,17 @@
     <div class="container">
 		<h3>Committee Description</h3>
         <p>
-			Office of the United Nations High Commissioner for Human Rights (OHCHR) was established on 20 December 1993 and it continues to work as the principal human rights office of the UN in compliance with the international human rights treaties and the Special Procedures of the Human Rights Council. Alongside supervising the Human Rights Council in Geneva, OHCHR primarily focuses on promoting human rights without distinction as stated in the Universal Declaration of Human Rights of 1948. OHCHR ensures the protection of human rights under severe circumstances of violence, conflict and insecurity.
+          The Office of the United Nations High Commissioner for Human Rights (OHCHR) was established in December 1993, and it continues to work as the principal human rights office of the UN in compliance with the international human rights treaties and the Special Procedures of the Human Rights Council. Alongside supervising the Human Rights Council in Geneva, OHCHR primarily focuses on promoting human rights without distinction as stated in the Universal Declaration of Human Rights of 1948. OHCHR ensures the protection of human rights under severe circumstances of violence, conflict and insecurity.
 			<br><br>
-			OHCHR’s Regional Office for Central Asia (ROCA) was established in 2008 in Bishkek, Kyrgyzstan and currently covers four of five countries in the region: Kazakhstan, Kyrgyzstan, Tajikistan and Turkmenistan. The main purpose of this office is to engage with Governments, intergovernmental organizations, civil society, the private sector as well as relevant United Nations partners, to formulate and implement strategies, programmes and measures for the promotion and protection of all human rights in the countries of Central Asia.
-			<br><br>
-			OHCHR’s Regional Office for Europe is mandated to promote and protect human rights in EU Member States, the candidate and potential candidate countries of the Balkans, as well as Iceland, Norway and Turkey. Through the integration of the UN’s human rights standards into EU-wide policies, legislation and implementation measures, the Regional Office aims to help address human rights challenges in Europe. It also seeks to ensure the integration of the UN’s human rights perspective in external EU policies and activities.
+      OHCHR has a number of regional centres and offices in Africa: The UN Subregional Centre for Human Rights and Democracy in Central Africa strives towards strengthening security, stability and development in Central Africa through encouraging respect for fundemental human rights and democracy; The East Africa Regional Office facilitates information-sharing, capacity building initiatives and actions to promote, monitor and uphold human rights primarily in countries located in the East and Horn of Africa; The Southern Africa Regional Office helps States, UN agencies, national human rights institutions, and civil society organizations in order to achieve the realization of human rights in the region; The West Africa Regional Office aims to abolish human rights abuses in the most volatile subregion of Africa, host to numerous economical, political, and humanitarian crises.
 		</p>
 
 		<h3>Agenda</h3>
-		<p>Achieveing gender equality through the empowerment of women in bussiness, workforce and other economic fields</p>
-	  <p>Taking measures to ensure protection of political rights and civil liberties</p>
-	  <p>Implementation of the provisions of the Convention Against Torture</p>
+		<p>The agenda is not yet available.</p>
 
     <h3>Chair Reports</h3>
+      <p>Chair reports are not yet available.</p>
+    <!--
     <p><strong>Report 1</strong> <i>by Nisan Görsev</i><br>
       TAKING MEASURES TO ENSURE PROTECTION OF POLITICAL RIGHTS AND CIVIL LIBERTIES<br>
       <a href="../reports/OHCHR 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
@@ -62,7 +60,7 @@
     <p><strong>Report 3</strong> <i>by İrem Kaki</i><br>
       ACHIEVING GENDER EQUALITY THROUGH THE EMPOWERMENT OF WOMEN IN BUSINESS, WORKFORCE AND OTHER ECONOMIC FIELDS <br>
       <a href="../reports/OHCHR 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-
+-->
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

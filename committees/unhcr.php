@@ -40,17 +40,17 @@
     <div class="container">
 		<h3>Committee Description</h3>
         <p>
-			The United Nations Higher Commission for Refugees was established in 1950 with the intention of helping the millions of European refugees who had fled their homes as a result of the second world war. It works on the basis of the basic human right to seek asylum. The main goal is to provide safe refuge for ones who have fled violence, war, persecution or disaster at home. UNHCRs directive has expanded over the years to ensure the protection of all displaced persons, including those who are internally displaced.
+			The United Nations Higher Commission for Refugees was established in 1950 with the intention of helping the millions of European refugees who had fled their homes as a result of the Second World War. It works on the basis of the basic human right to seek asylum. The main goal of UNHCR is to provide safe refuge for ones who have fled violence, war, persecution or disaster at home; its directive has expanded over the years to ensure the protection of all displaced persons, including those who are internally displaced.
 			<br><br>
-			Due to the instability in the middle east, up to a million refugees seek asylum in Europe per year. In 2015 IOM estimated that 1,011,700 refugees arrived in Europe by sea, along with the 34,900 which arrived by land. Due to poor conditions and overcrowding, about 4,000 of these refugees were reported drowning in the Mediterranean. It is essential that these conditions which are causing such tragedies are monitored, and controlled as well as the refugees.
+      Africa hosts 18 million refugees which make up more than 26 percent of the world’s refugee population, due to ongoing crises in South Sudan, Nigeria, and the Central African Republic (CAR) in addition to various conflicts in Yemen and Burundi. UNHCR works towards ensuring that displaced persons have access to services such as education and healthcare across Africa. It helps create safe school environments, improve security in refugee camps, and provide lighting in public spaces to decrease the risks of sexual and gender based violence.
 		</p>
 
 		<h3>Agenda</h3>
-		    <p>Creating effective and efficient asylum systems in line with international standards in Eastern Europe</p>
-	    	<p>Improving the efficiency of resettlement for refugees in Eastern Turkey</p>
-	    	<p>Measures to affectively monitor migration in Central Asia</p>
+		    <p>The agenda is not yet available.</p>
 
     <h3>Chair Reports</h3>
+      <p>Chair reports are not yet available.</p>
+    <!--
     <p><strong>Report 1</strong> <i>by Mehmed Can Özkan</i><br>
       IMPROVING THE EFFICIENCY OF RESETTLEMENT FOR REFUGEES IN EASTERN TURKEY<br>
       <a href="../reports/UNHCR 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
@@ -60,7 +60,7 @@
     <p><strong>Report 3</strong> <i>by Kaan Ertürk</i><br>
       CREATING EFFECTIVE AND EFFICIENT ASYLUM SYSTEMS IN LINE WITH INTERNATIONAL STANDARDS IN EASTERN EUROPE<br>
       <a href="../reports/UNHCR 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-
+-->
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

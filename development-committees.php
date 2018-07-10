@@ -40,7 +40,7 @@
         <h2>About Development Committees</h2>
         <hr>
 
-        <p class="padding-bottom-24">These committees discuss the developmental challenges faced by the countries in the UNDP region the conference focuses on. This year, the delegates in the eight development committees, will focus on the array of developmental obstacles in Latin America and the Caribbean and join the rest of their delegations at the International Summit on Sunday.</p>
+        <p class="padding-bottom-24">These committees discuss the developmental challenges faced by the countries in the UNDP region the conference focuses on. This year, the delegates in the eight development committees, will focus on the array of developmental obstacles in Africa and join the rest of their delegations at the International Summit on Sunday.</p>
 
 		<hr>
 
@@ -55,13 +55,13 @@
                 <a href="committees/ohchr" class="btn btn-primary btn-lg btn-block"><h4><strong>OHCHR</strong></h4><small>Office of the Unite Nations High Commissioner for Human Rights</small></a>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/un-habitat" class="btn btn-primary btn-lg btn-block"><h4><strong>UN-Habitat</strong></h4><small>United Nations Human Settlements Programme</small></a>
+                <a href="committees/unesco" class="btn btn-primary btn-lg btn-block"><h4><strong>UNESCO</strong></h4><small>United Nations Educational, Scientific, and Cultural Organization</small></a>
             </div>
 			<div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
                 <a href="committees/unodc" class="btn btn-primary btn-lg btn-block"><h4><strong>UNODC</strong></h4><small>United Nations Office on Drugs and Crime</small></a>
             </div>
 			<div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/unido" class="btn btn-primary btn-lg btn-block"><h4><strong>UNIDO</strong></h4><small>United Nations Industrial Development Organization</small></a>
+                <a href="committees/unep" class="btn btn-primary btn-lg btn-block"><h4><strong>UNEP</strong></h4><small>United Nations Environmental Programme</small></a>
             </div>
         </div>
 	</div> <!-- /container -->
