@@ -126,7 +126,7 @@
     <div class="container padding-bottom-24">
 	  <div class="row">
 	  <div class="col-xs-12 col-md-8">
-		<h2>A Letter from Secretaries General</h2>
+		<h2>A Letter from the Secretaries General</h2>
 		<p class="text-justify">Dear Participants,
 		<br><br>
 			As the Secretaries General, it is with upmost privilege and delight that we welcome you to the 18th annual session of Model United Nations Development Program, an affiliate of The Hague International Model United Nations.
