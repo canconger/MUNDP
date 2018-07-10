@@ -32,7 +32,7 @@
                 <li role="separator" class="divider visible-md visible-sm"></li>
                 <li><a href="<?= URL ?>contact" class="visible-md visible-sm">Contact</a></li>
                 <li><a href="<?= URL ?>kocschool" class="visible-md visible-sm">The Koç School</a></li>
-                <li><a href="<?= URL ?>istanbul" class="visible-md visible-sm">İstanbul</a></li>
+                <li><a href="<?= URL ?>istanbul" class="visible-md visible-sm">Istanbul</a></li>
                 <li role="separator" class="divider"></li>
                 <li class="hidden"><a href="<?= URL ?>schedule">Schedule</a></li>
                 <li class="hidden"><a href="<?= URL ?>deadlines">Deadlines</a></li>
