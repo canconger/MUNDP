@@ -39,16 +39,16 @@
 
     <div class="container">
 		<h3>Description du Comité</h3>
-        <p>
-			L’Organisation internationale de la Francophonie figure les pays francophones, autrement dit les pays dont la majorité des citoyens parlent français. Cette organisation conçoit 57 états membres ainsi que 20 états observateurs. Quelques buts de l’Organisation internationale de Francophonie est de favoriser la langue française en respectant la diversité culturelle et linguistique, notamment aux pays africains où le français est en recul. Promouvoir la paix, la démocratie et les droits de l’homme sont parmi les objectifs de l’OIF. Comme l’OIF est l’une des agences spécialisées, elle n’est pas obligée de fixer un sujet concernant le thème.
+    <p>
+      L’Organisation Internationale de la Francophonie figure les pays francophones, autrement dit les pays dont la majorité des citoyens parlent français. Cette organisation conçoit 57 états membres ainsi que 20 états observateurs. Quelques buts de l’Organisation internationale de Francophonie est de favoriser la langue française en respectant la diversité culturelle et linguistique, notamment aux pays africains où le français est en recul. Promouvoir la paix, la démocratie et les droits de l’homme sont parmi les objectifs de l’OIF. Comme l’OIF est l’une des agences spécialisées, elle n’est pas obligée de fixer un sujet concernant le thème, mais cette année, le thème du comité est cohérent avec le thème général de la conférence: l’Afrique.
 		</p>
 
 		<h3>Sujets</h3>
-      <p>S’adresser aux problèmes sanitaries en Afrique.</p>
-	    <p>Établir parité entre les sexes en termes de revenus, d'éducation et de pouvoir politique.</p>
-	    <p>Comment lutter contre le narcoterrorism en Afrique.</p>
+      <p>L'agenda n'est pas encore disponible.</p>
 
-      <h3>Rapport de Recherche</h3>
+    <h3>Rapport de Recherche</h3>
+    <p>Les rapports de recherche ne sont pas encore disponibles.</p>
+    <!--
           <p><strong>Rapport 1</strong> <i>by Gökşen Dündar</i><br>
             COMMENT LUTTER CONTRE LE NARCOTERRORISME EN AFRIQUE<br>
             <a href="../reports/OIF 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
@@ -58,7 +58,7 @@
           <p><strong>Rapport 3</strong> <i>by Kaan Arıbal</i><br>
             ETABLIR PARITE ENTRE LES SEXES EN TERMES DE REVENUS, D’EDUCATION ET DE POUVOIR POLITIQUE<br>
             <a href="../reports/OIF 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-
+-->
 
     </div> <!-- /container -->
 

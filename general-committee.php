@@ -40,19 +40,19 @@
         <div class="row">
             <div class="col-xs-12 col-md-6 padding-bottom-24">
                 <h3>Head of IT</h3>
-                <h4 class="margin-bottom-0">Eran Kohen</h4>
+                <h4 class="margin-bottom-0">Duru Yılmaz</h4>
                 <!-- <p><a href="mailto:headofit@modelundp.org">headofit@modelundp.org</a></p> -->
                 <br>
                 <h3>Head of Press</h3>
-                <h4 class="margin-bottom-0">Yiğit Sönmez</h4>
+                <h4 class="margin-bottom-0">N/A</h4>
                 <!-- <p><a href="mailto:press@modelundp.org">press@modelundp.org</a></p> -->
                 <br>
                 <h3>Head of Transportation</h3>
-                <h4 class="margin-bottom-0">Ata Gültekin</h4>
+                <h4 class="margin-bottom-0">N/A</h4>
                 <!-- <p><a href="mailto:transportation@modelundp.org">transportation@modelundp.org</a></p> -->
                 <br>
                 <h3>Head of Admins</h3>
-                <h4 class="margin-bottom-0">Kayra Şener</h4>
+                <h4 class="margin-bottom-0">N/A</h4>
                 <!-- <p><a href="mailto:headofadmins@modelundp.org">headofadmins@modelundp.org</a></p> -->
                 <br>
 
@@ -61,19 +61,19 @@
 
             <div class="col-xs-12 col-md-6 padding-bottom-24">
                 <h3>PA of School Liaison</h3>
-                <h4 class="margin-bottom-0">Beyza Sema Koç</h4>
+                <h4 class="margin-bottom-0">Cenker Camcı</h4>
                 <!-- <p><a href="mailto:assistantliaison@modelundp.org">assistantliaison@modelundp.org</a></p> -->
                 <br>
                 <h3>Assistants to Content</h3>
-                <h4 class="margin-bottom-0">Ayşe Erdemir, Nazlı Nil Erbaş & Irmak Genç</h4>
+                <h4 class="margin-bottom-0">N/A</h4>
                 <!-- <p><a href="mailto:assistantcontent@modelundp.org">assistantcontent@modelundp.org</a></p> -->
                 <br>
                 <h3>Assistant Organization</h3>
-                <h4 class="margin-bottom-0">Esin Göğüş</h4>
+                <h4 class="margin-bottom-0">N/A</h4>
                 <!-- <p><a href="mailto:assistantorganization@modelundp.org">assistantorganization@modelundp.org</a></p> -->
                 <br>
                 <h3>Crisis Manager</h3>
-                <h4 class="margin-bottom-0">Emir Raz Funes</h4>
+                <h4 class="margin-bottom-0">N/A</h4>
                 <!-- <p><a href="mailto:headofadmins@modelundp.org">headofadmins@modelundp.org</a></p> -->
                 <br>
             </div>

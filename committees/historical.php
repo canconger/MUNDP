@@ -39,21 +39,23 @@
 
     <div class="container">
 		<h3>Committee Description</h3>
-        <p>
-          Remaining adamantly proud to have introduced the Historical Committee format to the Turkish MUN committee more than a decade ago, MUNDP is proud to present this years topic as The Deluge; The Deluge, or The Swedish Deluge, though obscure it may be in comparison to several other historical conflicts, is nevertheless one of the crucial pivot-points of European History. The name is ascribed to the Polish-Swedish War, where the Swedes, breaking a previously signed truce, invaded the Polish heartlands whilst the latter was preoccupied with numerous events of internal and external strife. In the five years of fighting that ensued, Poland lost a third of its population, along with its status as a Great Power of Europe.
-          In simulating this legendary confrontation between these two military juggernauts, the Delegates will pledge their allegiances either to the Polish-Liuthanian Commonwealth, or to the Avaricious Swedish Crown, allied with the Muscovite Tsardom, whose will is to shatter the proud and vehement Commonwealth, to share its spoils amidst their own.
+    <p>
+          After over a decade of proudly hosting The Historical Committee, MUNDP 2019 presents The Second Boer War, the battle of The British Empire and The Boers. The First Boer War, also known as the Transvaal Rebellion (1880-1881), arised against the Royal annexation of 1877. The First Boer War may also be recalled as the South African War, where all the citizens of South Africa, white and black, were principally affected.
 			<br><br>
-      In simulating this legendary confrontation between these two military juggernauts, the Delegates will pledge their allegiances either to the Polish-Liuthanian Commonwealth, or to the Avaricious Swedish Crown, allied with the Muscovite Tsardom, whose will is to shatter the proud and vehement Commonwealth, to share its spoils amidst their own.
+      From the year 1835 to 1845, 15.000 Voortrekkers (the Dutch) immigrated from the British Cape Colony and walked across the Orange River into South Africa. With the “Great Trek”, where a British policy was strongly rejected, two independent republics were established and recognized by Great Britain in the Sand River -1852- and Bloefontein -1854- Conventions; “The Transvaal” and “The Orange Free State”.
 		</p>
 
 		<h3>Agenda</h3>
-		<p>The Deluge ( The Polish-Liuthanian Commonwealth vs. The Swedish Crown)</p>
+		<p>The agenda is not yet available.</p>
+
 
     <h3>Chair Reports</h3>
+    <p>Chair reports are not yet available.</p>
+    <!--
     <p><strong>Report 1</strong> <i>by Can Yeşildere, Lari Altaras, Eren Şerbetçi, Carla Ayşem Sipahioğlu & Emir Raz Funes</i><br>
       THE DELUGE (THE POLISH LITHUANIAN COMMENWEALTH VS. THE SWEDISH CROWN)<br>
       <a href="../reports/HISTO 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-
+-->
 
     </div> <!-- /container -->
 

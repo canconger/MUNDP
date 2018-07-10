@@ -10,7 +10,7 @@
     <meta name="keywords" content="<?= KEYWORDS ?>">
     <link rel="icon" href="../favicon.ico">
 
-    <title><?= TITLE ?>: OSCE</title>
+    <title><?= TITLE ?>: UNECA</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -32,27 +32,27 @@
 
     <div class="jumbotron executive">
         <div class="container">
-            <h1>OSCE</h1>
-			<h2>Organization for Security and Co-Operation in Europe</h2>
+            <h1>UNECA</h1>
+			<h2>United Nations Economic Commission for Africa</h2>
         </div>
     </div>
 
     <div class="container">
 		<h3>Committee Description</h3>
-        <p>
-			The Organisation for Security and Cooperation in Europe or OSCE was established in 1973 by the European countries at the height of the cold war as the Conference on Security and Co-operation in Europe (CSCE). It was a remarkable attempt at the time which brought the two sides together and achieved de-escalation . After the dissolution of the Soviet Union the organisation’s role drastically changed, and the CSCE was transformed into OSCE by a decision made at the Budapest Summit. The organisation currently has 57 participating states from Europe and Central Asia and has more than 20 offices in the region.
+    <p>
+      The United Nations Economic Commission for Africa (UNECA) is entering its 60th year after being established in 1958 by the Economic and Social Council (ECOSOC) of the United Nations (UN).
 			<br><br>
-			The aim of the organisation is to encourage cooperation on politico-military, economic and environmental, and human aspects between member states. The organisation has made varies efforts in the areas such as policing strategies, counter-terrorism and economic and environmental activities.
+			Comprised of 54 member States, UNECA promotes economic and social advancement in its member States as well as establishing international cooperation with a special focus on Africa. UNECA functions on both a regional and sub-regional basis, making it eligible to manage resources and strive for economic and social development, gender equality, development in innovation and technology and governance in the African continent.
 			<br><br>
-			OSCE hosts Prime Ministers/Presidents of its member states and OSCE delegates will be representing these individuals. The debate structure is ad-hoc, which means that delegates are not expected to prepare lengthy resolutions, but individually comprehensive clauses.
+      UNECA follows and ad-hoc debate structure and hosts the President or Prime Minister of each country, with the delegates of the committee representing these individuals. The delegates will hence participate in a debate that functions clause-by-clause rather than debating on resolutions as the leader of their respective member state.
 		</p>
 
 		<h3>Agenda</h3>
-		<p>Achieveing military de-escelation in Eastern Europe</p>
-		<p>Creating international framework to achieve sustainable economic development in Eastern Europe and Central Asia</p>
-		<p>The question of alleviating extremism and terrorism </p>
+		<p>The agenda is not yet available.</p>
 
     <h3>Chair Reports</h3>
+      <p>Chair reports are not yet available.</p>
+    <!--
     <p><strong>Report 2</strong> <i>by Ata Kolday</i><br>
       THE QUESTION OF ALLEVIATING EXTREMISM AND TERRORISM<br>
       <a href="../reports/OSCE_1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
@@ -62,7 +62,7 @@
     <p><strong>Report 3</strong> <i>by Mehmet Can Çetin</i><br>
       CREATING INTERNATIONAL FRAMEWORK TO ACHIEVE SUSTAINABLE ECONOMIC DEVELOPMENT IN EASTERN EUROPE AND CENTRAL ASIA<br>
       <a href="../reports/OSCE_3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-
+-->
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

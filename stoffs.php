@@ -37,8 +37,10 @@
     </div>
 
     <div class="container">
-
-
+      <p>
+        The student officers of MUNDP 2019 have not yet been determined.
+      </p>
+<!--
           <div class="col-xs-12 col-md-6 text-center stofflist">
               <h2>UNODA<br><small>U.N. Office for Disarmament Affairs</small></h2>
 
@@ -173,6 +175,7 @@
         <div class="row hidden">
         <h2 class="">You can apply now to become a student officer in MUNDP 2018!</h2>
         <h3 class="margin-24"><a href="registration/studentofficer" class="btn btn-primary btn-lg">Student Officer Registration</a></h3>
+-->
     </div> <!-- /container -->
 
     <? include("_includes/footer.php"); ?>

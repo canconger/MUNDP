@@ -61,10 +61,10 @@
                 <a href="committees/ecosoc" class="btn btn-primary btn-lg btn-block"><h4><strong>ECOSOC</strong></h4><small>Economic and Social Council</small></a>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/ap" class="btn btn-primary btn-lg btn-block"><h4><strong>APQ</strong></h4><small>Advisory Panel on the Question of Central Asia</small></a>
+                <a href="committees/ap" class="btn btn-primary btn-lg btn-block"><h4><strong>APQ</strong></h4><small>Advisory Panel on the Question of Central Africa</small></a>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/osce" class="btn btn-primary btn-lg btn-block"><h4><strong>OSCE</strong></h4><small>Organization for Security and Co-Operation in Europe</small></a>
+                <a href="committees/uneca" class="btn btn-primary btn-lg btn-block"><h4><strong>UNECA</strong></h4><small>United Nations Economic Commission for Africa</small></a>
             </div>
         </div>
     </div> <!-- /container -->

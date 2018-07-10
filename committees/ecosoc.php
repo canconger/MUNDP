@@ -39,20 +39,22 @@
 
     <div class="container">
 		<h3>Committee Description</h3>
-        <p>
-			ECOSOC, one of the six main organs of the United Nations established by the UN Charter in 1946, is the principal body for coordination, policy review, policy dialogue and recommendations on economic, social and environmental issues, as well as for implementation of the internationally agreed development goals.
+      <p>
+        ECOSOC, one of the six main organs of the United Nations established by the UN Charter in 1946, is the principal body for coordination, policy review, policy dialogue and recommendations on economic, social and environmental issues, as well as for implementation of the internationally agreed development goals.
 			<br><br>
-			ECOSOC serves as the central mechanism for the activities of the United Nations system and its specialized agencies, and supervises the subsidiary and expert bodies in the economic, social and environmental fields.
+      ECOSOC serves as the central mechanism for the activities of the United Nations system and its specialized agencies, and supervises the subsidiary and expert bodies in the economic, social and environmental fields.
 			<br><br>
-			It works to promote sustainable development, build partnerships, engage the youth in economics and advance the integration economical and social policies.
+      It works to promote sustainable development, build partnerships, engage the youth in economics and advance the integration of economic and social policies.
+      <br><br>
+      A wide range of activities are carried out by ECOSOC in the region of Africa via the Economic Commission for Africa (ECA), with a special emphasis on macroeconomic policy, regional integration and trade, social development, natural resources, innovation, gender issues, and governance.
 			</p>
 
 		<h3>Agenda</h3>
-		<p>Implementing reforms across bussiness regulation in Central Asia in order to address SDG 8</p>
-	        <p>Creating a framework to gradually achieve SDG 1</p>
-	        <p>Improvement of sub-regional cooperation in order to achieve sustainable development</p>
+		<p>The agenda is not yet available.</p>
 
     <h3>Chair Reports</h3>
+    <p>Chair reports are not yet available.</p>
+    <!--
     <p><strong>Report 1</strong> <i>by Rowa Kurdi</i><br>
       Improvement of Sub-regional Cooperation in Order to Achieve Sustainable Development<br>
       <a href="../reports/ECOSOC 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
@@ -62,7 +64,7 @@
     <p><strong>Report 3</strong> <i>by Sinan Orhun</i><br>
       Creating a Framework to Achieve SDG1<br>
       <a href="../reports/ECOSOC 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-
+-->
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

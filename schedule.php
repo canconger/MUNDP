@@ -37,7 +37,9 @@
     </div>
 
     <div class="container">
-            <div class="col-xs-12 col-md-6">
+      <p>The schedule for MUNDP 2019 is currently unavailable.</p>
+      
+<!--            <div class="col-xs-12 col-md-6">
                 <h2>Thursday<br><small>22nd of February</small></h2>
                 <hr>
                 <p><strong>13:00 - 15:30</strong><br>Student Officer Training</p>
@@ -106,7 +108,7 @@
                 <p><strong>18:45 - 19:30</strong><br>Buses Leave the Koç School</p>
 
             </div>
-        </div>
+        </div>-->
     </div> <!-- /container -->
 
     <? include("_includes/footer.php"); ?>

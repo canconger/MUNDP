@@ -35,7 +35,7 @@
             <h1>Materials</h1>
         </div>
     </div>
-
+<!--
     <div class="container">
       <h2>MUNDP 2018 Delegate Handbook</h2>
       <hr>
@@ -45,11 +45,11 @@
         <hr>
 
         <iframe style="border: 0px" src="reports/internationalsummit.pdf" width="100%" height="460px" frameborder="0" allowfullscreen=""></iframe>
-
+-->
         <h2>MUNDP 2018 Introduction Document</h2>
         <hr>
 
-        <iframe style="border: 0px" src="https://indd.adobe.com/view/9f199419-0c8f-48e7-af24-344975a55620" width="100%" height="460px" frameborder="0" allowfullscreen=""></iframe>
+        <iframe style="border: 0px" src="N/A" width="100%" height="460px" frameborder="0" allowfullscreen=""></iframe>
 
     </div> <!-- /container -->
 

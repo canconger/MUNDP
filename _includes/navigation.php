@@ -18,7 +18,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-map-signs" aria-hidden="true"></i> Conference <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="<?= URL ?>executive-committee">Executive Committe</a></li>
+                <li><a href="<?= URL ?>executive-committee">Executive Committee</a></li>
                 <li><a href="<?= URL ?>general-committee">General Committee</a></li>
                 <li role="separator" class="divider"></li>
                 <li><a href="<?= URL ?>schedule">Schedule</a></li>

@@ -33,24 +33,26 @@
     <div class="jumbotron executive">
         <div class="container">
             <h1>APQ</h1>
-			<h2>Advisory Panel on the Question of Central Asia</h2>
+			<h2>Advisory Panel on the Question of Central Africa</h2>
         </div>
     </div>
 
     <div class="container">
 		<h3>Committee Description</h3>
-        <p>
-			The Advisory Panel is an organ that focuses on one regional question during the entire conference. They are the advisory organ to the Secretary General. The committee submits clauses that need to be passed unanimously. If the vote is not unanimous, the clause is tabled to be lobbied on again. After three rounds of debating and lobbying, all of the passed clauses form a resolution called the joint communique that will be presented to the Secretary General. It has both countries and organizations that are relevant to the issue at hand. The parties are called “experts”, rather than delegates. Advisory Panel experts debate clauses in an ad-hoc structure,  just like the Security Council. No one has veto power in the Advisory Panel. This panel is designed for experienced MUN students from participating schools.
+    <p>
+      As the advisory organ to the Secretary-General of the United Nations, the Advisory Panel is a committee comprised of participating parties called “experts”. The committee focuses on a specific sub-region in accordance to the general theme of the conference and follows an ad-hoc structure with three rounds of lobbying. The aim is to pass each clause unanimously and without a unanimous vote, a clause is considered as tabled, left to the next round of debate and lobbied on again, with the procedure repeating itself until the end of the third round of debate.
 			<br><br>
-			The European and Central Asian countries face interrelated human development challenges that consist of a lack of job opportunities, human rights issues, organized crimes across the borders, water scarcity, poverty and a lack of regional cooperation. The vulnerability caused by these challenges leaves the countries of the region struggling with economic growth and widening income inequalities along with weak democratic practices.
+      All passed clauses are then collected to form a resolution called a “joint communiqué”, which is presented to the Secretary-General at the end of the conference. Experienced students are encouraged to apply to the Advisory Panel since its procedure allows for a heightened level of debate fit for seasoned MUN students.
+      <br><br>
+      This year, the Advisory Panel is focusing on Central Africa: a region contaminated by conflict, the risk of the depletion of natural resources, corruption and famine. This core region of the African continent faces many developmental challenges which the experts of the Advisory Panel are expected to help solve.
 		</p>
 
 		<h3>Agenda</h3>
-		<p>Terrorism and political violence in Uzbekistan</p>
-		<p>Alleviating ethnic based violence </p>
-		<p>Finding new and sustainable water sources in order to eliminate water scarcity</p>
+		<p>The agenda is not yet available.</p>
 
     <h3>Chair Reports</h3>
+    <p>Chair reports are not yet available.</p>
+    <!--
     <p><strong>Report 1</strong> <i>by Defne Genç</i><br>
       Terrorism and Political Violence in Uzbekistan<br>
       <a href="../reports/APQ 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
@@ -60,7 +62,7 @@
     <p><strong>Report 3</strong> <i>by Mehmed Can Olgaç</i><br>
       Alleviating Ethnic Based Violence<br>
       <a href="../reports/APQ 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-
+-->
 
     </div> <!-- /container -->
 
