@@ -46,7 +46,13 @@
 		</p>
 
 		<h3>Agenda</h3>
-		<p>The agenda is not yet available.</p>
+		<p>
+      Eliminating gender inequity in educational fields of science and engineering
+      <br><br>
+      Developing Science, Technology and Innovation (STI)
+      <br><br>
+      The Preservation of UNESCO World Heritage Sites
+    </p>
 
     <h3>Chair Reports</h3>
     <p>Chair reports are not yet available.</p>

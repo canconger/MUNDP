@@ -46,7 +46,13 @@
 			</p>
 
 		<h3>Agenda</h3>
-		<p>The agenda is not yet available.</p>
+		<p>
+      Advancing water managements in accordance to SDG 6
+      <br><br>
+      Measures to establish stability and a secure management for cryptocurrencies
+      <br><br>
+      Endorsing a greener economy through improved economic policies
+    </p>
 
     <h3>Chair Reports</h3>
     <p>Chair reports are not yet available.</p>

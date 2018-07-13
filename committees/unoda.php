@@ -48,7 +48,13 @@
 		  </p>
 
 		<h3>Agenda</h3>
-		<p>The agenda is not yet available.</p>
+		<p>
+      Measures to abolish landmines and cluster munitions
+      <br><br>
+      Implementation of The Small Arms Survey
+      <br><br>
+      Prevention of diversion of weapons by extremist groups in the Lake Chad Basin
+    </p>
 
     <h3>Chair Reports</h3>
       <p>Chair reports are not yet available.</p>

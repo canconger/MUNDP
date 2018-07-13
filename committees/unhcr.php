@@ -46,7 +46,13 @@
 		</p>
 
 		<h3>Agenda</h3>
-		    <p>The agenda is not yet available.</p>
+		    <p>
+          Measures to resolve the South Sudan refugee crisis
+          <br><br>
+          Measures to prevent the spread of famine and disease in conflict zones
+          <br><br>
+          Stabilising health care and water systems in host countries
+        </p>
 
     <h3>Chair Reports</h3>
       <p>Chair reports are not yet available.</p>

@@ -46,7 +46,13 @@
 		</p>
 
 		<h3>Agenda</h3>
-		<p>The agenda is not yet available.</p>
+		<p>
+      Creating an international framework to achieve SDG 8
+      <br><br>
+      Implementation of the African Continental Free Trade Area (CFTA) Agreement
+      <br><br>
+      Measures to develop the financing of the World Food Programme (WFP)
+    </p>
 
     <h3>Chair Reports</h3>
       <p>Chair reports are not yet available.</p>

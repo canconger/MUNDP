@@ -46,7 +46,13 @@
 		</p>
 
 		<h3>Agenda</h3>
-		<p>The agenda is not yet available.</p>
+		<p>
+      Ensuring freedom of speech in the media in situations of armed conflict
+      <br><br>
+      Preventing the recruitment of child soldiers
+      <br><br>
+      Measures to eradicate all forms of slavery
+    </p>
 
     <h3>Chair Reports</h3>
       <p>Chair reports are not yet available.</p>

@@ -48,7 +48,13 @@
 		</p>
 
 		<h3>Agenda</h3>
-    <p>The agenda is not yet available.</p>
+    <p>
+      Preventing illicit poaching and trafficking in wildlife
+      <br><br>
+      Establishing anti-desertification with The Great Green Wall Initiative
+      <br><br>
+      Advancing environmental governance in order to achieve sustainability
+    </p>
 
     <h3>Chair Reports</h3>
       <p>Chair reports are not yet available.</p>
