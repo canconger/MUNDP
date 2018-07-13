@@ -40,9 +40,9 @@
     <div class="container">
 		<h3>Committee Description</h3>
       <p>
-      Established in January 1998 the United Nations Office for Disarmament Affairs (UNODA) was a part of the former Secretary general Kofi Annan’s effort to reform the United Nations. UNODA promotes disarmament through dialogue confidence-building on military matters and regional disarmament efforts. UNODA actively works with other UN bodies such as the General Assembly First Committee and Disarmament Commission also heading various projects in Africa.
+      Established in January 1998 the United Nations Office for Disarmament Affairs (UNODA) promotes disarmament through dialogue confidence-building on military matters and regional disarmament efforts. UNODA actively works with other UN bodies such as the General Assembly First Committee and Disarmament Commission also heading various projects in Africa.
 			<br><br>
-			UNODA has numerous regional centres, The United Nations Regional Center for Peace and Disarmament in Africa (UNREC) has been functioning as an organization which aims to maintain peace and security regarding disarmament in Africa. UNREC has organized various sub-regional workshops to enhance the process of disarmament in Africa. One of them concerning the Lake Chad Basin Countries which was held in 6-7 November 2017 in N’Djamena, Chad.  One of the  national workshops were to prevent diversion of arms to terrorist groups, held in 9-10 November 2017 in Abuja, Nigeria.
+      UNODA has numerous regional centres, The United Nations Regional Center for Peace and Disarmament in Africa (UNREC) has been functioning as an organization which aims to maintain peace and security regarding disarmament in Africa. UNREC has organized various sub-regional workshops to enhance the process of disarmament in Africa. One of them concerning the Lake Chad Basin Countries which was held in 6-7 November 2017 in N’Djamena, Chad.  One of the  national workshops were to prevent diversion of arms to terrorist groups, held in 9-10 November 2017 in Abuja, Nigeria.
       <br><br>
       UNODA also heads efforts to achieve the proliferation of weapons of mass destructions such as nuclear weapons and implementation of the Arms Trade Treaty internationally. Overall UNODA is crucial for maintaining the security and stability of the African region.
 		  </p>
