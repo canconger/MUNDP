@@ -54,7 +54,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-location-arrow" aria-hidden="true"></i> Venue <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="<?= URL ?>kocschool">The Koç School</a></li>
-                <li><a href="<?= URL ?>istanbul">İstanbul</a></li>
+                <li><a href="<?= URL ?>istanbul">Istanbul</a></li>
               </ul>
             </li>
 
