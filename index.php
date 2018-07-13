@@ -72,7 +72,7 @@
             </div>
             <div class="col-md-10 col-xs-12">
                 <h1>XIX. Annual Session of MUNDP</h1>
-                <p>Welcome to the XIX. annual session of Model United Nations Development Programme. It will be held from 21nd to 24th of February, 2019 in Istanbul, Turkey. This year, with the hopes of organizing an astonishing conference, our Executive Board and General Committee of MUNDP 2019 are getting ready to host more than 750 students. Apply now and become a part of the memorable MUNDP experience!</p>
+                <p>Welcome to the XIX. annual session of Model United Nations Development Programme. It will be held from 21st to 24th of February, 2019 in Istanbul, Turkey. This year, with the hopes of organizing an astonishing conference, our Executive Board and General Committee of MUNDP 2019 are getting ready to host more than 750 students. Apply now and become a part of the memorable MUNDP experience!</p>
 			      </div>
         </div>
       </div>
