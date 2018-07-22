@@ -178,7 +178,7 @@
 			<h2>Africa</h2>
 		</div>
 
-		<br><br>
+		<br>
     <a href="https://sustainabledevelopment.un.org/sdgs" target="_blank"><img src="img/global-goals-logo.jpg" class="img-responsive"></a>
     <br><br>
 

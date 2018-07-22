@@ -32,13 +32,13 @@ body {
 .africa {
     background-image: url(../img/backgrounds/africa.jpg);
     background-position-x: center;
-    background-position-y: -55px;
+    background-position-y: -65px;
     background-repeat: no-repeat;
     background-size: cover;
     color: ghostwhite;
     text-shadow: #000 1px 0 10px;
     padding-top: 20px;
-    padding-bottom: 5px;
+    padding-bottom: 20px;
 }
 
 /* Navigation */
