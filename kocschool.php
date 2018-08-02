@@ -29,22 +29,22 @@
   <body>
 
     <? include("_includes/navigation.php"); ?>
-    
+
     <div class="jumbotron venue">
         <div class="container">
             <h1>The Koç School</h1>
         </div>
     </div>
-      
+
     <div class="container padding-bottom-24">
         <h2>About The Koç School</h2>
         <hr>
-        
+
         <p>VKV Koç Özel Lisesi or The Koç School in English, is located on the Asian side of İstanbul, Turkey. The school is a subsidiary of Vehbi Koç Foundation, whose founding father was one of the most celebrated philanthropists and entrepreneurs in Turkey, Vehbi Koç, and was given the World Family Planning Award by the United Nations Secretary General Boutros Boutros-Ghali in 1994.</p>
         <p>The School itself has been offering International Baccalaureate Diploma Programme to its students since 1994 and recently started offering IB Middle Years Programme. Every year, the senior students receive admissions from the most prominent colleges and universities in the United States and United Kingdom, including Harvard, Princeton, Stanford, Oxford, Cambridge, Yale, University of Chicago, Columbia and MIT.</p>
-        <p class="padding-bottom-24">Koç School has been hosting MUNDP since 2001 in its campus that embraces the beautiful nature, far away from the commotion in İstanbul, and one of the best educational facilities in Turkey.</p>
+        <p class="padding-bottom-24">Koç School has been hosting MUNDP since 2001 in its campus that embraces the beautiful nature, far away from the commotion in Istanbul, and one of the best educational facilities in Turkey.</p>
     </div> <!-- /container -->
-     
+
 	<div class="padding-bottom-24">
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
@@ -101,12 +101,12 @@
       </a>
     </div>
 	</div>
-	
+
 	<div class="container padding-bottom-24">
-		
+
         <h2>The Campus Plan</h2>
         <hr>
-        
+
 		<div class="row">
 			<div class="col-xs-12 col-md-9">
 				<img src="../img/schoolplan.png" class="img-responsive">
@@ -151,9 +151,9 @@
 				</ol>
 			</div>
 		</div>
-		
+
     </div> <!-- /container -->
-      
+
     <? include("_includes/footer.php"); ?>
 
     <!-- Bootstrap core JavaScript
