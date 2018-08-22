@@ -40,13 +40,15 @@
     <div class="container">
 		<h3>Committee Description</h3>
     <p>
-          After over a decade of proudly hosting The Historical Committee, MUNDP 2019 presents The Second Boer War, the battle of The British Empire and The Boers. The First Boer War, also known as the Transvaal Rebellion (1880-1881), arised against the Royal annexation of 1877. The First Boer War may also be recalled as the South African War, where all the citizens of South Africa, white and black, were principally affected.
+      After over a decade of proudly hosting The Historical Committee, MUNDP 2019 presents The Second Boer War, the battle of The British Empire and The Boers. The First Boer War, also known as the Transvaal Rebellion (1880-1881), arised against the Royal annexation of 1877. The First Boer War may also be recalled as the South African War, where all the citizens of South Africa, white and black, were principally affected.
 			<br><br>
       From the year 1835 to 1845, 15.000 Voortrekkers (the Dutch) immigrated from the British Cape Colony and walked across the Orange River into South Africa. With the “Great Trek”, where a British policy was strongly rejected, two independent republics were established and recognized by Great Britain in the Sand River -1852- and Bloefontein -1854- Conventions; “The Transvaal” and “The Orange Free State”.
+      <br><br>
+      Tensions escalated in the area for the control of precious mining industries in the area and the British will to incorporate the Transvaal and the Orange Free State into a federation under the British control. The British government rejected the ultimatum and incentivated by the lack of British troops in the area Orange Free State and Transvaal declared war to the British causing the Second Boer War.
 		</p>
 
 		<h3>Agenda</h3>
-		<p>The agenda is not yet available.</p>
+		<p>The Second Boer War (The Boers vs The Royalists)</p>
 
 
     <h3>Chair Reports</h3>

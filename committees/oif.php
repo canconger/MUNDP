@@ -44,7 +44,13 @@
 		</p>
 
 		<h3>Sujets</h3>
-      <p>L'agenda n'est pas encore disponible.</p>
+      <p>
+        Réduire le travail des enfants en Afrique sub-saharienne
+        <br><br>
+        Lutter contre la corruption des politiques en Afrique du Sud
+        <br><br>
+        Combattre l'injustice de la répresentation de l'Afrique dans les médias occidentaux
+      </p>
 
     <h3>Rapport de Recherche</h3>
     <p>Les rapports de recherche ne sont pas encore disponibles.</p>

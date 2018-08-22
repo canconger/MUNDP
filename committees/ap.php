@@ -48,7 +48,13 @@
 		</p>
 
 		<h3>Agenda</h3>
-		<p>The agenda is not yet available.</p>
+		<p>
+      Combating maritime insecurity in the Gulf of Guinea
+      <br><br>
+      Preserving the Central African rainforest from exploitation of resources
+      <br><br>
+      Measures to alleviate radicalism by amending poor governance
+    </p>
 
     <h3>Chair Reports</h3>
     <p>Chair reports are not yet available.</p>

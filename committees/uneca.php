@@ -40,15 +40,19 @@
     <div class="container">
 		<h3>Committee Description</h3>
     <p>
-      The United Nations Economic Commission for Africa (UNECA) is entering its 60th year after being established in 1958 by the Economic and Social Council (ECOSOC) of the United Nations (UN).
-			<br><br>
-			Comprised of 54 member States, UNECA promotes economic and social advancement in its member States as well as establishing international cooperation with a special focus on Africa. UNECA functions on both a regional and sub-regional basis, making it eligible to manage resources and strive for economic and social development, gender equality, development in innovation and technology and governance in the African continent.
+      The United Nations Economic Commission for Africa (UNECA) is entering its 60th year after being established in 1958 by the Economic and Social Council (ECOSOC) of the United Nations (UN). Comprised of 54 member States, UNECA promotes economic and social advancement in its member States as well as establishing international cooperation with a special focus on Africa. UNECA functions on both a regional and sub-regional basis, making it eligible to manage resources and strive for economic and social development, gender equality, development in innovation and technology and governance in the African continent.
 			<br><br>
       UNECA follows and ad-hoc debate structure and hosts the President or Prime Minister of each country, with the delegates of the committee representing these individuals. The delegates will hence participate in a debate that functions clause-by-clause rather than debating on resolutions as the leader of their respective member state.
 		</p>
 
 		<h3>Agenda</h3>
-		<p>The agenda is not yet available.</p>
+		<p>
+      Creating an international framework to achieve SDG 8
+      <br><br>
+      Implementation of the African Continental Free Trade Area (CFTA) Agreement
+      <br><br>
+      Measures to develop the financing of the World Food Programme (WFP)
+    </p>
 
     <h3>Chair Reports</h3>
       <p>Chair reports are not yet available.</p>

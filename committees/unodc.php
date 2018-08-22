@@ -46,7 +46,13 @@
 		</p>
 
 		<h3>Agenda</h3>
-		<p>The agenda is not yet available.</p>
+		<p>
+      Measures to prevent human trafficking and smuggling of migrants
+      <br><br>
+      Tackling the issue of cocaine trafficking in West Africa
+      <br><br>
+      Alleviating the advancement of transnational organized crime
+    </p>
 
     <h3>Chair Reports</h3>
     <p>Chair reports are not yet available.</p>

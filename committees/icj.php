@@ -46,7 +46,7 @@
 		</p>
 
 		<h3>Agenda</h3>
-		<p>The agenda is not yet available.</p>
+		<p>Armed Activities on the Territory of the Congo (Democratic Republic of the Congo v. Rwanda)</p>
 
     </div> <!-- /container -->
 

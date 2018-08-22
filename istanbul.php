@@ -108,7 +108,7 @@
         <h2>Attractions</h2>
         <hr>
 
-        <p>The most popular attractions in the city are Hagia Sophia Museum, Sultanahmet District, Basilica Cistern, Suleymaniye Mosque, Blue Mosque, Topkapi Palace and Grand Bazaar. You can take a look at the popular places to visit in İstanbul on Tripadvisor. MUNDP 2017 attendees will be taking a ferry tour in the bosphorus.</p>
+        <p>The most popular attractions in the city are Hagia Sophia Museum, Sultanahmet District, Basilica Cistern, Suleymaniye Mosque, Blue Mosque, Topkapi Palace and Grand Bazaar. You can take a look at the popular places to visit in İstanbul on Tripadvisor.</p>
 
         <p><a href="https://www.tripadvisor.com/Attractions-g293974-Activities-Istanbul.html" target="_blank">View the full list on Tripadvisor</a></p>
 

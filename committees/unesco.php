@@ -40,13 +40,19 @@
     <div class="container">
 		<h3>Committee Description</h3>
     <p>
-      UNESCO is the United Nations Educational, Scientific and Cultural organization. UNESCO aims to establish accord  through international collaboration in Education, the Sciences and Culture. UNESCO's programs contribute to the achievement of the Sustainable Development Goals defined in Agenda 2030, adopted by the UN General Assembly in 2015. Through its field offices, UNESCO works on different approaches, programmes and enterprises in cooperation with global authorities and persons. In addition, UNESCO runs a numerous amount of functional institutes and centres.
+      UNESCO is the United Nations Educational, Scientific and Cultural Organization which aims to establish accord through international collaboration in Education, the Sciences and Culture. UNESCO's programs contribute to the achievement of the Sustainable Development Goals defined in Agenda 2030, adopted by the UN General Assembly in 2015. Through its field offices, UNESCO works on different approaches, programmes and enterprises in cooperation with global authorities and persons. In addition, UNESCO runs a numerous amount of functional institutes and centres.
 			<br><br>
       UNESCO has prioritized projects with with the African region for a long time and has a great history of collaboration with Africa as well as prioritizing the region. For the medium term period 2014-2021, Member States have confirmed the two Global Priorities of UNESCO: Priority Africa and Gender Equality. Based on consultations with and decisions of Member States, UNESCO’s action for Africa will focus on two major areas during the medium term period 2014-2021, which are; “Building peace by building inclusive, peaceful and resilient societies” and “Building institutional capacities for sustainable development and poverty eradication.”
 		</p>
 
 		<h3>Agenda</h3>
-		<p>The agenda is not yet available.</p>
+		<p>
+      Eliminating gender inequity in educational fields of science and engineering
+      <br><br>
+      Developing Science, Technology and Innovation (STI)
+      <br><br>
+      The Preservation of UNESCO World Heritage Sites
+    </p>
 
     <h3>Chair Reports</h3>
     <p>Chair reports are not yet available.</p>
