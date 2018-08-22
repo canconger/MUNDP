@@ -7982,7 +7982,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
     </div>
 
     <div class="container">
-        <? /* <div class="row">
+        <?  <div class="row">
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
               <? if(!$regisetting['school']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>School Registration</strong></h4><small>Registration is closed.</small></a>
@@ -8025,10 +8025,10 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
                 <a href="press" class="btn btn-primary btn-lg btn-block"><h4><strong>Press Registration</strong></h4><small>Registration is open until December 31st.</small></a>
               <? } ?>
             </div>
-        </div> */?>
+        </div> ?>
 
-<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdjJEhXygDquXdy4mxKvy2SF85ginR_1UppBxJC9NYCXzvm2Q/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
--->
+/* <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdjJEhXygDquXdy4mxKvy2SF85ginR_1UppBxJC9NYCXzvm2Q/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> */
+
         <div class="alert alert-success">
           <h4>Check Your Application Status</h4>
           <p>You can check your application status from this form.</p><br>
