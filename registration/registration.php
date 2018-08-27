@@ -7977,12 +7977,11 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
     <div class="jumbotron executive">
         <div class="container">
-            <h1>Registration Closed</h1>
+            <h1>Registrations are Open</h1>
         </div>
     </div>
 
     <div class="container">
-        <? /*
           <div class="row">
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
               <? if(!$regisetting['school']) { ?>
@@ -8026,9 +8025,10 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
                 <a href="press" class="btn btn-primary btn-lg btn-block"><h4><strong>Press Registration</strong></h4><small>Registration is open until December 31st.</small></a>
               <? } ?>
             </div>
-        </div> */ ?>
+        </div>
 
-<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdjJEhXygDquXdy4mxKvy2SF85ginR_1UppBxJC9NYCXzvm2Q/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> -->
+<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdjJEhXygDquXdy4mxKvy2SF85ginR_1UppBxJC9NYCXzvm2Q/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+-->
 
         <div class="alert alert-success">
           <h4>Check Your Application Status</h4>
