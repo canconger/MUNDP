@@ -2,6 +2,9 @@
 <?
     $countriesjson = file_get_contents("../secure/json/countries.json");
     $countries = json_decode($countriesjson,true);
+
+	$schools = DB::query("SELECT * FROM mydp_school");
+	$committes = DB::query("SELECT * FROM mydp_committees");
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -14,7 +17,7 @@
     <meta name="keywords" content="<?= KEYWORDS ?>">
     <link rel="icon" href="<?= URL ?>favicon.ico">
 
-    <title><?= TITLE ?>: School Registration</title>
+    <title><?= TITLE ?>: Student Officer Registration</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -36,8 +39,7 @@
 
     <? include("../_includes/navigation.php"); ?>
 
-
-    <script type="text/javascript" src="https://form.jotform.com/jsform/82411119141949"></script>
+    <script type="text/javascript" src="https://form.jotform.com/jsform/82424969460970"></script>
 
     <? include("../_includes/footer.php"); ?>
 
