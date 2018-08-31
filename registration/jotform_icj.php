@@ -4,7 +4,9 @@
     $countries = json_decode($countriesjson,true);
 
 	$schools = DB::query("SELECT * FROM mydp_school");
-	$committes = DB::query("SELECT * FROM mydp_committees");
+	$positions = DB::query("SELECT * FROM mydp_positions");
+
+	$icjposs = array(4,6,7,9,10);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -17,7 +19,7 @@
     <meta name="keywords" content="<?= KEYWORDS ?>">
     <link rel="icon" href="<?= URL ?>favicon.ico">
 
-    <title><?= TITLE ?>: Student Officer Registration</title>
+    <title><?= TITLE ?>: ICJ Registration</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -33,16 +35,14 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <script src='https://www.google.com/recaptcha/api.js'></script>
-
   </head>
 
   <body>
 
     <? include("../_includes/navigation.php"); ?>
 
-    <script type="text/javascript" src="https://form.jotform.com/jsform/82424969460970"></script>
+    <script type="text/javascript" src="https://form.jotform.com/jsform/82426400260950"></script>
 
     <? include("../_includes/footer.php"); ?>
-
   </body>
 </html>
