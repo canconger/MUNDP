@@ -39,7 +39,7 @@
 
     <? include("../_includes/navigation.php"); ?>
 
-    
+
 
     <? include("../_includes/navigation.php"); ?>
 

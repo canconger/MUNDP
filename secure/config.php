@@ -9,7 +9,7 @@ define('RECAPTCHA_SECRET','6Le4dh8TAAAAAOkR9RbJCtUZfX6ux2WpZ7TD8F79');
 define('RECAPTCHA_KEY','6Le4dh8TAAAAAAgTlWU8jjntiHDYShEskliSxCW-');
 
 /* HTML Variables */
-define('TITLE','MUNDP 2018');
+define('TITLE','MUNDP 2019');
 define('DESCRIPTION','MUNDP is an annual MUN conference organized by The Koç School. This year we will be hosting 19th session of MUNDP.');
 define('AUTHOR','Berk Alp Yakıcı');
 define('KEYWORDS','Model United Nations Development Programme 2019, UNDP, MUNDP, MUNDP\'19, Koc School, Koç School, MODELUNDP, VKV Koç Özel Lisesi, Model Birleşmiş Milletler Geliştirme Programı, Birleşmiş Milletler Geliştirme Programı');
