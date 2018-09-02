@@ -1,8 +1,5 @@
 <? include("../secure/loader.php"); ?>
-<?
-    $countriesjson = file_get_contents("../secure/json/countries.json");
-    $countries = json_decode($countriesjson,true);
-?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>

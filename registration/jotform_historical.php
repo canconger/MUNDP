@@ -1,13 +1,5 @@
 <? include("../secure/loader.php"); ?>
-<?
-    $countriesjson = file_get_contents("../secure/json/countries.json");
-    $countries = json_decode($countriesjson,true);
 
-	$schools = DB::query("SELECT * FROM mydp_school");
-	$positions = DB::query("SELECT * FROM mydp_positions");
-
-	$icjposs = array(4,6,7,9,10);
-?>
 <!DOCTYPE html>
 <html lang="en">
   <head>

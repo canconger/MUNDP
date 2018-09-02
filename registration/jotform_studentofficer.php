@@ -1,11 +1,5 @@
 <? include("../secure/loader.php"); ?>
-<?
-    $countriesjson = file_get_contents("../secure/json/countries.json");
-    $countries = json_decode($countriesjson,true);
 
-	$schools = DB::query("SELECT * FROM mydp_school");
-	$committes = DB::query("SELECT * FROM mydp_committees");
-?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
