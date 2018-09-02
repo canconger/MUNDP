@@ -39,9 +39,9 @@
 
     <? include("../_includes/navigation.php"); ?>
 
+    <script type="text/javascript" src="https://form.jotform.com/jsform/82444108360956"></script>
 
-
-    <? include("../_includes/navigation.php"); ?>
+    <? include("../_includes/footer.php"); ?>
 
   </body>
 </html>
