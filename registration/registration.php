@@ -8023,7 +8023,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
               <? if(!$regisetting['press']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>Press Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
-                <a href="press" class="btn btn-primary btn-lg btn-block"><h4><strong>Press Registration</strong></h4><small>Registration is open until December 31st.</small></a>
+                <a href="press" class="btn btn-primary btn-lg btn-block"><h4><strong>Press Registration</strong></h4><small>Registration is open until January 6th.</small></a>
               <? } ?>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
