@@ -7995,28 +7995,28 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
               <? if(!$regisetting['stoff']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>Student Officer Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
-                <a href="studentofficer" class="btn btn-primary btn-lg btn-block"><h4><strong>Student Officer Registration</strong></h4><small>Registration is open until November 12th.</small></a>
+                <a href="studentofficer" class="btn btn-primary btn-lg btn-block"><h4><strong>Student Officer Registration</strong></h4><small>Registration is open until November 11th.</small></a>
               <? } ?>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
               <? if(!$regisetting['icj']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>ICJ Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
-                <a href="icj" class="btn btn-primary btn-lg btn-block"><h4><strong>ICJ Registration</strong></h4><small>Registration is open until December 10th.</small></a>
+                <a href="icj" class="btn btn-primary btn-lg btn-block"><h4><strong>ICJ Registration</strong></h4><small>Registration is open until November 25th.</small></a>
               <? } ?>
             </div>
 			      <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
               <? if(!$regisetting['oif']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>OIF Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
-                <a href="oif" class="btn btn-primary btn-lg btn-block"><h4><strong>OIF Registration</strong></h4><small>Registration is open until December 10th.</small></a>
+                <a href="oif" class="btn btn-primary btn-lg btn-block"><h4><strong>OIF Registration</strong></h4><small>Registration is open until November 25th.</small></a>
               <? } ?>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
               <? if(!$regisetting['historical']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>Historical Committee Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
-                <a href="historical" class="btn btn-primary btn-lg btn-block"><h4><strong>Historical Committee Registration</strong></h4><small>Registration is open until December 10th.</small></a>
+                <a href="historical" class="btn btn-primary btn-lg btn-block"><h4><strong>Historical Committee Registration</strong></h4><small>Registration is open until November 25th.</small></a>
               <? } ?>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
@@ -8024,6 +8024,13 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>Press Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
                 <a href="press" class="btn btn-primary btn-lg btn-block"><h4><strong>Press Registration</strong></h4><small>Registration is open until December 31st.</small></a>
+              <? } ?>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
+              <? if(!$regisetting['press']) { ?>
+                <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>AP Registration</strong></h4><small>Registration is closed.</small></a>
+              <? } else { ?>
+                <a href="advisorypanel" class="btn btn-primary btn-lg btn-block"><h4><strong>AP Registration</strong></h4><small>Registration is open until November 25th.</small></a>
               <? } ?>
             </div>
         </div>
@@ -8045,7 +8052,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
         </div>
       -->
         <br>
- 
+
         <h3>About Registration and MyDP Service</h3>
         <hr>
         <p>After registration, in order to verify your contact information, a validation e-mail will be sent by us. After verification of your participation to MUNDP, you will be able to access the “MyDP” service. On your MyDP page, you will be able to enroll your delegates and advisors. In order to keep updated, please use give us the e-mail address that you check frequently. Your contacts will be protected by the MUNDP and will not be shared with any third parties.</p>
