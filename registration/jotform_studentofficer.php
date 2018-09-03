@@ -11,7 +11,7 @@
     <meta name="keywords" content="<?= KEYWORDS ?>">
     <link rel="icon" href="<?= URL ?>favicon.ico">
 
-    <title><?= TITLE ?>: OIF Registration</title>
+    <title><?= TITLE ?>: Student Officer Registration</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -27,22 +27,16 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <script src='https://www.google.com/recaptcha/api.js'></script>
+
   </head>
 
   <body>
-      <? include("../_includes/navigation.php"); ?>
 
+    <? include("../_includes/navigation.php"); ?>
 
+    <script type="text/javascript" src="https://form.jotform.com/jsform/82424969460970"></script>
 
+    <? include("../_includes/footer.php"); ?>
 
-      <script type="text/javascript" src="https://form.jotform.com/jsform/82444631460958"></script>
-      <? include("../_includes/footer.php"); ?>
-
-
-
-      <script src="../js/jquery.min.js"></script>
-      <script src="../js/bootstrap.min.js"></script>
-      <script src="../js/jquery.form.min.js"></script>
-      <script src="../js/sweetalert.min.js"></script>
-    </body>
-  </html>
+  </body>
+</html>

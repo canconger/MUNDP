@@ -317,11 +317,11 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/sweetalert.min.js"></script>
 
-    <!-- <script>
+    <script>
     $(document).ready(function(){
       swal({
         title: "Register Now!",
-        text: " Register and become a part of MUNDP 2018 ",
+        text: " Register and become a part of MUNDP 2019 ",
         type: "warning",
         showCancelButton: true,
         confirmButtonClass: "btn-success",
@@ -334,6 +334,7 @@
     })
 
     </script>
+    <!--
 	<script>
 	function getTimeRemaining(endtime) {
 	  var t = Date.parse(endtime) - Date.parse(new Date());

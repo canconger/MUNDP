@@ -737,7 +737,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
                       <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 24px;Margin-bottom: 24px;">
 
-          <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Thanks for your Application!</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">You have succesfully filled the Registration Form for MUNDP 2017.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17"></p>
+          <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Thanks for your Application!</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">You have succesfully filled the Registration Form for MUNDP 2019.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17"></p>
               </div>
 
                     </div>
@@ -1452,7 +1452,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
                       <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 24px;Margin-bottom: 24px;">
 
-          <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Dear advisor,</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Your student '.$regd["fullname"].' has applied for a position in MUNDP 2017. We kindly ask you to send a recommendation letter to <a href="mailto:recommendation@modelundp.org">recommendation@modelundp.org</a> by Dec. 18 2016. Be reminded that an application without a recommendation letter will not be taken under consideration by the Secretariat.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Also, if you have more than one student applying for the same position, you should include a ranking of these students in terms of their general performance at the bottom of the letter.
+          <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Dear advisor,</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Your student '.$regd["fullname"].' has applied for a position in MUNDP 2019. We kindly ask you to send a recommendation letter to <a href="mailto:recommendation@modelundp.org">recommendation@modelundp.org</a> by Dec. 18 2016. Be reminded that an application without a recommendation letter will not be taken under consideration by the Secretariat.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Also, if you have more than one student applying for the same position, you should include a ranking of these students in terms of their general performance at the bottom of the letter.
           </p>
               </div>
 
@@ -2308,7 +2308,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
                       <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 24px;Margin-bottom: 24px;">
 
-          <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Thanks for your Application!</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">You have succesfully filled the Registration Form for MUNDP 2017.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17"></p>
+          <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Thanks for your Application!</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">You have succesfully filled the Registration Form for MUNDP 2019.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17"></p>
               </div>
 
                     </div>
@@ -3022,7 +3022,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
                           <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 24px;Margin-bottom: 24px;">
 
-              <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Dear advisor,</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Your student '.$regd["fullname"].' has applied for a position in MUNDP 2017. We kindly ask you to send a recommendation letter to <a href="mailto:recommendation@modelundp.org">recommendation@modelundp.org</a> by Dec. 18 2016. Be reminded that an application without a recommendation letter will not be taken under consideration by the Secretariat.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Also, if you have more than one student applying for the same position, you should include a ranking of these students in terms of their general performance at the bottom of the letter.
+              <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Dear advisor,</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Your student '.$regd["fullname"].' has applied for a position in MUNDP 2019. We kindly ask you to send a recommendation letter to <a href="mailto:recommendation@modelundp.org">recommendation@modelundp.org</a> by Dec. 18 2016. Be reminded that an application without a recommendation letter will not be taken under consideration by the Secretariat.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Also, if you have more than one student applying for the same position, you should include a ranking of these students in terms of their general performance at the bottom of the letter.
               </p>
                   </div>
 
@@ -3873,7 +3873,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
                       <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 24px;Margin-bottom: 24px;">
 
-          <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Thanks for your Application!</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">You have succesfully filled the Registration Form for MUNDP 2017.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17"></p>
+          <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Thanks for your Application!</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">You have succesfully filled the Registration Form for MUNDP 2019.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17"></p>
               </div>
 
                     </div>
@@ -4588,7 +4588,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
                               <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 24px;Margin-bottom: 24px;">
 
-                  <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Dear advisor,</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Your student '.$regd["fullname"].' has applied for a position in MUNDP 2017. We kindly ask you to send a recommendation letter to <a href="mailto:recommendation@modelundp.org">recommendation@modelundp.org</a> by Dec. 18 2016. Be reminded that an application without a recommendation letter will not be taken under consideration by the Secretariat.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Also, if you have more than one student applying for the same position, you should include a ranking of these students in terms of their general performance at the bottom of the letter.
+                  <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Dear advisor,</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Your student '.$regd["fullname"].' has applied for a position in MUNDP 2019. We kindly ask you to send a recommendation letter to <a href="mailto:recommendation@modelundp.org">recommendation@modelundp.org</a> by Dec. 18 2016. Be reminded that an application without a recommendation letter will not be taken under consideration by the Secretariat.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Also, if you have more than one student applying for the same position, you should include a ranking of these students in terms of their general performance at the bottom of the letter.
                   </p>
                       </div>
 
@@ -5444,7 +5444,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
                       <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 24px;Margin-bottom: 24px;">
 
-          <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Thanks for your Application!</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">You have succesfully filled the Registration Form for MUNDP 2017.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17"></p>
+          <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Thanks for your Application!</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">You have succesfully filled the Registration Form for MUNDP 2019.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17"></p>
               </div>
 
                     </div>
@@ -6159,7 +6159,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
                               <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 24px;Margin-bottom: 24px;">
 
-                  <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Dear advisor,</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Your student '.$regd["fullname"].' has applied for a position in MUNDP 2017. We kindly ask you to send a recommendation letter to <a href="mailto:recommendation@modelundp.org">recommendation@modelundp.org</a> by Dec. 1 2016. Be reminded that an application without a recommendation letter will not be taken under consideration by the Secretariat.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Also, if you have more than one student applying for the same position, you should include a ranking of these students in terms of their general performance at the bottom of the letter.
+                  <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Dear advisor,</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Your student '.$regd["fullname"].' has applied for a position in MUNDP 2019. We kindly ask you to send a recommendation letter to <a href="mailto:recommendation@modelundp.org">recommendation@modelundp.org</a> by Dec. 1 2016. Be reminded that an application without a recommendation letter will not be taken under consideration by the Secretariat.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Also, if you have more than one student applying for the same position, you should include a ranking of these students in terms of their general performance at the bottom of the letter.
                   </p>
                       </div>
 
@@ -7011,7 +7011,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
                       <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 24px;Margin-bottom: 24px;">
 
-          <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Thanks for your Application!</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">You have succesfully filled the Registration Form for MUNDP 2017.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17"></p>
+          <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Thanks for your Application!</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">You have succesfully filled the Registration Form for MUNDP 2019.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17"></p>
               </div>
 
                     </div>
@@ -7820,7 +7820,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
                       <div style="Margin-left: 20px;Margin-right: 20px;Margin-top: 24px;Margin-bottom: 24px;">
 
-          <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Thanks for your School Application!</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">You have succesfully filled the Registration Form for MUNDP 2017. We will turn back to you within 48 hours.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">If you do not hear from us in the given time span, please contact Deputy Secretary General of Liaison G&#246;ksu &#350;im&#351;ek (Ms.)&nbsp;at liaison@modelundp.org</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Rregistration form for Student Officers, ICJ, Historical Committee and OIF are also available.</p>
+          <h1 class="size-30" style="Margin-top: 0;Margin-bottom: 0;font-style: normal;font-weight: normal;color: #353638;font-size: 26px;line-height: 34px;text-align: center;" lang="x-size-30">Thanks for your School Application!</h1><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">You have succesfully filled the Registration Form for MUNDP 2019. We will turn back to you within 48 hours.</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">If you do not hear from us in the given time span, please contact Deputy Secretary General of Liaison G&#246;ksu &#350;im&#351;ek (Ms.)&nbsp;at liaison@modelundp.org</p><p class="size-17" style="Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: center;" lang="x-size-17">Rregistration form for Student Officers, ICJ, Historical Committee and OIF are also available.</p>
               </div>
 
                     </div>
@@ -7977,11 +7977,12 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
     <div class="jumbotron executive">
         <div class="container">
-            <h1>Registrations are Open</h1>
+            <h1>Registrations are Open!</h1>
         </div>
     </div>
 
     <div class="container">
+
           <div class="row">
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
               <? if(!$regisetting['school']) { ?>
@@ -8030,7 +8031,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdjJEhXygDquXdy4mxKvy2SF85ginR_1UppBxJC9NYCXzvm2Q/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 -->
 
-        <div class="alert alert-success">
+      <!--  <div class="alert alert-success">
           <h4>Check Your Application Status</h4>
           <p>You can check your application status from this form.</p><br>
           <form class="form-inline" id="checkform" action="registration.php" method="post">
@@ -8042,7 +8043,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
             <button type="submit" class="btn btn-default" id="statusbutton">Check Status</button>
           </form>
         </div>
-
+      -->
         <br>
 
         <h3>About Registration and MyDP Service</h3>
@@ -8073,7 +8074,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
         function enablebutton()
         {
             $("#statusbutton").attr('disabled', false);
-            $("#statusbutton").html('Check Status');
+            $("#statusbfutton").html('Check Status');
         }
 
         var options = {

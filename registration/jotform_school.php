@@ -11,7 +11,7 @@
     <meta name="keywords" content="<?= KEYWORDS ?>">
     <link rel="icon" href="<?= URL ?>favicon.ico">
 
-    <title><?= TITLE ?>: OIF Registration</title>
+    <title><?= TITLE ?>: School Registration</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -30,19 +30,13 @@
   </head>
 
   <body>
-      <? include("../_includes/navigation.php"); ?>
+
+    <? include("../_includes/navigation.php"); ?>
 
 
+    <script type="text/javascript" src="https://form.jotform.com/jsform/82411119141949"></script>
 
+    <? include("../_includes/footer.php"); ?>
 
-      <script type="text/javascript" src="https://form.jotform.com/jsform/82444631460958"></script>
-      <? include("../_includes/footer.php"); ?>
-
-
-
-      <script src="../js/jquery.min.js"></script>
-      <script src="../js/bootstrap.min.js"></script>
-      <script src="../js/jquery.form.min.js"></script>
-      <script src="../js/sweetalert.min.js"></script>
-    </body>
-  </html>
+  </body>
+</html>
