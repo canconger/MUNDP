@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0f3539b3-3edc-4d54-9365-2a82edd98eb9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registration/jotform_oif.php" beforeDir="false" afterPath="$PROJECT_DIR$/registration/jotform_oif.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registration/jotform_press.php" beforeDir="false" afterPath="$PROJECT_DIR$/registration/jotform_press.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secure/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/secure/config.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,62 +15,48 @@
     <session id="-2022373406">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="4" />
           <entry key="jpg" value="2" />
-          <entry key="php" value="25" />
+          <entry key="php" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="4" />
           <entry key="Image" value="2" />
-          <entry key="PHP" value="25" />
+          <entry key="PHP" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="42" />
-          <entry key="php" value="211" />
+          <entry key="php" value="215" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="42" />
-          <entry key="PHP" value="211" />
+          <entry key="PHP" value="215" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/registration/jotform_oif.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/registration/press.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/registration/jotform_press.php">
+        <entry file="file://$PROJECT_DIR$/secure/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+            <state relative-caret-position="180">
+              <caret line="12" column="118" selection-start-line="12" selection-start-column="118" selection-end-line="12" selection-end-column="118" />
             </state>
           </provider>
         </entry>
@@ -84,17 +69,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/registration/jotform_school.php" />
         <option value="$PROJECT_DIR$/main.css" />
-        <option value="$PROJECT_DIR$/registration/jotform_studentofficer.php" />
-        <option value="$PROJECT_DIR$/registration/jotform_icj.php" />
-        <option value="$PROJECT_DIR$/registration/jotform_historical.php" />
-        <option value="$PROJECT_DIR$/registration/jotform_advisorypanel.php" />
-        <option value="$PROJECT_DIR$/secure/config.php" />
         <option value="$PROJECT_DIR$/registration/thank_you.php" />
         <option value="$PROJECT_DIR$/thank_you.php" />
         <option value="$PROJECT_DIR$/registration/jotform_press.php" />
         <option value="$PROJECT_DIR$/registration/jotform_oif.php" />
+        <option value="$PROJECT_DIR$/registration/jotform_icj.php" />
+        <option value="$PROJECT_DIR$/registration/jotform_historical.php" />
+        <option value="$PROJECT_DIR$/registration/jotform_advisorypanel.php" />
+        <option value="$PROJECT_DIR$/registration/jotform_school.php" />
+        <option value="$PROJECT_DIR$/registration/jotform_studentofficer.php" />
+        <option value="$PROJECT_DIR$/secure/config.php" />
       </list>
     </option>
   </component>
@@ -194,18 +179,19 @@
       <option name="presentableId" value="Default" />
       <updated>1535727094241</updated>
       <workItem from="1535727097512" duration="6800000" />
-      <workItem from="1535898996888" duration="328000" />
+      <workItem from="1535898996888" duration="1877000" />
+      <workItem from="1535959935135" duration="1510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7128000" />
+    <option name="totallyTimeSpent" value="10187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1260" height="689" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25779969" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -284,29 +270,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registration/jotform_studentofficer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="34" column="67" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/registration/jotform_school.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/registration/historical.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/registration/jotform_historical.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="43" column="97" selection-start-line="43" selection-start-column="97" selection-end-line="43" selection-end-column="97" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/registration/advisorypanel.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -315,22 +280,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registration/jotform_advisorypanel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="43" column="97" selection-start-line="43" selection-start-column="97" selection-end-line="43" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/registration/oif.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/secure/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/secure/loader.php">
       <provider selected="true" editor-type-id="text-editor" />
@@ -340,20 +291,6 @@
         <state relative-caret-position="-495" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registration/jotform_icj.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="86" lean-forward="true" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/registration/registration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4787">
-          <caret line="431" column="26" lean-forward="true" selection-start-line="431" selection-start-column="26" selection-end-line="431" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/thank_you.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
@@ -361,20 +298,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registration/press.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/registration/jotform_oif.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="-140">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/jotform_historical.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/jotform_school.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/jotform_studentofficer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/registration/jotform_press.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/jotform_icj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/press.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/development-committees.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6465">
+          <caret line="431" column="26" selection-start-line="431" selection-start-column="26" selection-end-line="431" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/executive-committee.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/jotform_advisorypanel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/general-committee.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secure/meekrodb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secure/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="118" selection-start-line="12" selection-start-column="118" selection-end-line="12" selection-end-column="118" />
         </state>
       </provider>
     </entry>
