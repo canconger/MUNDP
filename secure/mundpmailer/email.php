@@ -11,7 +11,7 @@ function send_email($to,$subject,$body)
     $mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = 'noreply@modelundp.org';                 // SMTP username
-    $mail->Password = 'modelundp2017';                           // SMTP password
+    $mail->Password = 'mundp2019';                           // SMTP password
     $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 587;                                    // TCP port to connect to
 
