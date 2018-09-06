@@ -7991,7 +7991,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
               <? if(!$regisetting['school']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>School Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
-                <a href="school" class="btn btn-primary btn-lg btn-block"><h4><strong>School Registration</strong></h4><small>Registration is open until December 10th.</small></a>
+                <a href="school" class="btn btn-primary btn-lg btn-block"><h4><strong>School Registration</strong></h4><small>Registration is open until November 11th.</small></a>
               <? } ?>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">

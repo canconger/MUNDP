@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3539b3-3edc-4d54-9365-2a82edd98eb9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/secure/mundpmailer/email.php" beforeDir="false" afterPath="$PROJECT_DIR$/secure/mundpmailer/email.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,29 +14,31 @@
     <session id="-2022373406">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="4" />
-          <entry key="error_log" value="2" />
+          <entry key="error_log" value="3" />
           <entry key="jpg" value="2" />
-          <entry key="php" value="56" />
+          <entry key="php" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="4" />
           <entry key="Image" value="2" />
-          <entry key="PHP" value="56" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PHP" value="57" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -55,75 +57,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/secure/mundpmailer/PHPMailerAutoload.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/class.phpmailer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/class.phpmaileroauth.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/class.phpmaileroauthgoogle.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/class.pop3.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/class.smtp.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/error_log">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/get_oauth_token.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28" />
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/PHPMailerAutoload.php">
+        <entry file="file://$PROJECT_DIR$/registration/registration.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/secure/mundpmailer/get_oauth_token.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1745" />
+            <state relative-caret-position="-28651">
+              <caret line="431" column="26" selection-start-line="431" selection-start-column="26" selection-end-line="431" selection-end-column="26" />
+            </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>2018</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -258,18 +206,20 @@
       <workItem from="1535898996888" duration="1877000" />
       <workItem from="1535959935135" duration="1510000" />
       <workItem from="1535999570335" duration="170000" />
-      <workItem from="1536079743670" duration="225000" />
+      <workItem from="1536079743670" duration="333000" />
+      <workItem from="1536087607208" duration="26000" />
+      <workItem from="1536136115446" duration="61000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10588000" />
+    <option name="totallyTimeSpent" value="10777000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1260" height="689" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27011493" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2783251" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -407,13 +357,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registration/registration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="431" column="26" selection-start-line="431" selection-start-column="26" selection-end-line="431" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/secure/mundpmailer/class.phpmailer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -448,55 +391,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/secure/mundpmailer/error_log">
+    <entry file="file://$PROJECT_DIR$/secure/mundpmailer/PHPMailerAutoload.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/secure/mundpmailer/get_oauth_token.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1745" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/secure/mundpmailer/PHPMailerAutoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/class.phpmailer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/class.phpmaileroauth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/class.phpmaileroauthgoogle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/class.pop3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/class.smtp.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/error_log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/get_oauth_token.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/secure/mundpmailer/mail/PHPMailerAutoload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secure/mundpmailer/get_oauth_token.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secure/mundpmailer/error_log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28651">
+          <caret line="431" column="26" selection-start-line="431" selection-start-column="26" selection-end-line="431" selection-end-column="26" />
+        </state>
       </provider>
     </entry>
   </component>
