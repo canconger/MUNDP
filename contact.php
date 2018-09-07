@@ -56,7 +56,7 @@
 
 		<p class="text-12 padding-bottom-24">If you have any questions about our conference, please feel free to contact <a href="mailto:egegunes@modelundp.org"> secretariat@modelundp.org </a> . We are more than happy to help you with any inquiries you might have. Thank you.</p>
 
-		<div class="row padding-bottom-24">
+
           <!--  <div class="col-xs-12 text-center">
                 <h3>Deputy Secretary General of Liaison</h3>
                 <h4>Efe Karaca ( Mr. )</h4>
@@ -65,6 +65,7 @@
         </div> -->
 
 		<p class="text-12 padding-bottom-24">For delegation releated matters, please contact the Deputy Secretary of Liaison via <a href="mailto:liaison@modelundp.org">liaison@modelundp.org</a>. We are more than happy to help you with any inquiries you might have. Thank you.</p>
+
 
 
         <h2>Location</h2>
@@ -78,7 +79,7 @@
         <p class="text-center margin-0">Orhanlı Köyü Çayırlar Mevkii,</p>
         <p class="text-center margin-0">34941 Tuzla İstanbul</p>
 
-      </div>
+
     </div> <!-- /container -->
 
     <? include("_includes/footer.php"); ?>
