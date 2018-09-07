@@ -13,7 +13,7 @@
     <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
 
-            <li><a href="<?= URL ?>" class="hidden-md hidden-sm"><i class="fa fa-home" aria-hidden="true"></i> Homepage</a></li>
+            <li><a href="<?= URL ?>home" class="hidden-md hidden-sm"><i class="fa fa-home" aria-hidden="true"></i> Homepage</a></li>
 
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-map-signs" aria-hidden="true"></i> Conference <span class="caret"></span></a>
@@ -36,7 +36,7 @@
                 <li role="separator" class="divider"></li>
                 <li class="hidden"><a href="<?= URL ?>schedule">Schedule</a></li>
                 <li class="hidden"><a href="<?= URL ?>deadlines">Deadlines</a></li>
-                <li><a href="<?= URL ?>materials">Materialss</a></li>
+                <li><a href="<?= URL ?>materials">Materials</a></li>
               </ul>
             </li>
 
@@ -62,7 +62,7 @@
 
             <li><a href="<?= URL_MYDP ?>"><strong>MyDP</strong></a></li>
 
-            <li><a href=junior.modelundp.org/home><strong style="color: #601f6d">JMUNDP</strong></a></li>
+            <li><a href=http://kocjmun.org/home.php><strong style="color: #601f6d">JMUNDP</strong></a></li>
 
         </ul>
     </div><!--/.navbar-collapse -->
