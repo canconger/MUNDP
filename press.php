@@ -43,10 +43,10 @@
                 <h3 class="margin-24"><a href="registration/press" class="btn btn-primary btn-lg">Press Registration</a></h3>
                 <div class="row">
                     <div class="col-md-6 col-xs-12">
-                        <img src="img/pictures/dp2016/IMG_1402.jpg" class="img-responsive img-thumbnail">
+                        <img src="img/pictures/press/IMG_1402.jpg" class="img-responsive img-thumbnail">
                     </div>
                     <div class="col-md-6 col-xs-12">
-                        <img src="img/pictures/dp2016/IMG_1432.jpg" class="img-responsive img-thumbnail">
+                        <img src="img/pictures/press/IMG_1432.jpg" class="img-responsive img-thumbnail">
                     </div>
                 </div>
 
