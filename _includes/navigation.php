@@ -7,8 +7,8 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand hidden-xs" href="<?= URL ?>"><img src="<?= URL ?>img/logo.png" height="60px"></a>
-      <a class="navbar-brand visible-xs" href="<?= URL ?>"><img src="<?= URL ?>img/logo.png" style="margin-top: 6px;" height="50px"></a>
+      <a class="navbar-brand hidden-xs" href="<?= URL ?>home.php"><img src="<?= URL ?>img/logo.png" height="60px"></a>
+      <a class="navbar-brand visible-xs" href="<?= URL ?>home.php"><img src="<?= URL ?>img/logo.png" style="margin-top: 6px;" height="50px"></a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
@@ -36,7 +36,7 @@
                 <li role="separator" class="divider"></li>
                 <li class="hidden"><a href="<?= URL ?>schedule">Schedule</a></li>
                 <li class="hidden"><a href="<?= URL ?>deadlines">Deadlines</a></li>
-                <li><a href="<?= URL ?>materials">Materials</a></li>
+                <li><a href="<?= URL ?>materials">Materialss</a></li>
               </ul>
             </li>
 
@@ -61,6 +61,9 @@
             <li><a href="<?= URL ?>registration"><strong>Registration</strong></a></li>
 
             <li><a href="<?= URL_MYDP ?>"><strong>MyDP</strong></a></li>
+
+            <li><a href=junior.modelundp.org/home><strong style="color: #601f6d">JMUNDP</strong></a></li>
+
         </ul>
     </div><!--/.navbar-collapse -->
   </div>

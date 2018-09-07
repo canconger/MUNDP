@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#MUNDP {
+  float: left;
+  width: 50%;
+  height: 100%;
+  background-image: url(landing_img/dp-ga2-blurred.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#JMUNDP {
+  float: right;
+  width: 50%;
+  height: 100%;
+  background-image: url(landing_img/jmundp2.jpg);
+  background-position-y: center;
+  background-position-x: 53%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.image {
+  width: 5%;
+  height: 100%;
+  position: absolute;
+  left: 50%;
+  margin-left: -2.5%;
+  background-image: url("landing_img/(J)MUNDP.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.logo {
+  height: 100%;
+  width: 20%;
+  position: absolute;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#MUNDP-logo {
+  left: 25%;
+  background-image: url(landing_img/logo.png);
+}
+
+#JMUNDP-logo {
+  right: 25%;
+  background-image: url("landing_img/JMUNDP 19_white.png");
+}
