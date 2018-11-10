@@ -28,7 +28,7 @@
                 <li role="separator" class="divider"></li>
                 <li><a href="<?= URL ?>security">Security</a></li>
                 <li><a href="<?= URL ?>transportation">Transportation</a></li>
-                <? /* <li><a href="<?= URL ?>payment">Payment Information</a></li> */ ?>
+                <li><a href="<?= URL ?>payment">Payment Information</a></li>
                 <li role="separator" class="divider visible-md visible-sm"></li>
                 <li><a href="<?= URL ?>contact" class="visible-md visible-sm">Contact</a></li>
                 <li><a href="<?= URL ?>kocschool" class="visible-md visible-sm">The Koç School</a></li>

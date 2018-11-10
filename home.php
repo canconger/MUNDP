@@ -320,8 +320,8 @@
     <script>
     $(document).ready(function(){
       swal({
-        title: "Register Now!",
-        text: " Register and become a part of MUNDP 2019 ",
+        title: "The Fees Will be Announced Next Week",
+        text: " Sorry for the inconvenience ",
         type: "warning",
         showCancelButton: true,
         confirmButtonClass: "btn-success",
@@ -329,7 +329,7 @@
         closeOnConfirm: false
       },
       function(){
-        window.location.href = 'registration';
+        window.location.href = 'payment';
       });
     })
 
