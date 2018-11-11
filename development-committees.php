@@ -40,7 +40,7 @@
         <h2>About Development Committees</h2>
         <hr>
 
-        <p class="padding-bottom-24">These committees discuss the developmental challenges faced by the countries in the UNDP region the conference focuses on. This year, the delegates in the eight development committees, will focus on the array of developmental obstacles in Africa and join the rest of their delegations at the International Summit on Sunday.</p>
+        <p class="padding-bottom-24">These committees discuss the developmental challenges faced by the countries in the UNDP region the conference focuses on. This year, the delegates in the six development committees will focus on the array of developmental obstacles in Africa and join the rest of their delegations at the International Summit on Sunday.</p>
 
 		<hr>
 
