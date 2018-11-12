@@ -21,7 +21,7 @@ $regisetting['historical'] = true;
 $regisetting['icj'] = true;
 $regisetting['oif'] = true;
 $regisetting['press'] = true;
-$regisetting['school'] = true;
+$regisetting['school'] = false;
 $regisetting['stoff'] = true;
 
 /* MySQL Connection */
