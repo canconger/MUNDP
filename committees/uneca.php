@@ -49,9 +49,9 @@
 		<p>
       Creating an international framework to achieve SDG 8
       <br><br>
-      Implementation of the African Continental Free Trade Area (CFTA) Agreement
+      Transforming the agricultural sector in Africa towards agricultural industrialization (CFTA)
       <br><br>
-      Measures to develop the financing of the World Food Programme (WFP)
+      Eliminating constraints on gender and youth employment in Sub-Saharan Africa (WFP)
     </p>
 
     <h3>Chair Reports</h3>
