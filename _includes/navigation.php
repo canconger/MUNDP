@@ -62,7 +62,7 @@
 
             <li><a href="<?= URL_MYDP ?>"><strong>MyDP</strong></a></li>
 
-            <li><a href=http://kocjmun.org/home.php><strong style="color: #601f6d">JMUNDP</strong></a></li>
+            <li><a href=http://jmundp.org/home.php><strong style="color: #601f6d">JMUNDP</strong></a></li>
 
         </ul>
     </div><!--/.navbar-collapse -->

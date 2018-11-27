@@ -46,7 +46,7 @@
 		</p>
 
 		<h3>Agenda</h3>
-		<p>Armed Activities on the Territory of the Congo (Democratic Republic of the Congo v. Rwanda)</p>
+		<p>Questions relating to the Obligaiton to Prosecute or Extradite (Belgium v. Senegal)</p>
 
     </div> <!-- /container -->
 

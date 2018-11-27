@@ -8,8 +8,8 @@
             <a href="http://www.thimun.org/" target="_blank"><img src="<?= URL ?>img/THIMUN.png" height="120px"></a>
             <a href="http://www.kocschool.k12.tr/" target="_blank"><img src="<?= URL ?>img/kocschool.png" height="100px"></a>
         </div>
-        <div class="pull-right">
+        <!--<div class="pull-right">
             <img src="<?= URL ?>img/sponsors/turkishairlines-big.jpg" height="120px">
-        </div>
+        </div>-->
     </div>
 </footer>
