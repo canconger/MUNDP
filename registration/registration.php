@@ -7988,6 +7988,13 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
           <div class="row">
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
+              <? if(!$regisetting['press']) { ?>
+                <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>Press Registration</strong></h4><small>Registration is closed.</small></a>
+              <? } else { ?>
+                <a href="press" class="btn btn-primary btn-lg btn-block"><h4><strong>Press Registration</strong></h4><small>Registration is open until January 6th.</small></a>
+              <? } ?>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
               <? if(!$regisetting['school']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>School Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
@@ -8023,14 +8030,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
               <? } ?>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
-              <? if(!$regisetting['press']) { ?>
-                <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>Press Registration</strong></h4><small>Registration is closed.</small></a>
-              <? } else { ?>
-                <a href="press" class="btn btn-primary btn-lg btn-block"><h4><strong>Press Registration</strong></h4><small>Registration is open until January 6th.</small></a>
-              <? } ?>
-            </div>
-            <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
-              <? if(!$regisetting['press']) { ?>
+              <? if(!$regisetting['ap']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>AP Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
                 <a href="advisorypanel" class="btn btn-primary btn-lg btn-block"><h4><strong>AP Registration</strong></h4><small>Registration is open until November 25th.</small></a>

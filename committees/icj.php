@@ -46,7 +46,7 @@
 		</p>
 
 		<h3>Agenda</h3>
-		<p>Questions relating to the Obligaiton to Prosecute or Extradite (Belgium v. Senegal)</p>
+		<p>Questions relating to the Obligation to Prosecute or Extradite (Belgium v. Senegal)</p>
 
     </div> <!-- /container -->
 

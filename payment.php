@@ -37,7 +37,7 @@
     </div>
 
     <div class="container">
-        <h2>Conference Fees</h2>
+        <h2>Service Fees</h2>
         <hr>
 
         <div class="row padding-bottom-24">

@@ -17,11 +17,12 @@ define('AUTHOR','Berk Alp Yakıcı');
 define('KEYWORDS','Model United Nations Development Programme 2019, UNDP, MUNDP, MUNDP\'19, Koc School, Koç School, MODELUNDP, VKV Koç Özel Lisesi, Model Birleşmiş Milletler Geliştirme Programı, Birleşmiş Milletler Geliştirme Programı');
 
 
-$regisetting['historical'] = true;
-$regisetting['icj'] = true;
-$regisetting['oif'] = true;
+$regisetting['historical'] = false;
+$regisetting['icj'] = false;
+$regisetting['oif'] = false;
 $regisetting['press'] = true;
 $regisetting['school'] = false;
-$regisetting['stoff'] = true;
+$regisetting['stoff'] = false;
+$regisetting['ap'] = false;
 
 /* MySQL Connection */

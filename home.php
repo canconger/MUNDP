@@ -320,12 +320,12 @@
     <script>
     $(document).ready(function(){
       swal({
-        title: "The Fees Will be Announced Next Week",
-        text: " Sorry for the inconvenience ",
+        title: "Conference fees have been announced!",
+        //text: " Sorry for the inconvenience ",
         type: "warning",
         showCancelButton: true,
         confirmButtonClass: "btn-success",
-        confirmButtonText: "Yes, take me there!",
+        confirmButtonText: "Take me there!",
         closeOnConfirm: false
       },
       function(){
