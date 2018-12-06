@@ -8055,11 +8055,11 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
         </div>
       -->
         <br>
-
+        <!--
         <h3>About Registration and MyDP Service</h3>
         <hr>
         <p>After registration, in order to verify your contact information, a validation e-mail will be sent by us. After verification of your participation to MUNDP, you will be able to access the “MyDP” service. On your MyDP page, you will be able to enroll your delegates and advisors. In order to keep updated, please use give us the e-mail address that you check frequently. Your contacts will be protected by the MUNDP and will not be shared with any third parties.</p>
-
+        -->
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>
