@@ -53,7 +53,7 @@
       <br><br>
       Implementation of The Small Arms Survey
       <br><br>
-      Prevention of diversion of weapons by extremist groups in the Lake Chad Basin
+      The prevention of the acquisition and use of weaponry by extremist groups in the Lake Chad Basin
     </p>
 
     <h3>Chair Reports</h3>

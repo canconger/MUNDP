@@ -49,9 +49,9 @@
 		<p>
       Creating an international framework to achieve SDG 8
       <br><br>
-      Transforming the agricultural sector in Africa towards agricultural industrialization (CFTA)
+      Transforming the agricultural sector in Africa towards agricultural industrialization
       <br><br>
-      Eliminating constraints on gender and youth employment in Sub-Saharan Africa (WFP)
+      Eliminating constraints on gender and youth employment in Sub-Saharan Africa
     </p>
 
     <h3>Chair Reports</h3>
