@@ -20,7 +20,7 @@ define('KEYWORDS','Model United Nations Development Programme 2019, UNDP, MUNDP,
 $regisetting['historical'] = false;
 $regisetting['icj'] = false;
 $regisetting['oif'] = false;
-$regisetting['press'] = true;
+$regisetting['press'] = false;
 $regisetting['school'] = false;
 $regisetting['stoff'] = false;
 $regisetting['ap'] = false;

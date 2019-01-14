@@ -41,16 +41,19 @@
         <hr>
 
         <div class="row padding-bottom-24">
-            <div class="col-xs-12 col-md-6 text-center">
+            <div class="col-xs-12 col-md-4 text-center">
                 <h3>Fee Per Student<br><small>Schools from Turkey</small></h3>
-                <!-- <h2>130€ - 530₺</h2> -->
                 <h2>375₺</h2>
             </div>
 
-            <div class="col-xs-12 col-md-6 text-center">
+            <div class="col-xs-12 col-md-4 text-center">
                 <h3>Fee Per Student<br><small>International Schools</small></h3>
                 <h2>75€</h2>
-                <!-- <h2>90€ - 370₺</h2> -->
+            </div>
+
+            <div class="col-xs-12 col-md-4 text-center">
+                <h3>Fee For Press<br><small>per press participant</small></h3>
+                <h2>250₺</h2>
             </div>
         </div>
 <!--
