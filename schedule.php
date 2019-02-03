@@ -79,7 +79,7 @@
                 <p><strong>9:30 - 17:30</strong><br>All Committees in Session</p>
                 <p><strong>10:00 - 10:30</strong><br>Advisors Meeting</p>
                 <p><strong>11:30 - 11:45</strong><br>Break</p>
-                <p><strong>13:15</strong><br>Advisory Panel Closes</p>
+                <p><strong>13:15</strong><br>Approval Panel Closes</p>
                 <p><strong>13:15 - 14:15</strong><br>Lunch</p>
                 <p><strong>15:45 - 16:00</strong><br>Break</p>
                 <p><strong>17:30 - 18:00</strong><br>Student Officer Debriefing</p>

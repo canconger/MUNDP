@@ -79,7 +79,7 @@
 
               <div class="members">
                 <h4>President<br><small>Derin Karzan</small></h4>
-                <h4>Deputy President<br><small>Deniz Onalir</small></h4>
+                <h4>Deputy President<br><small>Deniz Önalır</small></h4>
               </div>
           </div>
 
@@ -133,7 +133,7 @@
               <h2>OIF<br><small>L’Organisation internationale de la Francophonie</small></h2>
 
               <div class="members">
-                <h4>Présidente<br><small>Barbaros Pazarcı</small></h4>
+                <h4>Président<br><small>Barbaros Pazarcı</small></h4>
                 <h4>Vice-Présidente<br><small>Melisa Üstündağ</small></h4>
                 <h4>Vice-Présidente<br><small>Nesli Özer</small></h4>
               </div>
@@ -164,7 +164,7 @@
               <div class="members">
                 <h4>President<br><small>Bora Balçay</small></h4>
                 <h4>Deputy President<br><small>Onur Şekerel</small></h4>
-                <h4>Deputy President<br><small>Alp Altuğ</small></h4>
+                <h4>Deputy President<br><small>Hazal Bulut</small></h4>
               </div>
           </div>
 
