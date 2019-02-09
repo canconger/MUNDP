@@ -55,18 +55,16 @@
     </p>
 
     <h3>Chair Reports</h3>
-    <p>Chair reports are not yet available.</p>
-    <!--
-    <p><strong>Report 1</strong> <i>by Gülce Uysal & Ege Özgüroğlu</i><br>
-      CREATING AN INTERNATIONAL FRAMEWORK TO ACHIEVE SDG 11<br>
-      <a href="../reports/UNHABITAT_1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Ege Özgüroğlu & Gülce Uysal</i><br>
-      CREATING AN INTERNATIONAL FRAMEWORK TO ACHIEVE SDG 9<br>
-      <a href="../reports/UNHABITAT_2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 3</strong> <i>by Gülce Uysal</i><br>
-      MEASURES TO CREATE SUSTAINABLE SOLUTIONS TO ERADICATE WIDESPREAD UNEMPLOYMENT<br>
-      <a href="../reports/UNHABITAT 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
--->
+
+    <p><strong>Report 1</strong> <i>by Irmak Genç & Kibel Aker</i><br>
+      Eliminating gender inequity in educational fields of science and engineering<br>
+      <a href="../reports/UNESCO 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 2</strong> <i>by Kibel Aker</i><br>
+      Developing Science, Technology and Innovation (STI)<br>
+      <a href="../reports/UNESCO 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 3</strong> <i>by Irmak Genç</i><br>
+      The Preservation of UNESCO World Heritage Sites<br>
+      <a href="../reports/UNESCO 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
     </div> <!-- /container -->
 

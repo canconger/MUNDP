@@ -55,18 +55,17 @@
       </p>
 
     <h3>Chair Reports</h3>
-      <p>Chair reports are not yet available.</p>
-    <!--
-    <p><strong>Report 1</strong> <i>by Umut Öztürk</i><br>
-      The Situation in Crimea<br>
-      <a href="../reports/SC_1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Tan Akpek</i><br>
-      Creating Measures to Prevent and Punish the Trading of Illegal Small Arms and Light Weapons (SALWS)<br>
-      <a href="../reports/SC_2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 3</strong> <i>by Umut Öztürk</i><br>
-      Question of Kosovo<br>
-      <a href="../reports/SC_3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
--->
+
+    <p><strong>Report 1</strong> <i>by Tan Halaçoğlu</i><br>
+      The Question of South Sudan <br>
+      <a href="../reports/SC 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 2</strong> <i>by Kaya Çolakoğlu</i><br>
+      The Situation in Ethiopia<br>
+      <a href="../reports/SC 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 3</strong> <i>by Tan Halaçoğlu & Kaya Çolakoğlu</i><br>
+      The issue of violent proxy militias<br>
+      <a href="../reports/SC 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

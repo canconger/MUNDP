@@ -55,18 +55,17 @@
     </p>
 
     <h3>Chair Reports</h3>
-    <p>Chair reports are not yet available.</p>
-    <!--
-    <p><strong>Report 1</strong> <i>by Cansu Dilek</i><br>
-      MEASURES TO ALLEVIATE THE ENTRENCHED SMUGGLING NETWORKS IN THE REGION<br>
+
+    <p><strong>Report 1</strong> <i>by Deniz Önalır</i><br>
+      Measures to prevent human trafficking and smuggling of migrants<br>
       <a href="../reports/UNODC 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Mey Abdullahoğlu</i><br>
-      PREVENTING ILLICIT TRAFFICKING OF OPIUM THROUGH CENTRAL ASIA AND EUROPE<br>
+    <p><strong>Report 2</strong> <i>by Derin Karzan</i><br>
+      Tackling the issue of cocaine trafficking in West Africa<br>
       <a href="../reports/UNODC 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Cansu Dilek</i><br>
-      STRENGTHENING MEASURES TO PREVENT AND COMBAT CORRUPTION IN CENTRAL ASIA AND EASTERN EUROPE<br>
+    <p><strong>Report 2</strong> <i>by Derin Karzan & Deniz Önalır</i><br>
+      Alleviating the advancement of transnational organized crime<br>
       <a href="../reports/UNODC 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
--->
+
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

@@ -52,12 +52,11 @@
 
 
     <h3>Chair Reports</h3>
-    <p>Chair reports are not yet available.</p>
-    <!--
-    <p><strong>Report 1</strong> <i>by Can Yeşildere, Lari Altaras, Eren Şerbetçi, Carla Ayşem Sipahioğlu & Emir Raz Funes</i><br>
-      THE DELUGE (THE POLISH LITHUANIAN COMMENWEALTH VS. THE SWEDISH CROWN)<br>
-      <a href="../reports/HISTO 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
--->
+
+
+    <p><strong>Report 1</strong> <i>by Berkin Çetintaş, Eren Şerbetçi, Egemen Bostan, Ayşem Sipahioğlu & Eylül Göktaş</i><br>
+      THE SECOND BOER WAR<br>
+      <a href="../reports/HISTORICAL.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
     </div> <!-- /container -->
 

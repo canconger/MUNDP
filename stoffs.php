@@ -105,8 +105,8 @@
               <h2>HISTORICAL<br><small>Historical Committee 1</small></h2>
 
               <div class="members">
-                  <h4>President<br><small>Lari Altaras</small></h4>
-                  <h4>Deputy President<br><small>Eren Şerbetçi</small></h4>
+                  <h4>President<br><small>Eren Şerbetçi</small></h4>
+                  <h4>Deputy President<br><small>Egemen Bostan</small></h4>
               </div>
           </div>
 

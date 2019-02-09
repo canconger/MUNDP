@@ -55,18 +55,17 @@
         </p>
 
     <h3>Chair Reports</h3>
-      <p>Chair reports are not yet available.</p>
-    <!--
-    <p><strong>Report 1</strong> <i>by Mehmed Can Özkan</i><br>
-      IMPROVING THE EFFICIENCY OF RESETTLEMENT FOR REFUGEES IN EASTERN TURKEY<br>
+
+    <p><strong>Report 1</strong> <i>by Kaya Güvendi</i><br>
+      Measures to resolve the South Sudan refugee crisis <br>
       <a href="../reports/UNHCR 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Mehmed Can Özkan</i><br>
-      MEASURES TO AFFECTIVELY MONITOR MIGRATION IN CENTRAL ASIA<br>
+    <p><strong>Report 2</strong> <i>by Batuhan Şahin & Kaya Güvendi</i><br>
+      Measures to prevent the spread of famine and disease in conflict zones<br>
       <a href="../reports/UNHCR 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 3</strong> <i>by Kaan Ertürk</i><br>
-      CREATING EFFECTIVE AND EFFICIENT ASYLUM SYSTEMS IN LINE WITH INTERNATIONAL STANDARDS IN EASTERN EUROPE<br>
+    <p><strong>Report 3</strong> <i>by Batuhan Şahin</i><br>
+      Stabilising health care and water systems in host countries<br>
       <a href="../reports/UNHCR 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
--->
+
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

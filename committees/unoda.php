@@ -57,19 +57,17 @@
     </p>
 
     <h3>Chair Reports</h3>
-      <p>Chair reports are not yet available.</p>
-    <!--
-    <p><strong>Report 1</strong> <i>by Doğa Fadıllıoğlu</i><br>
-      DISMANTLING OF SOVIET-ERA ORDINANCE IN EAST EUROPE<br>
-      <a href="../reports/UNODA_1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Naz Kayın</i><br>
-      THE QUESTION OF THE PROHIBITION OF CHEMICAL WEAPONS (IMPLEMENTING THE CHEMICAL WEAPONS CONVENTION)<br>
-      <a href="../reports/UNODA 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 3</strong> <i>by Doğa Fadıllıoğlu</i><br>
-      THE QUESTION OF INTERNATIONAL DISARMAMENT NEGOTIATIONS<br>
-      <a href="../reports/UNODA_3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
--->
+    <p><strong>Report 1</strong> <i>by Emir Arda Değer & Duru Bayramoğlu</i><br>
+      Measures to abolish landmines and cluster munitions<br>
+      <a href="../reports/UNODA 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 2</strong> <i>by Duru Bayramoğlu</i><br>
+      Implementation of The Small Arms Survey<br>
+      <a href="../reports/UNODA 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 3</strong> <i>by Emir Arda Değer</i><br>
+      The prevention of the acquisition and use of weaponry by extremist groups in the Lake Chad Basin<br>
+      <a href="../reports/UNODA 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

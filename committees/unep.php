@@ -57,18 +57,17 @@
     </p>
 
     <h3>Chair Reports</h3>
-      <p>Chair reports are not yet available.</p>
-    <!--
-    <p><strong>Report 1</strong> <i>by Uras Efe Kahya</i><br>
-      Alleviating poverty in Central Asia<br>
-      <a href="../reports/UNIDO 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 1</strong> <i>by Erel Mose Saul</i><br>
-      Istigating Development Of Domestic Technology And Enterpreneurship In Central Asia<br>
-      <a href="../reports/UNIDO 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 1</strong> <i>by Erel Mose Saul & Uras Efe Kahya</i><br>
-      Measures to Optimise Translational Trade Flow in Central Asia<br>
-        <a href="../reports/UNIDO 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
--->
+
+    <p><strong>Report 1</strong> <i>by Merve Özdemir</i><br>
+      Preventing illicit poaching and trafficking in wildlife<br>
+      <a href="../reports/UNEP 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 1</strong> <i>by Merve Özdemir & Ergün Açıköz</i><br>
+      Establishing anti-desertification with The Great Green Wall Initiative <br>
+      <a href="../reports/UNEP 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 1</strong> <i>by Ergün Açıköz</i><br>
+      Advancing environmental governance in order to achieve sustainability<br>
+        <a href="../reports/UNEP 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

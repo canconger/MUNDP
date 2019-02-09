@@ -55,18 +55,17 @@
     </p>
 
     <h3>Chair Reports</h3>
-    <p>Chair reports are not yet available.</p>
-    <!--
-    <p><strong>Report 1</strong> <i>by Rowa Kurdi</i><br>
-      Improvement of Sub-regional Cooperation in Order to Achieve Sustainable Development<br>
+
+    <p><strong>Report 1</strong> <i>by Duygu Mercan</i><br>
+      Advancing water managements in accordance to SDG 6<br>
       <a href="../reports/ECOSOC 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Tan Halacoğlu</i><br>
-      Implementing Reforms Across Business Regulation in Central Asia in Order to Adress SDG 8<br>
+    <p><strong>Report 2</strong> <i>by Demir Timuray</i><br>
+      Measures to establish stability and a secure management for cryptocurrencies<br>
       <a href="../reports/ECOSOC 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 3</strong> <i>by Sinan Orhun</i><br>
-      Creating a Framework to Achieve SDG1<br>
+    <p><strong>Report 3</strong> <i>by Emir Ziyal</i><br>
+      Endorsing a greener economy through improved economic policies<br>
       <a href="../reports/ECOSOC 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
--->
+
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

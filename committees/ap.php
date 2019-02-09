@@ -57,18 +57,17 @@
     </p>
 
     <h3>Chair Reports</h3>
-    <p>Chair reports are not yet available.</p>
-    <!--
-    <p><strong>Report 1</strong> <i>by Defne Genç</i><br>
-      Terrorism and Political Violence in Uzbekistan<br>
+
+
+    <p><strong>Report 1</strong> <i>by Can Jozef Saul</i><br>
+      Combating maritime insecurity in the Gulf of Guinea <br>
       <a href="../reports/APQ 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Defne Genç</i><br>
-      The Question of Preventing Water Scarcity<br>
+    <p><strong>Report 2</strong> <i>by İrem Işık</i><br>
+      Preserving the Central African rainforest from exploitation of resources <br>
       <a href="../reports/APQ 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 3</strong> <i>by Mehmed Can Olgaç</i><br>
-      Alleviating Ethnic Based Violence<br>
+    <p><strong>Report 3</strong> <i>by Can Jozef Saul & İrem Işık</i><br>
+      Measures to alleviate radicalism by amending poor governance<br>
       <a href="../reports/APQ 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
--->
 
     </div> <!-- /container -->
 
