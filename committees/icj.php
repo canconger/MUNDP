@@ -48,6 +48,12 @@
 		<h3>Agenda</h3>
 		<p>Questions relating to the Obligation to Prosecute or Extradite (Belgium v. Senegal)</p>
 
+    <br>
+
+    <p><strong>Case Summary</strong>
+    <br>
+    <a href="../reports/ICJ.pdf" class="btn btn-success btn-sm" target="_blank">Download</a></p>
+
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>
