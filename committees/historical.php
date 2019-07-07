@@ -48,7 +48,7 @@
 		</p>
 
 		<h3>Agenda</h3>
-		<p>The Second Boer War (The Boers vs The Royalists)</p>
+		<p>N/A</p>
 
 
     <h3>Chair Reports</h3>

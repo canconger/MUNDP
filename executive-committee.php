@@ -42,7 +42,7 @@
                 <hr>
 
                 <h3>Secretary General of Organization</h3>
-                <h4 class="margin-bottom-0 text-bold">Efe Karaca</h4>
+                <h4 class="margin-bottom-0 text-bold">Beyza Sema Koç</h4>
                 <!-- <p><a href="mailto:egegunes@modelundp.org">egegunes@modelundp.org</a></p> -->
                 <br>
             </div>
@@ -52,43 +52,43 @@
                 <hr>
 
                 <h3>Secretary General of Content</h3>
-                <h4 class="margin-bottom-0 text-bold">Ece Aydın</h4>
+                <h4 class="margin-bottom-0 text-bold">Defne Genç</h4>
                 <!--  <p><a href="mailto:serrasaydam@modelundp.org">serrasaydam@modelundp.org</a></p> -->
                 <br>
             </div>
 
             <div class="col-xs-12 col-md-12 padding-bottom-24">
                 <h3>Operations Manager</h3>
-                <h4 class="margin-bottom-0 text-bold">Can Cönger</h4>
+                <h4 class="margin-bottom-0 text-bold">Eran Kohen</h4>
                 <!-- <p><a href="mailto:operations@modelundp.org">operations@modelundp.org</a></p> -->
                 <br>
             </div>
 
             <div class="col-xs-6 col-md-6 padding-bottom-24">
-                <h3>Deputy Secretary General of Facilities</h3>
-                <h4 class="margin-bottom-0 text-bold">Ata Gültekin</h4>
+                <h3>Deputy Secretary General of Facilities and Finance</h3>
+                <h4 class="margin-bottom-0 text-bold">Eren Berke Sağlam</h4>
                 <!-- <p><a href="mailto:facilities@modelundp.org">facilities@modelundp.org</a></p> -->
                 <br>
                 <h3>Deputy Secretary General of Publications</h3>
-                <h4 class="margin-bottom-0 text-bold">Eran Kohen</h4>
+                <h4 class="margin-bottom-0 text-bold">Duru Yılmaz</h4>
                 <!--<p><a href="mailto:publications@modelundp.org">publications@modelundp.org</a></p> -->
                 <br>
                 <h3>Deputy Secretary General of Liaison</h3>
-                <h4 class="margin-bottom-0 text-bold">Beyza Sema Koç</h4>
+                <h4 class="margin-bottom-0 text-bold">Cenker Camcı</h4>
                 <!-- <p><a href="mailto:liaison@modelundp.org">liaison@modelundp.org</a></p> -->
             </div>
 
             <div class="col-xs-6 col-md-6 padding-bottom-24">
                 <h3>Deputy Secretary General of Content</h3>
-                <h4 class="margin-bottom-0 text-bold">Defne Genç</h4>
+                <h4 class="margin-bottom-0 text-bold">İrem Işık</h4>
                 <!-- <p><a href="mailto:saskiaacikgoz@modelundp.org">saskiaacikgoz@modelundp.org</a></p> -->
                 <br>
                 <h3>Deputy Secretary General of Content</h3>
-                <h4 class="margin-bottom-0 text-bold">Doğa Fadıllıoğlu</h4>
+                <h4 class="margin-bottom-0 text-bold">Duru Bayramoğlu</h4>
                 <!-- <p><a href="mailto:eceaydin@modelundp.org">eceaydin@modelundp.org</a></p> -->
                 <br>
                 <h3>Deputy Secretary General of Content</h3>
-                <h4 class="margin-bottom-0 text-bold">Mayra Kalaora</h4>
+                <h4 class="margin-bottom-0 text-bold">Sıla Sözeri</h4>
                 <!-- <p><a href="mailto:borabalcay@modelundp.org">borabalcay@modelundp.org</a></p> -->
             </div>
         </div>

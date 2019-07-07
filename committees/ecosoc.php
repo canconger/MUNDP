@@ -42,20 +42,17 @@
       <p>
         ECOSOC, one of the six main organs of the United Nations established by the UN Charter in 1946, is the principal body for coordination, policy review, policy dialogue and recommendations on economic, social and environmental issues, as well as for implementation of the internationally agreed development goals. ECOSOC serves as the central mechanism for the activities of the United Nations system and its specialized agencies, and supervises the subsidiary and expert bodies in the economic, social and environmental fields. It works to promote sustainable development, build partnerships, engage the youth in economics and advance the integration of economic and social policies.
       <br><br>
-      A wide range of activities are carried out by ECOSOC in the region of Africa via the Economic Commission for Africa (ECA), with a special emphasis on macroeconomic policy, regional integration and trade, social development, natural resources, innovation, gender issues, and governance.
+      A wide range of activities are carried out by ECOSOC in the region of
 			</p>
 
 		<h3>Agenda</h3>
 		<p>
-      Advancing water managements in accordance to SDG 6
-      <br><br>
-      Measures to establish stability and a secure management for cryptocurrencies
-      <br><br>
-      Endorsing a greener economy through improved economic policies
+      N/A
     </p>
 
     <h3>Chair Reports</h3>
 
+    <hide>
     <p><strong>Report 1</strong> <i>by Duygu Mercan</i><br>
       Advancing water managements in accordance to SDG 6<br>
       <a href="../reports/ECOSOC 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
@@ -65,6 +62,7 @@
     <p><strong>Report 3</strong> <i>by Emir Ziyal</i><br>
       Endorsing a greener economy through improved economic policies<br>
       <a href="../reports/ECOSOC 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    </hide>
 
     </div> <!-- /container -->
 

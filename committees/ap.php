@@ -33,7 +33,7 @@
     <div class="jumbotron executive">
         <div class="container">
             <h1>APQ</h1>
-			<h2>Advisory Panel on the Question of Central Africa</h2>
+			<h2>Advisory Panel on the Question of Persian Gulf</h2>
         </div>
     </div>
 
@@ -44,20 +44,13 @@
 			<br><br>
       All passed clauses are then collected to form a resolution called a “joint communiqué”, which is presented to the Secretary-General at the end of the conference. Experienced students are encouraged to apply to the Advisory Panel since its procedure allows for a heightened level of debate fit for seasoned MUN students.
       <br><br>
-      This year, the Advisory Panel is focusing on Central Africa: a region contaminated by conflict, the risk of the depletion of natural resources, corruption and famine. This core region of the African continent faces many developmental challenges which the experts of the Advisory Panel are expected to help solve.
+      This year, the Advisory Panel is focusing on Persian Gulf. pls
 		</p>
 
 		<h3>Agenda</h3>
-		<p>
-      Combating maritime insecurity in the Gulf of Guinea
-      <br><br>
-      Preserving the Central African rainforest from exploitation of resources
-      <br><br>
-      Measures to alleviate radicalism by amending poor governance
-    </p>
+	<p> N/A </p>
 
     <h3>Chair Reports</h3>
-
 
     <p><strong>Report 1</strong> <i>by Can Jozef Saul</i><br>
       Combating maritime insecurity in the Gulf of Guinea <br>
@@ -68,6 +61,7 @@
     <p><strong>Report 3</strong> <i>by Can Jozef Saul & İrem Işık</i><br>
       Measures to alleviate radicalism by amending poor governance<br>
       <a href="../reports/APQ 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+
 
     </div> <!-- /container -->
 

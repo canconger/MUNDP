@@ -58,10 +58,10 @@
                 <a href="committees/unesco" class="btn btn-primary btn-lg btn-block"><h4><strong>UNESCO</strong></h4><small>United Nations Educational, Scientific, and Cultural Organization</small></a>
             </div>
 			<div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/unodc" class="btn btn-primary btn-lg btn-block"><h4><strong>UNODC</strong></h4><small>United Nations Office on Drugs and Crime</small></a>
+                <a href="committees/unodc" class="btn btn-primary btn-lg btn-block"><h4><strong>UNDPPA</strong></h4><small>United Nations Political and Peacebuilding Affairs</small></a>
             </div>
 			<div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/unep" class="btn btn-primary btn-lg btn-block"><h4><strong>UNEP</strong></h4><small>United Nations Environmental Programme</small></a>
+                <a href="committees/unep" class="btn btn-primary btn-lg btn-block"><h4><strong>UNIDO</strong></h4><small>United Nations Industrial Development Organization</small></a>
             </div>
         </div>
 	</div> <!-- /container -->
