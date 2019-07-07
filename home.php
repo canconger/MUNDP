@@ -179,7 +179,7 @@
 		<br><br>
 
 		<h2>Theme <small>of MUNDP 2020</small></h2>
-		<div class="africa text-center">
+		<div class="arabstates text-center">
 			<h2>Arab States</h2>
 		</div>
 

@@ -32,15 +32,15 @@
 
     <div class="jumbotron executive">
         <div class="container">
-            <h1>UNEP</h1>
-			<h2>United Nations Environmental Programme</h2>
+            <h1>UNIDO</h1>
+			<h2>United Nations Industrial Development Organization</h2>
         </div>
     </div>
 
     <div class="container">
 		<h3>Committee Description</h3>
     <p>
-      The United Nations Environmental Programme (UNEP), established in 1972, is a UN agency that sets the global environmental agenda, promotes the consistent application of the environmental aspect of sustainable development within the UN, and serves as an authoritative advocate for solving global environmental problems.
+      United Nations Industrial Development Organization (UNIDO), established in 1972, is a UN agency that sets the global environmental agenda, promotes the consistent application of the environmental aspect of sustainable development within the UN, and serves as an authoritative advocate for solving global environmental problems.
 			<br><br>
       The activities of UNEP cover a vast range of issues such as the atmosphere, marine and terrestrial ecosystems, environmental governance and green economy. It has been active in funding and implementing environmental development projects, and has worked on the establishment and implementation of various policies with national governments and regional institutions in cooperation with environmental non-governmental organizations.
       <br><br>
@@ -49,11 +49,8 @@
 
 		<h3>Agenda</h3>
     <p>
-      Preventing illicit poaching and trafficking in wildlife
+      N/A
       <br><br>
-      Establishing anti-desertification with The Great Green Wall Initiative
-      <br><br>
-      Advancing environmental governance in order to achieve sustainability
     </p>
 
     <h3>Chair Reports</h3>
