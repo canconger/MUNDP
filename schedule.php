@@ -39,71 +39,32 @@
     <div class="container">
 
             <div class="col-xs-12 col-md-6">
-                <h2>Thursday<br><small>21st of February</small></h2>
+                <h2>Thursday<br><small>20th of February</small></h2>
                 <hr>
-                <p><strong>13:00 - 15:30</strong><br>Student Officer Training</p>
-                <p><strong>16:00 - 17:30</strong><br>Cocktail and Registration</p>
-                <p><strong>16:45 - 17:15</strong><br>Head of States Meeting (UNECA Delegates)</p>
-                <p><strong>17:30 - 18:30</strong><br>Opening Ceremony</p>
-                <p><strong>18:30 - 19:00</strong><br>Committees Meet</p>
-                <p><strong>19:00 - 19:15</strong><br>Student Officer Debriefing</p>
-                <p><strong>19:20 - 19:30</strong><br>Buses Leave The Koç School</p>
+                <p><strong>N/A</strong></p>
+                
             </div>
 
             <div class="col-xs-12 col-md-6">
-                <h2>Friday<br><small>22nd of February</small></h2>
+                <h2>Friday<br><small>21st of February</small></h2>
                 <hr>
-                <p><strong>8:00 - 8:15</strong><br>Busses Arrive at The Koç School</p>
-                <p><strong>8:00 - 8:30</strong><br>Student Officer Briefing</p>
-                <p><strong>8:00 - 8:45</strong><br>Light Breakfast in the Pyramid</p>
-                <p><strong>8:45 - 9:45</strong><br>SC, OIF, Historical, ECOSOC, APQ, ICJ in Session</p>
-                <p><strong>8:45 - 9:45</strong><br>Presidential Speeches</p>
-                <p><strong>9:45 - 10:00</strong><br>Break</p>
-                <p><strong>10:00 - 10:30</strong><br>Advisors Meeting</p>
-                <p><strong>10:30 - 18:00</strong><br>Approval Panel Opens</p>
-                <p><strong>10:00 - 18:00</strong><br>All Committees in Session</p>
-                <p><strong>12:30 - 14:00</strong><br>Lunch</p>
-                <p><strong>15:45 - 16:00</strong><br>Break</p>
-                <p><strong>18:00 - 18:15</strong><br>Buses Leave The Koç School</p>
+                <p><strong>N/A</strong></p>
 
             </div>
 
             <br><br>
 
             <div class="col-xs-12 col-md-6">
-                <h2>Saturday<br><small>23rd of February</small></h2>
+                <h2>Saturday<br><small>22nd of February</small></h2>
                 <hr>
-                <p><strong>9:00 - 9:15</strong><br>Buses Arrive at The Koç School</p>
-                <p><strong>9:00 - 9:20</strong><br>Student Officer Briefing</p>
-                <p><strong>9:00 - 9:30</strong><br>Light Breakfast in the Pyramid</p>
-                <p><strong>9:30 - 17:30</strong><br>All Committees in Session</p>
-                <p><strong>10:00 - 10:30</strong><br>Advisors Meeting</p>
-                <p><strong>11:30 - 11:45</strong><br>Break</p>
-                <p><strong>13:15</strong><br>Approval Panel Closes</p>
-                <p><strong>13:15 - 14:15</strong><br>Lunch</p>
-                <p><strong>15:45 - 16:00</strong><br>Break</p>
-                <p><strong>17:30 - 18:00</strong><br>Student Officer Debriefing</p>
-                <p><strong>17:30 - 19:00</strong><br>Party</p>
-                <p><strong>19:15</strong><br>Buses Leave The Koç School</p>
+                <p><strong>N/A</strong></p>
 
             </div>
 
             <div class="col-xs-12 col-md-6">
-                <h2>Sunday<br><small>24th of February</small></h2>
+                <h2>Sunday<br><small>23rd of February</small></h2>
                 <hr>
-                <p><strong>9:00 - 9:15</strong><br>Buses Arrive at The Koç School</p>
-                <p><strong>9:00 - 9:20</strong><br>Student Officer Debriefing</p>
-                <p><strong>9:00 - 9:25</strong><br>Light Breakfast in the Pyramid</p>
-                <p><strong>9:30 - 16:30</strong><br>SC, OIF, Historical, ECOSOC, APQ, ICJ, UNECA in Session</p>
-                <p><strong>9:30 - 10:30</strong><br>Development Committes in National Caucuses</p>
-                <p><strong>9:30 - 10:00</strong><br>Advisors Meeting</p>
-                <p><strong>10:30 - 10:45</strong><br>Break (Development Committees)</p>
-                <p><strong>10:45 - 16:30</strong><br>International Summit in Session</p>
-                <p><strong>11:45 - 12:45</strong><br>Lunch (Special Committees)</p>
-                <p><strong>12:45 - 13:45</strong><br>Lunch (International Summit)</p>
-                <p><strong>16:30 - 16:45</strong><br>Break</p>
-                <p><strong>16:45 - 18:45</strong><br>Closing Ceremony</p>
-                <p><strong>19:00</strong><br>Buses Leave the Koç School</p>
+                <p><strong>N/A</strong></p>
 
             </div>
         </div>

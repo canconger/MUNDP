@@ -7980,7 +7980,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
     <div class="jumbotron executive">
         <div class="container">
-            <h1>Registrations are Open!</h1>
+            <h1>Registrations are Not Yet Open!</h1>
         </div>
     </div>
 
