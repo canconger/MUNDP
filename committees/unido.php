@@ -10,7 +10,7 @@
     <meta name="keywords" content="<?= KEYWORDS ?>">
     <link rel="icon" href="../favicon.ico">
 
-    <title><?= TITLE ?>: UNEP</title>
+    <title><?= TITLE ?>: UNIDO</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
