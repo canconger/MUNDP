@@ -40,30 +40,26 @@
     <div class="container">
 		<h3>Committee Description</h3>
     <p>
-      United Nations Industrial Development Organization (UNIDO), established in 1972, is a UN agency that sets the global environmental agenda, promotes the consistent application of the environmental aspect of sustainable development within the UN, and serves as an authoritative advocate for solving global environmental problems.
+      United Nations Industrial Development Organisation (UNIDO), established in 8th of April 1979, is a UN Organisation primarily associated with Sustainable Development Goal 9, Industry, Innovation and Infrastructure, and is dedicated to promote and accelerate inclusive and sustainable industrial development (ISID) in the Member States.
 			<br><br>
-      The activities of UNEP cover a vast range of issues such as the atmosphere, marine and terrestrial ecosystems, environmental governance and green economy. It has been active in funding and implementing environmental development projects, and has worked on the establishment and implementation of various policies with national governments and regional institutions in cooperation with environmental non-governmental organizations.
+      The Organisation has four focal points being creating shared prosperity, advancing economic competitiveness, safeguarding the environment and strengthening knowledge and institutions. As of May 2018, 168 States are members of UNIDO.
       <br><br>
-      The regional office of UNEP in Africa promotes sustainable development throughout the continent; it battles the plethora of environmental challenges Africa faces, including land degradation, deforestation, biodiversity loss and extreme vulnerability to climate change.
+      UNIDO has a regional office in Cairo and numerous country offices in the region. Several countries in the Arab State region have recently suffered a severe setback not only as a result of the global financial crisis but of internal conflicts ranging from civil unrest to revolution, triggered by unequal access to economic opportunities and social welfare as well as unemployment among young people. Therefore, the presence of UNIDO is fundamental to the stability of the economy of the Arab States.
 		</p>
 
 		<h3>Agenda</h3>
     <p>
-      N/A
-      <br><br>
+        The prevention of the exploitation of natural resources in conflict regions
+        <br><br>
+        Utilising technology and innovation to ensure the accordance of oil sectors with the Sustainable Development Goals
+        <br><br>
+        Promoting inclusive and sustainable industrialization in accordance to SDG 9
     </p>
 
     <h3>Chair Reports</h3>
 
-    <p><strong>Report 1</strong> <i>by Merve Özdemir</i><br>
-      Preventing illicit poaching and trafficking in wildlife<br>
-      <a href="../reports/UNEP 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 1</strong> <i>by Merve Özdemir & Ergün Açıköz</i><br>
-      Establishing anti-desertification with The Great Green Wall Initiative <br>
-      <a href="../reports/UNEP 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 1</strong> <i>by Ergün Açıköz</i><br>
-      Advancing environmental governance in order to achieve sustainability<br>
-        <a href="../reports/UNEP 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Chair Reports Are Not Yet Available</strong> </p>
+
 
     </div> <!-- /container -->
 

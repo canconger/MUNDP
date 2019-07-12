@@ -40,15 +40,15 @@
     <div class="container">
 		<h3>Committee Description</h3>
     <p>
-      After over a decade of proudly hosting The Historical Committee, MUNDP 2019 presents The Second Boer War, the battle of The British Empire and The Boers. The First Boer War, also known as the Transvaal Rebellion (1880-1881), arised against the Royal annexation of 1877. The First Boer War may also be recalled as the South African War, where all the citizens of South Africa, white and black, were principally affected.
+      After over a decade of proudly hosting The Historical Committee, MUNDP 2020 presents The Second Crusade, the battle of the Crusader States led by France and German kings, and the Levantine States led by the Seljuk Empire. The Second Crusade took place between the year 1147 to 1149 and it was one of the major wars in the 12th century.
 			<br><br>
-      From the year 1835 to 1845, 15.000 Voortrekkers (the Dutch) immigrated from the British Cape Colony and walked across the Orange River into South Africa. With the “Great Trek”, where a British policy was strongly rejected, two independent republics were established and recognized by Great Britain in the Sand River -1852- and Bloefontein -1854- Conventions; “The Transvaal” and “The Orange Free State”.
+      The Second Crusade was initiated when the County of Edessa, founded during the First Crusade, was seized by the forces of Zengi, a Turkish atabeg who ruled many regions in the Middle East, in 1144.
       <br><br>
-      Tensions escalated in the area for the control of precious mining industries in the area and the British will to incorporate the Transvaal and the Orange Free State into a federation under the British control. The British government rejected the ultimatum and incentivated by the lack of British troops in the area Orange Free State and Transvaal declared war to the British causing the Second Boer War.
+      After the fall of the County of Edessa, Pope Eugene III announced the Second Crusade, which became the first crusade to be led by European kings: Louis VII of France and Conrad III of Germany. With the help of other European Nobles, after crossing the Byzantine territory, the separated armies of the Crusaders were both defeated by Seljuk Turks. The Crusaders also lost their territory in Jerusalem after an ill-advised attack in 1148, which gave rise to the Third Crusade at the end of the 12th century.
 		</p>
 
 		<h3>Agenda</h3>
-		<p>N/A</p>
+    <p>The Second Crusade</p>
 
 
     <h3>Chair Reports</h3>

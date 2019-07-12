@@ -40,16 +40,18 @@
     <div class="container">
 		<h3>Description du Comité</h3>
     <p>
-      L’Organisation Internationale de la Francophonie figure les pays francophones, autrement dit les pays dont la majorité des citoyens parlent français. Cette organisation conçoit 57 états membres ainsi que 20 états observateurs. Quelques buts de l’Organisation internationale de Francophonie est de favoriser la langue française en respectant la diversité culturelle et linguistique, notamment aux pays africains où le français est en recul. Promouvoir la paix, la démocratie et les droits de l’homme sont parmi les objectifs de l’OIF. Comme l’OIF est l’une des agences spécialisées, elle n’est pas obligée de fixer un sujet concernant le thème, mais cette année, le thème du comité est cohérent avec le thème général de la conférence: l’Afrique.
+      L’Organisation Internationale de la francophonie, parfois appelée «la francophonie», est une organisation internationale représentant les pays francophones ou ayant une affiliation avec la culture française. Avec 57 États membres, 7 États associés et 22 observateurs; L'OIF rassemble une communauté de plus de 300 millions de francophones pour faire progresser la diplomatie, la paix, l'égalité et la diversité culturelle.
+      <br><br>
+      Les objectifs principaux de l’OIF s’expliquent essentiellement par sa devise: «égalité, complémentarité, solidarité».  L’organisation s'efforce de promouvoir et d’intensifier “la coopération et la solidarité culturelles et techniques”. Cette année, même si la région arabe n’est pas majoritairement francophone, les questions de l’OIF sont cohérentes avec le thème du MUNDP 2020, “les États Arabes”. L’OIF peut favoriser la langue et la culture française, mais c’est toujours une organisation internationale œuvrant pour la réalisation d’un meilleur futur pour tout le monde.
 		</p>
 
 		<h3>Sujets</h3>
       <p>
-        Réduire le travail des enfants en Afrique sub-saharienne
+        Promouvoir la liberté d'expression et la presse dénationalisée dans les régimes Arabes
         <br><br>
-        Lutter contre la corruption des politiques en Afrique du Sud
+        Prévenenir les pratiques traditionnelles affectant la santé des femmes
         <br><br>
-        Combattre l'injustice de la répresentation de l'Afrique dans les médias occidentaux
+        Mesures visant à réduire la dépendance économique du Moyen-Orient à l'égard du pétrole
       </p>
 
     <h3>Rapport de Recherche</h3>

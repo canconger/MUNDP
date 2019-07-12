@@ -40,18 +40,18 @@
     <div class="container">
 		<h3>Committee Description</h3>
         <p>
-			The United Nations Higher Commission for Refugees was established in 1950 with the intention of helping the millions of European refugees who had fled their homes as a result of the Second World War. It works on the basis of the basic human right to seek asylum. The main goal of UNHCR is to provide safe refuge for ones who have fled violence, war, persecution or disaster at home; its directive has expanded over the years to ensure the protection of all displaced persons, including those who are internally displaced.
+			The United Nations Higher Commission for Refugees was established in 1950 with the intention of helping the millions of European refugees who had fled their homes as a result of the Second World War. It works on the basis of the basic human right to seek asylum. The main goal of UNHCR is to provide a safe refuge for ones who have fled violence, war, persecution or disaster at home; its directive has expanded over the years to ensure the protection of all displaced persons, including those who are internally displaced.
 			<br><br>
-      Africa hosts 18 million refugees which make up more than 26 percent of the world’s refugee population, due to ongoing crises in South Sudan, Nigeria, and the Central African Republic (CAR) in addition to various conflicts in Yemen and Burundi. UNHCR works towards ensuring that displaced persons have access to services such as education and healthcare across Africa. It helps create safe school environments, improve security in refugee camps, and provide lighting in public spaces to decrease the risks of sexual and gender based violence.
+      An estimated %40 percent of the world's refugees are either in or from the Middle East, even though the region holds only %5 of the global population. Civil wars in Yemen, Syria, Iraq, and Libya have forced millions of people to be internally displaced in the region, with just as much seeking asylum in other continents and regions. This leaves millions of families in need of assistance, and UNHCR aims to deliver aid in forms of food, shelter, education, and navigation.
 		</p>
 
 		<h3>Agenda</h3>
 		    <p>
-          Measures to resolve the South Sudan refugee crisis
+          Preventing dicrimination against displaced individuals in various regions of Iraq
           <br><br>
-          Measures to prevent the spread of famine and disease in conflict zones
+          Developing a framework to prevent and combat human trafficking and migrant smuggling
           <br><br>
-          Stabilising health care and water systems in host countries
+          Ensuring access to primary healthcare in refugee camps in conflict areas
         </p>
 
     <h3>Chair Reports</h3>

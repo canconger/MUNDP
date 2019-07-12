@@ -40,20 +40,20 @@
     <div class="container">
 		<h3>Committee Description</h3>
       <p>
-      Established in January 1998 the United Nations Office for Disarmament Affairs (UNODA) promotes disarmament through dialogue confidence-building on military matters and regional disarmament efforts. UNODA actively works with other UN bodies such as the General Assembly First Committee and Disarmament Commission also heading various projects in Africa.
+      Established in January 1998 the United Nations Office for Disarmament Affairs (UNODA) promotes disarmament through dialogue confidence-building on military matters and regional disarmament efforts. The Office for Disarmament Affairs also supports multilateral efforts aimed at achieving the ultimate goal of general and complete disarmament under strict and effective international control.
 			<br><br>
-      UNODA has numerous regional centres, The United Nations Regional Center for Peace and Disarmament in Africa (UNREC) has been functioning as an organization which aims to maintain peace and security regarding disarmament in Africa. UNREC has organized various sub-regional workshops to enhance the process of disarmament in Africa. One of them concerning the Lake Chad Basin Countries which was held in 6-7 November 2017 in N’Djamena, Chad.  One of the  national workshops were to prevent diversion of arms to terrorist groups, held in 9-10 November 2017 in Abuja, Nigeria.
+      UNODA actively works with other UN bodies such as the General Assembly First Committee and Disarmament Commission also heading various projects concerning the Arab States.
       <br><br>
-      UNODA also heads efforts to achieve the proliferation of weapons of mass destructions such as nuclear weapons and implementation of the Arms Trade Treaty internationally. Overall UNODA is crucial for maintaining the security and stability of the African region.
+      The office also is concerned with issues such as weapons of mass destruction, counter-terrorism strategy, gender perspectives, and disarmament education, which are all major issues in the Arab States. The office also publishes and promotes numerous treaties on non-proliferation of nuclear weapons, cluster munitions, biological and chemical weapons, terrorism and arms trade. Since the Arab States such as Algeria, Jordan, Iraq, and Syria have been part of these treaties, the presence of UNODA and its programs is crucial to help stabilize the region and keep it from further conflicts.
 		  </p>
 
 		<h3>Agenda</h3>
 		<p>
-      Measures to abolish landmines and cluster munitions
+      Preventing the widespread use of ballistic missiles in an effort to abolish the missile arms race
       <br><br>
-      Implementation of The Small Arms Survey
+      Addressing the power shift from national armies to militias
       <br><br>
-      The prevention of the acquisition and use of weaponry by extremist groups in the Lake Chad Basin
+      Taking measures against the development and proliferation of nuclear weapons
     </p>
 
     <h3>Chair Reports</h3>

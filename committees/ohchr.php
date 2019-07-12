@@ -40,18 +40,18 @@
     <div class="container">
 		<h3>Committee Description</h3>
         <p>
-          The Office of the United Nations High Commissioner for Human Rights (OHCHR) was established in December 1993, and it continues to work as the principal human rights office of the UN in compliance with the international human rights treaties and the Special Procedures of the Human Rights Council. Alongside supervising the Human Rights Council in Geneva, OHCHR primarily focuses on promoting human rights without distinction as stated in the Universal Declaration of Human Rights of 1948. OHCHR ensures the protection of human rights under severe circumstances of violence, conflict and insecurity.
-			<br><br>
-      OHCHR has a number of regional centres and offices in Africa: The UN Subregional Centre for Human Rights and Democracy in Central Africa strives towards strengthening security, stability and development in Central Africa through encouraging respect for fundemental human rights and democracy; The East Africa Regional Office facilitates information-sharing, capacity building initiatives and actions to promote, monitor and uphold human rights primarily in countries located in the East and Horn of Africa; The Southern Africa Regional Office helps States, UN agencies, national human rights institutions, and civil society organizations in order to achieve the realization of human rights in the region; The West Africa Regional Office aims to abolish human rights abuses in the most volatile subregion of Africa, host to numerous economical, political, and humanitarian crises.
-		</p>
+          The Office of the United Nations High Commissioner for Human Rights (OHCHR) was established in December 1993, and it continues to work as the principal human rights office of the UN in compliance with the international human rights treaties and the Special Procedures of the Human Rights Council. Alongside supervising the Human Rights Council in Geneva, OHCHR primarily focuses on promoting human rights without distinction as stated in the Universal Declaration of Human Rights of 1948. OHCHR ensures the protection of human rights under severe circumstances of violence, conflict, and insecurity.
+			    <br><br>
+          OHCHR has a number of regional offices and centers that include the Arab States: The Middle East Regional Office promotes the improvement of thematic issues that require attention at the national and regional levels and specifically focuses on improving the freedoms of opinion and expression, association and peaceful assembly in the region; The Centre for South-West Asia and the Arab Region offers training programmes that are essential for the region, which include training on Human Rights and Diplomacy, Human Trafficking, National Human Rights Institutions, Human Rights Education, moreover, the Centre organizes regional annual workshops on human rights-based diplomacy for Arab diplomats, and provides human rights training to law enforcement agencies.
+		    </p>
 
 		<h3>Agenda</h3>
 		<p>
-      Ensuring freedom of speech in the media in situations of armed conflict
+      Addressing racial discrimination in Saudi Arabia through the development and implementation of domestic legislation
       <br><br>
-      Preventing the recruitment of child soldiers
+      Establishing strong civil societies by combating the imprisonment and harassment of civil society activists
       <br><br>
-      Measures to eradicate all forms of slavery
+      The question of the Yemen humanitarian crisis
     </p>
 
     <h3>Chair Reports</h3>

@@ -40,18 +40,18 @@
     <div class="container">
 		<h3>Committee Description</h3>
     <p>
-			The United Nations Security Council (UNSC) is one of the most influential international bodies that has ever come into existence as it is the only binding UN organ. The UNSC consists of fifteen members in total five of which (France, People’s Republic of China, Russian Federation, United Kingdom, and the United States of America) are permanent members; the five permanent members posses the veto power and the other ten members are temporary and change every two years. The attendees must be knowledgeable and experienced to debate in the ad hoc format that the UNSC follows.
+			The United Nations Security Council (UNSC) is one of the most influential international bodies that has ever come into existence as it is the only binding UN organ. The UNSC consists of fifteen members in total, five of which (France, People’s Republic of China, Russian Federation, United Kingdom, and the United States of America) are permanent members; the five permanent members possess the veto power and the other ten members are temporary and change every two years. The attendees must be knowledgeable and experienced to debate in the ad hoc format that the UNSC follows.
 			<br><br>
-			The Security Council has been conducting regular briefs when it comes to regional conflicts such as South Sudan and Ethiopia. Resolutions and consultations regarding famine, deployment and future requirements of the Regional Protection Force (RPF) as well as  impediments to the UN Mission in South Sudan (UNMISS) in carrying out its mandate have been ongoing. In the recent African Union summit, The UN Secretary General Antonio Guterres announced that ties and communication between the African Union and the Security Council have been stronger than  subsequent years. In April of 2017, which landmarked the first UN-AU conference, two vital frameworks were established on peace and security and sustainable development. The UNSC, continues to have regular meetings regarding the recent establishments and Africa’s peace and security.
+			Since 1946, the United Nations Security Council has had regular meetings regarding issues in the Arab States, in order to improve and stabilize the region. Over the years of discussion, the Security Council has constituted many Subsidiary Organs resulting from the documents adopted during the discussions. In the Arab States, UNSC has mainly focused on the following: women, peace, and security; children and armed conflict; protection of civilians in armed conflict. In the recent Arab League Summit, UN Secretary-General Antonio Guterres reaffirmed the strong link between the UN and the people of the Arab world and also stated that the UN’s cooperation with the League of Arab States is pivotal for the cohesion and stability of the region in the coming years. Likewise, the UNSC continues to have regular meetings regarding the recent establishments and Arab States’ peace and security. 
 		</p>
 
 		<h3>Agenda</h3>
 		  <p>
-        The Question of South Sudan
+        The Question of the Syrian Golan Heights
         <br><br>
-        The Situation in Ethiopia
+        The Situation in Sudan
         <br><br>
-        The issue of violent proxy militias
+        Taking measures to combat the financing of terrorists by local governments
       </p>
 
     <h3>Chair Reports</h3>

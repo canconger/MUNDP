@@ -40,14 +40,18 @@
     <div class="container">
 		<h3>Committee Description</h3>
       <p>
-        ECOSOC, one of the six main organs of the United Nations established by the UN Charter in 1946, is the principal body for coordination, policy review, policy dialogue and recommendations on economic, social and environmental issues, as well as for implementation of the internationally agreed development goals. ECOSOC serves as the central mechanism for the activities of the United Nations system and its specialized agencies, and supervises the subsidiary and expert bodies in the economic, social and environmental fields. It works to promote sustainable development, build partnerships, engage the youth in economics and advance the integration of economic and social policies.
-      <br><br>
-      A wide range of activities are carried out by ECOSOC in the region of
+        ECOSOC, one of the six main organs of the United Nations established by the UN Charter in 1946, is the principal body for coordination, policy review, policy dialogue, and recommendations on economic, social and environmental issues, as well as for implementation of the internationally agreed development goals. ECOSOC serves as the central mechanism for the activities of the United Nations system and its specialized agencies and supervises the subsidiary and expert bodies in the economic, social and environmental fields. It works to promote sustainable development, build partnerships, engage the youth in economics and advance the integration of economic and social policies.
+        <br><br>
+        Since the main goals of the council include promoting sustainable development, coordinating humanitarian action, providing coordination and oversight, building partnerships, raising awareness on emerging issues, working with civil society and engaging youth, it holds a significant role in the Arab region.
 			</p>
 
 		<h3>Agenda</h3>
 		<p>
-      N/A
+      The question of Israeli economic restrictions on the Palestinian territory
+      <br><br>
+      Ensuring the protection of the environment through water management and industrial waste control
+      <br><br>
+      Employing targeted measures to combat unemployment with a focus on women and the youth
     </p>
 
     <h3>Chair Reports</h3>

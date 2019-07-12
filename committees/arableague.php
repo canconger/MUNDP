@@ -32,26 +32,26 @@
 
     <div class="jumbotron executive">
         <div class="container">
-            <h1>UNECA</h1>
-			<h2>United Nations Economic Commission for Africa</h2>
+            <h1>ARAB LEAGUE</h1>
+			<h2>Arab League Committee</h2>
         </div>
     </div>
 
     <div class="container">
 		<h3>Committee Description</h3>
     <p>
-      The United Nations Economic Commission for Africa (UNECA) is entering its 60th year after being established in 1958 by the Economic and Social Council (ECOSOC) of the United Nations (UN). Comprised of 54 member States, UNECA promotes economic and social advancement in its member States as well as establishing international cooperation with a special focus on Africa. UNECA functions on both a regional and sub-regional basis, making it eligible to manage resources and strive for economic and social development, gender equality, development in innovation and technology and governance in the African continent.
+      The Arab League, or the League of Arab States, aims to unite the vastly differing Arab States in and around North Africa, the Horn of Africa and Arabia since its establishment in Cairo, 1945. As guided by the Charter of the Arab League, the agency works towards facilitating communication and coordinating collaboration between its Member States.
 			<br><br>
-      UNECA follows and ad-hoc debate structure and hosts the President or Prime Minister of each country, with the delegates of the committee representing these individuals. The delegates will hence participate in a debate that functions clause-by-clause rather than debating on resolutions as the leader of their respective member state.
+      Even though the Arab League is regarded as a regional organization of Arab States, its efforts on free trade, economic cooperation, and joint defense have global and perpetual outcomes. Through its specialized institutions and Council, the Arab League establishes cultural, political, economic programs for the advancement of the Arab world. With the contributions of its 22 members and 4 observers, the Arab League has a substantial impact on some of our time’s most crucial issues such as the Qatari Blockade, the Syrian Civil War and the Israeli-Palestinian Conflict.
 		</p>
 
 		<h3>Agenda</h3>
 		<p>
-      Creating an international framework to achieve SDG 8
+      Developing guidelines to diminish the consequences of economic sanctions and their impact on human rights
       <br><br>
-      Transforming the agricultural sector in Africa towards agricultural industrialization
+      Achieving a peaceful and democratic political transition in Syria
       <br><br>
-      Eliminating constraints on gender and youth employment in Sub-Saharan Africa
+      Taking political measures to resolve the Libyan conflict
     </p>
 
     <h3>Chair Reports</h3>

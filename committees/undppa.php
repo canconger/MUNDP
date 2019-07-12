@@ -32,26 +32,26 @@
 
     <div class="jumbotron executive">
         <div class="container">
-            <h1>UNODC</h1>
-			<h2>United Nations Office on Drugs and Crime</h2>
+            <h1>UNDPPA</h1>
+			<h2>United Nations Political and Peacebuilding Affairs</h2>
         </div>
     </div>
 
     <div class="container">
 		<h3>Committee Description</h3>
     <p>
-      The United Nations Office on Drugs and Crime was established in 1977, with the prime goal of eradicating international crime, particularly relating to the use of illicit drugs. The organ pushes to achieve minimal terrorism, drug abuse, corruption, and criminal trafficking worldwide and assists any Member Nation in need regarding such issues. There are up to 150 Member Nations along with 20 field offices.
+      UNDPPA, which is an abbreviation for the United Nations Department of Political and Peacebuilding Affairs, is one of the departments of the Secretariat’s responsible for assisting the Secretary-General and the Security Council in their efforts to “prevent deadly conflict and build sustainable peace around the world.” The department, which was established on 1 March 1992, has now been reformed in the year of 2019, with new advancements made in its peace and security infrastructure.
 			<br><br>
-      The regional offices of the African continent particularly strive to conclude issues relating to transnational crime, criminal justice, anti-corruption, illicit drug use and drug trafficking, terrorism and human trafficking. As a region with no shortage of crime and corruption, Africa is always a main focus of the UNODC and faces some of the most difficult challenges relating to criminal activity, substance abuse and corruption.
+      DPPA is a platform for “crisis response”, currently undertaking operations in the Americas, Africa, Asia, Europe, and the Middle East. The department does not only advise the UN Organisations but also provides staff support, and assesses resolution conflicts through its Decolonization Unit, Palestinian Rights Division and Electoral Assistance Division. 
 		</p>
 
 		<h3>Agenda</h3>
 		<p>
-      Measures to prevent human trafficking and smuggling of migrants
+      Advancing political negotiations towards a two-state solution to the Israeli-Palestinian conflict
       <br><br>
-      Tackling the issue of cocaine trafficking in West Africa
+      Facilitating political accountability and the protection of human rights in Iraq
       <br><br>
-      Alleviating the advancement of transnational organized crime
+      Promoting reconciliation and regional cooperation to ensure security and development in Afghanistan
     </p>
 
     <h3>Chair Reports</h3>

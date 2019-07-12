@@ -40,15 +40,23 @@
     <div class="container">
 		<h3>Committee Description</h3>
     <p>
-      As the advisory organ to the Secretary-General of the United Nations, the Advisory Panel is a committee comprised of participating parties called “experts”. The committee focuses on a specific sub-region in accordance to the general theme of the conference and follows an ad-hoc structure with three rounds of lobbying. The aim is to pass each clause unanimously and without a unanimous vote, a clause is considered as tabled, left to the next round of debate and lobbied on again, with the procedure repeating itself until the end of the third round of debate.
+      <p>
+      As the advisory organ to the Secretary-General of the United Nations, the Advisory Panel is a committee comprised of participating parties called “experts”. The committee focuses on a specific sub-regions in accordance with the general theme of the conference and follows an ad-hoc structure with three rounds of lobbying.
 			<br><br>
-      All passed clauses are then collected to form a resolution called a “joint communiqué”, which is presented to the Secretary-General at the end of the conference. Experienced students are encouraged to apply to the Advisory Panel since its procedure allows for a heightened level of debate fit for seasoned MUN students.
+      The aim is to pass each clause unanimously and without a unanimous vote, a clause is considered as tabled, left to the next round of debate and lobbied on again, with the procedure repeating itself until the end of the third round of debate. All passed clauses are then collected to form a resolution called a “joint communiqué”, which is presented to the Secretary-General at the end of the conference. Experienced students are encouraged to apply to the Advisory Panel since its procedure allows for a heightened level of debate fit for seasoned MUN students.
       <br><br>
-      This year, the Advisory Panel is focusing on Persian Gulf. pls
+      This year, the Advisory Panel will focus on the Persian Gulf.
+      </p>
 		</p>
 
 		<h3>Agenda</h3>
-	<p> N/A </p>
+    <p>
+        Amending legislation to criminalise terrorism and money laundering
+        <br><br>
+        Developing strategies for the eradication of corruption by increasing democratic accountability
+        <br><br>
+        Combatting the spread of MERS-CoV disease in the Middle East
+    </p>
 
     <h3>Chair Reports</h3>
 
