@@ -57,16 +57,7 @@
     </p>
 
     <h3>Chair Reports</h3>
-
-    <p><strong>Report 1</strong> <i>by Emir Arda Değer & Duru Bayramoğlu</i><br>
-      Measures to abolish landmines and cluster munitions<br>
-      <a href="../reports/UNODA 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Duru Bayramoğlu</i><br>
-      Implementation of The Small Arms Survey<br>
-      <a href="../reports/UNODA 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 3</strong> <i>by Emir Arda Değer</i><br>
-      The prevention of the acquisition and use of weaponry by extremist groups in the Lake Chad Basin<br>
-      <a href="../reports/UNODA 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p>Chair Reports Are Not Yet Available</p>
 
     </div> <!-- /container -->
 

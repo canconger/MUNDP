@@ -58,7 +58,7 @@
 
     <h3>Chair Reports</h3>
 
-    <p><strong>Chair Reports Are Not Yet Available</strong> </p>
+    <p>Chair Reports Are Not Yet Available</p>
 
 
     </div> <!-- /container -->

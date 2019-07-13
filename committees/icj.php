@@ -53,8 +53,7 @@
     <br>
 
     <p><strong>Case Summary</strong>
-    <br>
-    <a href="../reports/ICJ.pdf" class="btn btn-success btn-sm" target="_blank">Download</a></p>
+    <p>Case Summary Is Not Yet Available</p>
 
     </div> <!-- /container -->
 

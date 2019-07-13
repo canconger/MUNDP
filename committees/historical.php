@@ -52,11 +52,7 @@
 
 
     <h3>Chair Reports</h3>
-
-
-    <p><strong>Report 1</strong> <i>by Berkin Çetintaş, Eren Şerbetçi, Egemen Bostan, Ayşem Sipahioğlu & Eylül Göktaş</i><br>
-      THE SECOND BOER WAR<br>
-      <a href="../reports/HISTORICAL.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p>Chair Reports Are Not Yet Available</p>
 
     </div> <!-- /container -->
 

@@ -55,16 +55,7 @@
         </p>
 
     <h3>Chair Reports</h3>
-
-    <p><strong>Report 1</strong> <i>by Kaya Güvendi</i><br>
-      Measures to resolve the South Sudan refugee crisis <br>
-      <a href="../reports/UNHCR 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Batuhan Şahin & Kaya Güvendi</i><br>
-      Measures to prevent the spread of famine and disease in conflict zones<br>
-      <a href="../reports/UNHCR 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 3</strong> <i>by Batuhan Şahin</i><br>
-      Stabilising health care and water systems in host countries<br>
-      <a href="../reports/UNHCR 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p>Chair Reports Are Not Yet Available</p>
 
     </div> <!-- /container -->
 

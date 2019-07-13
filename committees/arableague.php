@@ -55,16 +55,7 @@
     </p>
 
     <h3>Chair Reports</h3>
-
-    <p><strong>Report 2</strong> <i>by Onur Kaan Şekerel</i><br>
-      Creating an international framework to achieve SDG 8 <br>
-      <a href="../reports/UNECA 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Hazal Bulut & Alp Altuğ</i><br>
-      Transforming the agricultural sector in Africa towards agricultural industrialization<br>
-      <a href="../reports/UNECA 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 3</strong> <i>by Bora Balçay</i><br>
-      Eliminating constraints on gender and youth employment in Sub-Saharan Africa<br>
-      <a href="../reports/UNECA 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p>Chair Reports Are Not Yet Available</p>
 
     </div> <!-- /container -->
 

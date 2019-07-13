@@ -55,16 +55,7 @@
     </p>
 
     <h3>Chair Reports</h3>
-
-    <p><strong>Report 1</strong> <i>by Sıla Sözeri</i><br>
-      Ensuring freedom of speech in the media in situations of armed conflict<br>
-      <a href="../reports/OHCHR 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Sıla Sözeri</i><br>
-      Preventing the recruitment of child soldiers<br>
-      <a href="../reports/OHCHR 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 3</strong> <i>by Defne Karabatur</i><br>
-      Measures to eradicate all forms of slavery<br>
-      <a href="../reports/OHCHR 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p>Chair Reports Are Not Yet Available</p>
 
     </div> <!-- /container -->
 

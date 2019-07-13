@@ -55,18 +55,7 @@
     </p>
 
     <h3>Chair Reports</h3>
-
-    <hide>
-    <p><strong>Report 1</strong> <i>by Duygu Mercan</i><br>
-      Advancing water managements in accordance to SDG 6<br>
-      <a href="../reports/ECOSOC 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Demir Timuray</i><br>
-      Measures to establish stability and a secure management for cryptocurrencies<br>
-      <a href="../reports/ECOSOC 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 3</strong> <i>by Emir Ziyal</i><br>
-      Endorsing a greener economy through improved economic policies<br>
-      <a href="../reports/ECOSOC 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    </hide>
+    <p>Chair Reports Are Not Yet Available</p>
 
     </div> <!-- /container -->
 

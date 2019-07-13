@@ -42,7 +42,7 @@
     <p>
 			The United Nations Security Council (UNSC) is one of the most influential international bodies that has ever come into existence as it is the only binding UN organ. The UNSC consists of fifteen members in total, five of which (France, People’s Republic of China, Russian Federation, United Kingdom, and the United States of America) are permanent members; the five permanent members possess the veto power and the other ten members are temporary and change every two years. The attendees must be knowledgeable and experienced to debate in the ad hoc format that the UNSC follows.
 			<br><br>
-			Since 1946, the United Nations Security Council has had regular meetings regarding issues in the Arab States, in order to improve and stabilize the region. Over the years of discussion, the Security Council has constituted many Subsidiary Organs resulting from the documents adopted during the discussions. In the Arab States, UNSC has mainly focused on the following: women, peace, and security; children and armed conflict; protection of civilians in armed conflict. In the recent Arab League Summit, UN Secretary-General Antonio Guterres reaffirmed the strong link between the UN and the people of the Arab world and also stated that the UN’s cooperation with the League of Arab States is pivotal for the cohesion and stability of the region in the coming years. Likewise, the UNSC continues to have regular meetings regarding the recent establishments and Arab States’ peace and security. 
+			Since 1946, the United Nations Security Council has had regular meetings regarding issues in the Arab States, in order to improve and stabilize the region. Over the years of discussion, the Security Council has constituted many Subsidiary Organs resulting from the documents adopted during the discussions. In the Arab States, UNSC has mainly focused on the following: women, peace, and security; children and armed conflict; protection of civilians in armed conflict. In the recent Arab League Summit, UN Secretary-General Antonio Guterres reaffirmed the strong link between the UN and the people of the Arab world and also stated that the UN’s cooperation with the League of Arab States is pivotal for the cohesion and stability of the region in the coming years. Likewise, the UNSC continues to have regular meetings regarding the recent establishments and Arab States’ peace and security.
 		</p>
 
 		<h3>Agenda</h3>
@@ -55,16 +55,7 @@
       </p>
 
     <h3>Chair Reports</h3>
-
-    <p><strong>Report 1</strong> <i>by Tan Halaçoğlu</i><br>
-      The Question of South Sudan <br>
-      <a href="../reports/SC 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Kaya Çolakoğlu</i><br>
-      The Situation in Ethiopia<br>
-      <a href="../reports/SC 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 3</strong> <i>by Tan Halaçoğlu & Kaya Çolakoğlu</i><br>
-      The issue of violent proxy militias<br>
-      <a href="../reports/SC 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p>Chair Reports Are Not Yet Available</p>
 
     </div> <!-- /container -->
 

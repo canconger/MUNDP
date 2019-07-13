@@ -55,16 +55,7 @@
       </p>
 
     <h3>Rapport de Recherche</h3>
-
-          <p><strong>Rapport 1</strong> <i>by Melisa Üstündağ</i><br>
-            Réduire le travail des enfants en Afrique sub-saharienne<br>
-            <a href="../reports/OIF 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-          <p><strong>Rapport 2</strong> <i>by Nesli Özer</i><br>
-            Lutter contre la corruption des politiques en Afrique du Sud<br>
-            <a href="../reports/OIF 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-          <p><strong>Rapport 3</strong> <i>by Barbaros Pazarcı</i><br>
-            Combattre l'injustice de la répresentation de l'Afrique dans les médias occidentaux<br>
-            <a href="../reports/OIF 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p>Les Rapport de Recherche ne Sont Pas Encore Disponibles</p>
 
 
     </div> <!-- /container -->

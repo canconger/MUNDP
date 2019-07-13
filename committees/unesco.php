@@ -49,7 +49,7 @@
 		<p>
       The safeguarding of cultural heritage sites from destruction resulting from regional conflict
       <br><br>
-      Promoting the integration of women in branches of Science,Technology, Engineering and Mathematics (STEM)
+      Promoting the integration of women in branches of Science, Technology, Engineering and Mathematics (STEM)
       <br><br>
       Preventing violent extremism resulting from religious indoctrination through education
     </p>

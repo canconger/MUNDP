@@ -42,7 +42,7 @@
     <p>
       UNDPPA, which is an abbreviation for the United Nations Department of Political and Peacebuilding Affairs, is one of the departments of the Secretariat’s responsible for assisting the Secretary-General and the Security Council in their efforts to “prevent deadly conflict and build sustainable peace around the world.” The department, which was established on 1 March 1992, has now been reformed in the year of 2019, with new advancements made in its peace and security infrastructure.
 			<br><br>
-      DPPA is a platform for “crisis response”, currently undertaking operations in the Americas, Africa, Asia, Europe, and the Middle East. The department does not only advise the UN Organisations but also provides staff support, and assesses resolution conflicts through its Decolonization Unit, Palestinian Rights Division and Electoral Assistance Division. 
+      DPPA is a platform for “crisis response”, currently undertaking operations in the Americas, Africa, Asia, Europe, and the Middle East. The department does not only advise the UN Organisations but also provides staff support, and assesses resolution conflicts through its Decolonization Unit, Palestinian Rights Division and Electoral Assistance Division.
 		</p>
 
 		<h3>Agenda</h3>
@@ -55,16 +55,7 @@
     </p>
 
     <h3>Chair Reports</h3>
-
-    <p><strong>Report 1</strong> <i>by Deniz Önalır</i><br>
-      Measures to prevent human trafficking and smuggling of migrants<br>
-      <a href="../reports/UNODC 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Derin Karzan</i><br>
-      Tackling the issue of cocaine trafficking in West Africa<br>
-      <a href="../reports/UNODC 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by Derin Karzan & Deniz Önalır</i><br>
-      Alleviating the advancement of transnational organized crime<br>
-      <a href="../reports/UNODC 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p>Chair Reports Are Not Yet Available</p>
 
     </div> <!-- /container -->
 
