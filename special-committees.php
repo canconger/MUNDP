@@ -64,7 +64,7 @@
                 <a href="committees/ap" class="btn btn-primary btn-lg btn-block"><h4><strong>APQ</strong></h4><small>Advisory Panel on the Question of The Persian Gulf</small></a>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/uneca" class="btn btn-primary btn-lg btn-block"><h4><strong>ARAB LEAGUE</strong></h4><small>Arab League Committee</small></a>
+                <a href="committees/arableague" class="btn btn-primary btn-lg btn-block"><h4><strong>ARAB LEAGUE</strong></h4><small>Arab League Committee</small></a>
             </div>
         </div>
     </div> <!-- /container -->

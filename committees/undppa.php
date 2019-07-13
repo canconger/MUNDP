@@ -10,7 +10,7 @@
     <meta name="keywords" content="<?= KEYWORDS ?>">
     <link rel="icon" href="../favicon.ico">
 
-    <title><?= TITLE ?>: UNODC</title>
+    <title><?= TITLE ?>: UNDPPA</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

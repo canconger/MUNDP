@@ -40,7 +40,7 @@
         <h2>About Development Committees</h2>
         <hr>
 
-        <p class="padding-bottom-24">These committees discuss the developmental challenges faced by the countries in the UNDP region the conference focuses on. This year, the delegates in the six development committees will focus on the array of developmental obstacles in Africa and join the rest of their delegations at the International Summit on Sunday.</p>
+        <p class="padding-bottom-24">These committees discuss the developmental challenges faced by the countries in the UNDP region the conference focuses on. This year, the delegates in the six development committees will focus on the array of developmental obstacles in Arab States and join the rest of their delegations at the International Summit on Sunday.</p>
 
 		<hr>
 
@@ -58,10 +58,10 @@
                 <a href="committees/unesco" class="btn btn-primary btn-lg btn-block"><h4><strong>UNESCO</strong></h4><small>United Nations Educational, Scientific, and Cultural Organization</small></a>
             </div>
 			<div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/unodc" class="btn btn-primary btn-lg btn-block"><h4><strong>UNDPPA</strong></h4><small>United Nations Political and Peacebuilding Affairs</small></a>
+                <a href="committees/undppa" class="btn btn-primary btn-lg btn-block"><h4><strong>UNDPPA</strong></h4><small>United Nations Political and Peacebuilding Affairs</small></a>
             </div>
 			<div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/unep" class="btn btn-primary btn-lg btn-block"><h4><strong>UNIDO</strong></h4><small>United Nations Industrial Development Organization</small></a>
+                <a href="committees/unido" class="btn btn-primary btn-lg btn-block"><h4><strong>UNIDO</strong></h4><small>United Nations Industrial Development Organization</small></a>
             </div>
         </div>
 	</div> <!-- /container -->
