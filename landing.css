@@ -47,10 +47,10 @@
 
 #MUNDP-logo {
   left: 25%;
-  background-image: url(landing_img/logo.png);
+  background-image: url('landing_img/munlogo.png');
 }
 
 #JMUNDP-logo {
   right: 25%;
-  background-image: url("landing_img/JMUNDP 19_white.png");
+  background-image: url("landing_img/jmundlogo.png");
 }
