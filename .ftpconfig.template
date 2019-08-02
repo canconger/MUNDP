@@ -1,0 +1,17 @@
+{
+    "protocol": "ftp",
+    "host": "YOUR_FTP_HOST",
+    "port": 21,
+    "user": "YOUR_FTP_USER",
+    "pass": "YOUR_FTP_PASS",
+    "promptForPass": false,
+    "remote": "public_html/",
+    "local": "",
+    "secure": false,
+    "secureOptions": null,
+    "connTimeout": 10000,
+    "pasvTimeout": 10000,
+    "keepalive": 10000,
+    "watch": [],
+    "watchTimeout": 500
+}
