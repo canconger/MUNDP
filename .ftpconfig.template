@@ -1,9 +1,9 @@
 {
     "protocol": "ftp",
-    "host": "ftp.modelundp.org",
+    "host": "YOUR_FTP_HOST",
     "port": 21,
-    "user": "h35781",
-    "pass": "Mundp18!",
+    "user": "YOUR_FTP_USER",
+    "pass": "YOUR_FTP_PASS",
     "promptForPass": false,
     "remote": "public_html/",
     "local": "",

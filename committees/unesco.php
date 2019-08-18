@@ -55,7 +55,8 @@
     </p>
 
     <h3>Chair Reports</h3>
-
+    <p>Chair Reports Are Not Yet Available</p>
+    <!--
     <p><strong>Report 1</strong> <i>by Irmak Genç & Kibel Aker</i><br>
       Eliminating gender inequity in educational fields of science and engineering<br>
       <a href="../reports/UNESCO 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
@@ -65,7 +66,7 @@
     <p><strong>Report 3</strong> <i>by Irmak Genç</i><br>
       The Preservation of UNESCO World Heritage Sites<br>
       <a href="../reports/UNESCO 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-
+    -->
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>
