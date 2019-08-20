@@ -7980,7 +7980,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 
     <div class="jumbotron executive">
         <div class="container">
-            <h1>Registrations are Not Yet Open!</h1>
+            <h1>Registrations are Open!</h1>
         </div>
     </div>
 
@@ -7991,49 +7991,49 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
               <? if(!$regisetting['press']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>Press Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
-                <a href="press" class="btn btn-primary btn-lg btn-block"><h4><strong>Press Registration</strong></h4><small>Registration is open until January 6th.</small></a>
+                <a href="press" class="btn btn-primary btn-lg btn-block"><h4><strong>Press Registration</strong></h4><small>Registration is open until January 1st.</small></a>
               <? } ?>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
               <? if(!$regisetting['school']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>School Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
-                <a href="school" class="btn btn-primary btn-lg btn-block"><h4><strong>School Registration</strong></h4><small>Registration is open until November 11th.</small></a>
+                <a href="school" class="btn btn-primary btn-lg btn-block"><h4><strong>School Registration</strong></h4><small>Registration is open until October 27th.</small></a>
               <? } ?>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
               <? if(!$regisetting['stoff']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>Student Officer Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
-                <a href="studentofficer" class="btn btn-primary btn-lg btn-block"><h4><strong>Student Officer Registration</strong></h4><small>Registration is open until November 25th.</small></a>
+                <a href="studentofficer" class="btn btn-primary btn-lg btn-block"><h4><strong>Student Officer Registration</strong></h4><small>Registration is open until November 3rd.</small></a>
               <? } ?>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
               <? if(!$regisetting['icj']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>ICJ Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
-                <a href="icj" class="btn btn-primary btn-lg btn-block"><h4><strong>ICJ Registration</strong></h4><small>Registration is open until November 25th.</small></a>
+                <a href="icj" class="btn btn-primary btn-lg btn-block"><h4><strong>ICJ Registration</strong></h4><small>Registration is open until December 1st.</small></a>
               <? } ?>
             </div>
 			      <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
               <? if(!$regisetting['oif']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>OIF Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
-                <a href="oif" class="btn btn-primary btn-lg btn-block"><h4><strong>OIF Registration</strong></h4><small>Registration is open until November 25th.</small></a>
+                <a href="oif" class="btn btn-primary btn-lg btn-block"><h4><strong>OIF Registration</strong></h4><small>Registration is open until December 1st.</small></a>
               <? } ?>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
               <? if(!$regisetting['historical']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>Historical Committee Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
-                <a href="historical" class="btn btn-primary btn-lg btn-block"><h4><strong>Historical Committee Registration</strong></h4><small>Registration is open until November 25th.</small></a>
+                <a href="historical" class="btn btn-primary btn-lg btn-block"><h4><strong>Historical Committee Registration</strong></h4><small>Registration is open until December 1st.</small></a>
               <? } ?>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom-24">
               <? if(!$regisetting['ap']) { ?>
                 <a href="" class="btn btn-primary btn-lg btn-block disabled"><h4><strong>AP Registration</strong></h4><small>Registration is closed.</small></a>
               <? } else { ?>
-                <a href="advisorypanel" class="btn btn-primary btn-lg btn-block"><h4><strong>AP Registration</strong></h4><small>Registration is open until November 25th.</small></a>
+                <a href="advisorypanel" class="btn btn-primary btn-lg btn-block"><h4><strong>AP Registration</strong></h4><small>Registration is open until December 1st.</small></a>
               <? } ?>
             </div>
         </div>

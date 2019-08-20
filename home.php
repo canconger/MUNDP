@@ -179,7 +179,7 @@
 		<br><br>
 
 		<h2>Theme <small>of MUNDP 2020</small></h2>
-		<div class="arabstates text-center"> 
+		<div class="arabstates text-center">
 			<h2>Arab States</h2>
 		</div>
 
@@ -322,11 +322,11 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/sweetalert.min.js"></script>
-<!--
+
     <script>
     $(document).ready(function(){
       swal({
-        title: "Conference fees have been announced!",
+        title: "Registrations are now open!",
         //text: " Sorry for the inconvenience ",
         type: "warning",
         showCancelButton: true,
@@ -335,11 +335,11 @@
         closeOnConfirm: false
       },
       function(){
-        window.location.href = 'payment';
+        window.location.href = 'registration/registration';
       });
     })
 
-    </script> -->
+    </script>
     <!--
 	<script>
 	function getTimeRemaining(endtime) {
