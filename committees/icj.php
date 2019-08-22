@@ -43,16 +43,14 @@
       The International Court of Justice hereby referred to as the ICJ, is one of the six organs of the United Nations (UN) and its principal judicial unit. The ICJ was established in June 1945 with the Charter of the United Nations, therefore “all Member States of the UN are ipso facto parties to the Court’s Statute”. The Court consists of 15 Judges, the Registrar, President, and Vice President.
 			<br><br>
       The court is seated at the Peace Palace in The Hague, Netherlands. The duty of the court is to settle legal disputes between States through utilizing the International Law and Agreements. It may likewise give “advisory opinions on legal questions referred to it by authorized UN organs and specialized agencies.” Not to be confused with the International Criminal Court (ICC), ICJ settles disputes between States and does not take individual crime cases. Cases cannot be opened against individuals but rather a country.
-      <br><br>
-      The ICJ is not a criminal court. The Court has no jurisdiction over individual crimes, instead, it deals with the legal disputes between Member States. Overall, the ICJ has two duties: “settling legal disputes submitted to it by States” and “giving advisory opinions on legal questions referred to it by authorized United Nations organs and specialized agencies.”.
-		</p>
+    </p>
 
 		<h3>Agenda</h3>
     <p>Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)</p>
 
     <br>
 
-    <p><strong>Case Summary</strong>
+    <h3>Case Summary</h3>
     <p>Case Summary Is Not Yet Available</p>
 
     </div> <!-- /container -->
