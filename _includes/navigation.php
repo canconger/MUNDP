@@ -58,7 +58,7 @@
               </ul>
             </li>
 
-            <li><a href="<?= URL ?>registration"><strong>Registration</strong></a></li>
+            <li><a href="<?= URL ?>registration/registration"><strong>Registration</strong></a></li>
 
             <li><a href="<?= URL_MYDP ?>"><strong>MyDP</strong></a></li>
 
