@@ -1,4 +1,4 @@
-<? include("secure/loader.php"); ?>
+*3dlld3dl3ş3pşö<? include("secure/loader.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
