@@ -335,7 +335,7 @@
         closeOnConfirm: false
       },
       function(){
-        window.location.href = 'registration/registration';
+        window.location.href = 'registration/registration.php';
       });
     })
 
