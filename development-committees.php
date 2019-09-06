@@ -46,22 +46,22 @@
 
 		<div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/unoda" class="btn btn-primary btn-lg btn-block"><h4><strong>UNODA</strong></h4><small>United Nations Office for Disarmament Affairs</small></a>
+                <a href="committees/unoda.php" class="btn btn-primary btn-lg btn-block"><h4><strong>UNODA</strong></h4><small>United Nations Office for Disarmament Affairs</small></a>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/unhcr" class="btn btn-primary btn-lg btn-block"><h4><strong>UNHCR</strong></h4><small>United Nations High Commissioner for Refugees</small></a>
+                <a href="committees/unhcr.php" class="btn btn-primary btn-lg btn-block"><h4><strong>UNHCR</strong></h4><small>United Nations High Commissioner for Refugees</small></a>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/ohchr" class="btn btn-primary btn-lg btn-block"><h4><strong>OHCHR</strong></h4><small>Office of the Unite Nations High Commissioner for Human Rights</small></a>
+                <a href="committees/ohchr.php" class="btn btn-primary btn-lg btn-block"><h4><strong>OHCHR</strong></h4><small>Office of the Unite Nations High Commissioner for Human Rights</small></a>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/unesco" class="btn btn-primary btn-lg btn-block"><h4><strong>UNESCO</strong></h4><small>United Nations Educational, Scientific, and Cultural Organization</small></a>
+                <a href="committees/unesco.php" class="btn btn-primary btn-lg btn-block"><h4><strong>UNESCO</strong></h4><small>United Nations Educational, Scientific, and Cultural Organization</small></a>
             </div>
 			<div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/undppa" class="btn btn-primary btn-lg btn-block"><h4><strong>UNDPPA</strong></h4><small>United Nations Political and Peacebuilding Affairs</small></a>
+                <a href="committees/undppa.php" class="btn btn-primary btn-lg btn-block"><h4><strong>UNDPPA</strong></h4><small>United Nations Political and Peacebuilding Affairs</small></a>
             </div>
 			<div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/unido" class="btn btn-primary btn-lg btn-block"><h4><strong>UNIDO</strong></h4><small>United Nations Industrial Development Organization</small></a>
+                <a href="committees/unido.php" class="btn btn-primary btn-lg btn-block"><h4><strong>UNIDO</strong></h4><small>United Nations Industrial Development Organization</small></a>
             </div>
         </div>
 	</div> <!-- /container -->
