@@ -43,17 +43,17 @@
         <div class="row padding-bottom-24">
             <div class="col-xs-12 col-md-4 text-center">
                 <h3>Fee Per Student<br><small>Schools from Turkey</small></h3>
-                <h2>TBA</h2>
+                <h2>425 ₺</h2>
             </div>
 
             <div class="col-xs-12 col-md-4 text-center">
                 <h3>Fee Per Student<br><small>International Schools</small></h3>
-                <h2>TBA</h2>
+                <h2>70 €</h2>
             </div>
 
             <div class="col-xs-12 col-md-4 text-center">
                 <h3>Fee For Press<br><small>per press participant</small></h3>
-                <h2>TBA</h2>
+                <h2>425 ₺</h2>
             </div>
         </div>
 <!--
