@@ -46,25 +46,25 @@
 
 		<div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/unsc" class="btn btn-primary btn-lg btn-block"><h4><strong>UNSC</strong></h4><small>United Nations Security Council</small></a>
+                <a href="committees/unsc.php" class="btn btn-primary btn-lg btn-block"><h4><strong>UNSC</strong></h4><small>United Nations Security Council</small></a>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/historical" class="btn btn-primary btn-lg btn-block"><h4><strong>HISTORICAL</strong></h4><small>Historical Committee</small></a>
+                <a href="committees/historical.php" class="btn btn-primary btn-lg btn-block"><h4><strong>HISTORICAL</strong></h4><small>Historical Committee</small></a>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/icj" class="btn btn-primary btn-lg btn-block"><h4><strong>ICJ</strong></h4><small>International Court of Justice</small></a>
+                <a href="committees/icj.php" class="btn btn-primary btn-lg btn-block"><h4><strong>ICJ</strong></h4><small>International Court of Justice</small></a>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/oif" class="btn btn-primary btn-lg btn-block"><h4><strong>OIF</strong></h4><small>L'organisation internationale de la Francophonie</small></a>
+                <a href="committees/oif.php" class="btn btn-primary btn-lg btn-block"><h4><strong>OIF</strong></h4><small>L'organisation internationale de la Francophonie</small></a>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/ecosoc" class="btn btn-primary btn-lg btn-block"><h4><strong>ECOSOC</strong></h4><small>Economic and Social Council</small></a>
+                <a href="committees/ecosoc.php" class="btn btn-primary btn-lg btn-block"><h4><strong>ECOSOC</strong></h4><small>Economic and Social Council</small></a>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/ap" class="btn btn-primary btn-lg btn-block"><h4><strong>APQ</strong></h4><small>Advisory Panel on the Question of The Persian Gulf</small></a>
+                <a href="committees/ap.php" class="btn btn-primary btn-lg btn-block"><h4><strong>APQ</strong></h4><small>Advisory Panel on the Question of The Persian Gulf</small></a>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 margin-bottom-24">
-                <a href="committees/arableague" class="btn btn-primary btn-lg btn-block"><h4><strong>ARAB LEAGUE</strong></h4><small>Arab League Committee</small></a>
+                <a href="committees/arableague.php" class="btn btn-primary btn-lg btn-block"><h4><strong>ARAB LEAGUE</strong></h4><small>Arab League Committee</small></a>
             </div>
         </div>
     </div> <!-- /container -->

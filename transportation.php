@@ -45,8 +45,9 @@
                 <p class="text-12">For all schools coming from outside of Istanbul, transportation to every event and hotel pick-up service will be provided by MUNDP. You can contact the Head of Transportation via <a href="mailto:transportation@modelundp.org">transportation@modelundp.org</a> for any concerns you may have.</p>
                 <br>
                 <p class="text-12">Transportation fees will be included in conference fees.</p>
-                <!--<p class="text-12">Turkish Airlines is the official airline of MUNDP 2018 and special discounts are offered on certain booking classes. In order to proceed with the online booking tool for Turkish Conventions please visit the <a href="https://www4.thy.com/TKC/app/main?language=en">Turkish Conventions website</a> and use the event code you "006TKM17" delegate section.</p>
-                <p class="text-center"><img src="img/sponsors/turkishairlines-big.jpg" height="100px"></img></p>-->
+                <br>
+                <p class="text-12">Turkish Airlines is the official airline of MUNDP 2020 and special discounts are offered on certain booking classes. In order to proceed with the online booking tool for Turkish Conventions please visit the <a href="https://www4.thy.com/TKC/app/main?language=en">Turkish Conventions website</a> and use the event code "014TKH20" in the delegate section.</p>
+                <p class="text-center"><img src="img/sponsors/turkishairlines-big.jpg" height="100px"></img></p>
             </div>
         </div>
     </div> <!-- /container -->

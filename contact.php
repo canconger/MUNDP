@@ -44,17 +44,17 @@
              <div class="col-xs-12 col-md-6 text-center">
                 <!-- <h3>Secretary General of Content</h3>
                 <h4>Serra Saydam (Ms.)</h4>
-                <h4><a href="mailto:serrasaydam@modelundp.org">serrasaydam@modelundp.org</a></h4> -->
+                <h4><a href="mailto:defnegenc@modelundp.org">defnegenc@modelundp.org</a></h4> -->
             </div>
 
              <div class="col-xs-12 col-md-6 text-center">
                 <!-- <h3>Secretary General of Organization</h3>
                 <h4>Ege Güneş (Mr.)</h4>
-                <h4><a href="mailto:egegunes@modelundp.org">egegunes@modelundp.org</a></h4> -->
+                <h4><a href="mailto:beyzasemakoc@modelundp.org">beyzasemakoc@modelundp.org</a></h4> -->
             </div>
         </div>
 
-		<p class="text-12 padding-bottom-24">If you have any questions about our conference, please feel free to contact <a href="mailto:egegunes@modelundp.org"> secretariat@modelundp.org </a> . We are more than happy to help you with any inquiries you might have. Thank you.</p>
+		<p class="text-12 padding-bottom-24">If you have any questions about our conference, please feel free to contact <a href="mailto:beyzasemakoc@modelundp.org"> secretariat@modelundp.org </a> . We are more than happy to help you with any inquiries you might have. Thank you.</p>
 
 
           <!--  <div class="col-xs-12 text-center">

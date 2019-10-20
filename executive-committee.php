@@ -43,7 +43,7 @@
 
                 <h3>Secretary General of Organization</h3>
                 <h4 class="margin-bottom-0 text-bold">Beyza Sema Koç</h4>
-                <!-- <p><a href="mailto:egegunes@modelundp.org">egegunes@modelundp.org</a></p> -->
+                <!-- <p><a href="mailto:beyzasemakoc@modelundp.org">beyzasemakoc@modelundp.org</a></p> -->
                 <br>
             </div>
 
@@ -53,7 +53,7 @@
 
                 <h3>Secretary General of Content</h3>
                 <h4 class="margin-bottom-0 text-bold">Defne Genç</h4>
-                <!--  <p><a href="mailto:serrasaydam@modelundp.org">serrasaydam@modelundp.org</a></p> -->
+                <!--  <p><a href="mailto:defnegenc@modelundp.org">defnegenc@modelundp.org</a></p> -->
                 <br>
             </div>
 
