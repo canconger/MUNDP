@@ -47,7 +47,7 @@
 
 		<h3>Agenda</h3>
 		<p>
-      Developing guidelines to diminish the consequences of economic sanctions and their impact on human rights
+      Working towards the economic independence of Gaza
       <br><br>
       Achieving a peaceful and democratic political transition in Syria
       <br><br>

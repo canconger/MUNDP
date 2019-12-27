@@ -47,7 +47,7 @@
 
 		<h3>Agenda</h3>
 		<p>
-      Advancing political negotiations towards a two-state solution to the Israeli-Palestinian conflict
+      Advancing political negotiations to resolve Israeli-Palestinian conflict
       <br><br>
       Facilitating political accountability and the protection of human rights in Iraq
       <br><br>

@@ -44,17 +44,19 @@
                 <!-- <p><a href="mailto:headofit@modelundp.org">headofit@modelundp.org</a></p> -->
                 <br>
                 <h3>Head of Press</h3>
-                <h4 class="margin-bottom-0">N/A</h4>
+                <h4 class="margin-bottom-0">Alya Yumrukçal</h4>
                 <!-- <p><a href="mailto:press@modelundp.org">press@modelundp.org</a></p> -->
                 <br>
                 <h3>Head of Transportation</h3>
-                <h4 class="margin-bottom-0">N/A</h4>
+                <h4 class="margin-bottom-0">Faruk Öztok</h4>
                 <!-- <p><a href="mailto:transportation@modelundp.org">transportation@modelundp.org</a></p> -->
                 <br>
                 <h3>Head of Admins</h3>
-                <h4 class="margin-bottom-0">N/A</h4>
+                <h4 class="margin-bottom-0">Almira Dila Akbay</h4>
                 <!-- <p><a href="mailto:headofadmins@modelundp.org">headofadmins@modelundp.org</a></p> -->
                 <br>
+                <h3>Sponsorship Manager</h3>
+                <h4 class="marging-bottom-0">Zeynep Özdöl</h4>
 
             </div>
 
@@ -65,11 +67,14 @@
                 <!-- <p><a href="mailto:assistantliaison@modelundp.org">assistantliaison@modelundp.org</a></p> -->
                 <br>
                 <h3>Assistants to Content</h3>
-                <h4 class="margin-bottom-0">N/A</h4>
+                <h4 class="margin-bottom-0">Batuhan Sarıdede</h4>
+                <h4 class="margin-bottom-0">Melike Koca</h4>
+                <h4 class="margin-bottom-0">Deniz Kavi</h4>
                 <!-- <p><a href="mailto:assistantcontent@modelundp.org">assistantcontent@modelundp.org</a></p> -->
                 <br>
-                <h3>Assistant Organization</h3>
-                <h4 class="margin-bottom-0">N/A</h4>
+                <h3>Assistants to Organization</h3>
+                <h4 class="margin-bottom-0">Kaan Doğan Ceyhan</h4>
+                <h4 class="margin-bottom-0">İdil Ece Alkan</h4>
                 <!-- <p><a href="mailto:assistantorganization@modelundp.org">assistantorganization@modelundp.org</a></p> -->
                 <br>
             </div>
@@ -80,11 +85,12 @@
             <hr>
             <div class="col-xs-12 col-md-6 padding-bottom-24">
               <h3>Crisis Manager</h3>
-              <h4 class="margin-bottom-0">N/A</h4>
+              <h4 class="margin-bottom-0">Çağlar Genç</h4>
             </div>
             <div class="col-xs-12 col-md-6 padding-bottom-24">
               <h3>Assistants to Crisis Manager</h3>
-              <h4 class="margin-bottom-0">N/A</h4>
+              <h4 class="margin-bottom-0">Cenker Şahin</h4>
+              <h4 class="margin-bottom-0">Tunca Hürbaş</h4>
             </div>
         </div>
     </div> <!-- /container -->

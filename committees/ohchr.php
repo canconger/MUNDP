@@ -49,7 +49,7 @@
 		<p>
       Addressing racial discrimination in Saudi Arabia through the development and implementation of domestic legislation
       <br><br>
-      Establishing strong civil societies by combating the imprisonment and harassment of civil society activists
+      Advocating for freedom of expression in the media 
       <br><br>
       The question of the Yemen humanitarian crisis
     </p>

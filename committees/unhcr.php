@@ -51,7 +51,7 @@
           <br><br>
           Developing a framework to prevent and combat human trafficking and migrant smuggling
           <br><br>
-          Ensuring access to primary healthcare in refugee camps in conflict areas
+          Developing solutions to improve the protection of asylum-seekers in Libya
         </p>
 
     <h3>Chair Reports</h3>

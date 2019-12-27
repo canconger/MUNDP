@@ -47,7 +47,7 @@
 
 		<h3>Agenda</h3>
 		  <p>
-        The Question of the Syrian Golan Heights
+        Taking measures to resolve the political unrest in Lebanon
         <br><br>
         The Situation in Sudan
         <br><br>
