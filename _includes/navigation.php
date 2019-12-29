@@ -60,7 +60,7 @@
 
             <li><a href="<?= URL ?>registration/registration.php"><strong>Registration</strong></a></li>
 
-            <!--<li><a href="<?= URL_MYDP ?>"><strong>MyDP</strong></a></li>-->
+            <li><a href="<?= URL_MYDP ?>"><strong>MyDP</strong></a></li>
 
             <li><a href=http://jmundp.org/home.php><strong style="color: #601f6d">JMUNDP</strong></a></li>
 
