@@ -59,7 +59,15 @@
     <h3>Chair Reports</h3>
 
     <p>Chair Reports Are Not Yet Available</p>
-
+    p><strong>Report 1</strong> <i>by Su Yeşildere</i><br>
+      The prevention of the exploitation of natural resources in conflict regions<br>
+      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    p><strong>Report 2</strong> <i>by Kamil Özkan</i><br>
+      Utilising technology and innovation to ensure the accordance of oil sectors with the Sustainable Development Goals<br>
+      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    p><strong>Report 3</strong> <i>by Kaan Tamer Yenideniz</i><br>
+      Promoting inclusive and sustainable industrialization in accordance to SDG 9<br>
+      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
     </div> <!-- /container -->
 

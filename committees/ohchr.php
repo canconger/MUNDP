@@ -49,13 +49,21 @@
 		<p>
       Addressing racial discrimination in Saudi Arabia through the development and implementation of domestic legislation
       <br><br>
-      Advocating for freedom of expression in the media 
+      Advocating for freedom of expression in the media
       <br><br>
       The question of the Yemen humanitarian crisis
     </p>
 
     <h3>Chair Reports</h3>
-    <p>Chair Reports Are Not Yet Available</p>
+    p><strong>Report 1</strong> <i>by Ali Sukan</i><br>
+      Addressing racial discrimination in Saudi Arabia through the development and implementation of domestic legislation<br>
+      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    p><strong>Report 2</strong> <i>by </i><br>
+      Advocating for freedom of expression in the media<br>
+      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    p><strong>Report 3</strong> <i>by Derin Çakmak</i><br>
+      The question of the Yemen humanitarian crisis<br>
+      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
     </div> <!-- /container -->
 

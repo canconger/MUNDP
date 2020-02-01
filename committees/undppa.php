@@ -55,8 +55,13 @@
     </p>
 
     <h3>Chair Reports</h3>
-    <p>Chair Reports Are Not Yet Available</p>
-
+    p><strong>Report 1</strong> <i>by Zeynep Şener</i><br>
+      Advancing political negotiations to resolve Israeli-Palestinian conflict<br>
+      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    p><strong>Report 2</strong> <i>by Sude Metin</i><br>
+      Promoting reconciliation and regional cooperation to ensure security and development in Afghanistan<br>
+      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+  
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

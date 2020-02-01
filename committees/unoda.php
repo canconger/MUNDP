@@ -57,7 +57,15 @@
     </p>
 
     <h3>Chair Reports</h3>
-    <p>Chair Reports Are Not Yet Available</p>
+    p><strong>Report 1</strong> <i>by Kaan Altınay</i><br>
+      Preventing the widespread use of ballistic missiles in an effort to abolish the missile arms race<br>
+      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    p><strong>Report 2</strong> <i>by Doğa Ayar</i><br>
+      Addressing the power shift from national armies to militiast<br>
+      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    p><strong>Report 3</strong> <i>by Doğu Alemdar</i><br>
+    Taking measures against the development and proliferation of nuclear weapons<br>
+      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
     </div> <!-- /container -->
 

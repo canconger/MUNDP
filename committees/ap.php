@@ -61,7 +61,7 @@
     <h3>Chair Reports</h3>
     <p><strong>Report 1</strong> <i>by İris Benardete</i><br>
       Combatting the Spread of Mers-Cov Disease in the Middle East<br>
-      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+      <a href="../reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>
