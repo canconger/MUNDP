@@ -59,9 +59,9 @@
     </p>
 
     <h3>Chair Reports</h3>
-    <p>Chair Reports Are Not Yet Available</p>
-
-
+    <p><strong>Report 1</strong> <i>by İris Benardete</i><br>
+      Combatting the Spread of Mers-Cov Disease in the Middle East<br>
+      <a href="../reports/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

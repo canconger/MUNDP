@@ -55,7 +55,9 @@
     </p>
 
     <h3>Chair Reports</h3>
-    <p>Chair Reports Are Not Yet Available</p>
+    <p><strong>Report 1</strong> <i>by Kaya Güvendi</i><br>
+      Working Towards the Economic Independence of Gaza<br>
+      <a href="../reports/ARABLEAGUE.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
     </div> <!-- /container -->
 

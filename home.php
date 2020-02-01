@@ -319,11 +319,11 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
 
-    <!--<script src="js/jquery.min.js"></script>
+    <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/sweetalert.min.js"></script>
 
-    <script>
+    <!--<script>
     $(document).ready(function(){
       swal({
         title: "Registrations are now open!",
@@ -337,9 +337,9 @@
       function(){
         window.location.href = 'registration/registration.php';
       });
-    })
+    })-->
 
-    </script>-->
+    </script>
     <!--
 	<script>
 	function getTimeRemaining(endtime) {

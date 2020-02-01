@@ -42,8 +42,8 @@
               <h2>UNODA<br><small>U.N. Office for Disarmament Affairs</small></h2>
 
               <div class="members">
-                <h4>President<br><small>N/A</small></h4>
-                <h4>Deputy President<br><small>N/A</small></h4>
+                <h4>President<br><small>Doğa Ayar</small></h4>
+                <h4>Deputy President<br><small>Kaan Altınay</small><br><small>Doğu Alemdar</small></h4>
               </div>
           </div>
 
@@ -51,8 +51,8 @@
               <h2>UNHCR<br><small>United Nations High Commissioner for Refugees</small></h2>
 
               <div class="members">
-                <h4>President<br><small>N/A</small></h4>
-                <h4>Deputy President<br><small>N/A</small></h4>
+                <h4>President<br><small>Yağız Erdoğdu</small></h4>
+                <h4>Deputy President<br><small>Hakan Yaşar</small><br><small>Ece Doğramacı</small></h4>
               </div>
           </div>
 
@@ -60,8 +60,8 @@
               <h2>OHCHR<br><small>Office of the U.N. High Commissioner for Human Rights</small></h2>
 
               <div class="members">
-                <h4>President<br><small>N/A</small></h4>
-                <h4>Deputy President<br><small>N/A</small></h4>
+                <h4>President<br><small>Onur Kaan Şekerel</small></h4>
+                <h4>Deputy President<br><small>Ali Sukan</small><br><small>Derin Çakmak</small></h4>
               </div>
           </div>
 
@@ -69,8 +69,8 @@
               <h2>UNESCO<br><small>United Nations Educational, Scientific, and Cultural Organization</small></h2>
 
               <div class="members">
-                <h4>President<br><small>N/A</small></h4>
-                <h4>Deputy President<br><small>N/A</small></h4>
+                <h4>President<br><small>Ergün Açıköz</small></h4>
+                <h4>Deputy Presidents<br><small>Cansu Çağıran</small><br><small>Alara Balcısoy</small></h4>
               </div>
           </div>
 
@@ -78,8 +78,8 @@
               <h2>UNDPPA<br><small>United Nations Political and Peacebuilding Affairs</small></h2>
 
               <div class="members">
-                <h4>President<br><small>N/A</small></h4>
-                <h4>Deputy President<br><small>N/A</small></h4>
+                <h4>President<br><small>Sude Metin</small></h4>
+                <h4>Deputy President<br><small>Zeynep Kırım</small><br><small>Zeynep Şener</small></h4>
               </div>
           </div>
 
@@ -87,8 +87,8 @@
               <h2>UNIDO<br><small>United Nations Industrial Development Organization</small></h2>
 
               <div class="members">
-                <h4>President<br><small>N/A</small></h4>
-                <h4>Deputy President<br><small>N/A</small></h4>
+                <h4>President<br><small>Kamil Özkan</small></h4>
+                <h4>Deputy President<br><small>Kaan Tamer Yenideniz</small><br><small>Su Yeşildere</small></h4>
               </div>
           </div>
 
@@ -96,8 +96,8 @@
               <h2>UNSC<br><small>The United Nations Security Council</small></h2>
 
               <div class="members">
-                <h4>President<br><small>N/A</small></h4>
-                <h4>Deputy President<br><small>N/A</small></h4>
+                <h4>President<br><small>Doğa Fadıllıoğlu</small></h4>
+                <h4>Deputy President<br><small>Erin Güneri</small><br><small>Zeynep Yılmaz</small></h4>
               </div>
           </div>
 
@@ -105,8 +105,8 @@
               <h2>HISTORICAL<br><small>Historical Committee 1</small></h2>
 
               <div class="members">
-                  <h4>President<br><small>N/A</small></h4>
-                  <h4>Deputy President<br><small>N/A</small></h4>
+                  <h4>President<br><small>Hafize Eylül Göktaş</small></h4>
+                  <h4>Deputy President<br><small>Öykü Türkoğlu</small></h4>
               </div>
           </div>
 
@@ -114,8 +114,8 @@
               <h2>HISTORICAL<br><small>Historical Committee 2</small></h2>
 
               <div class="members">
-                <h4>President<br><small>N/A</small></h4>
-                <h4>Deputy President<br><small>N/A</small></h4>
+                <h4>President<br><small>Emir Kırdan</small></h4>
+                <h4>Deputy President<br><small>Batuhan Şahin</small></h4>
               </div>
           </div>
 
@@ -123,9 +123,9 @@
               <h2>ICJ<br><small>International Court of Justice</small></h2>
 
               <div class="members">
-                <h4>President<br><small>N/A</small></h4>
-                <h4>Vice President<br><small>N/A</small></h4>
-                <h4>Registrar<br><small>N/A</small></h4>
+                <h4>President<br><small>Mayra Kalaora</small></h4>
+                <h4>Vice President<br><small>Sıla Ceyhan</small></h4>
+                <h4>Registrar<br><small>Damla Karabay</small></h4>
               </div>
           </div>
 
@@ -133,9 +133,8 @@
               <h2>OIF<br><small>L’Organisation internationale de la Francophonie</small></h2>
 
               <div class="members">
-                <h4>Président<br><small>N/A</small></h4>
-                <h4>Vice-Présidente<br><small>N/A</small></h4>
-                <h4>Vice-Présidente<br><small>N/A</small></h4>
+                <h4>Président<br><small>Peren Erol</small></h4>
+                <h4>Vice-Présidente<br><small>İsmet Bilgiç</small><br><small>İpek Eylül Duman</small></h4>
               </div>
           </div>
 
@@ -143,9 +142,8 @@
               <h2>ECOSOC<br><small>Economic and Social Council</small></h2>
 
               <div class="members">
-                <h4>President<br><small>N/A</small></h4>
-                <h4>Deputy President<br><small>N/A</small></h4>
-                <h4>Deputy President<br><small>N/A</small></h4>
+                <h4>President<br><small>Mehmet Deniz Birlikçi</small></h4>
+                <h4>Deputy President<br><small>Mark Mitrani</small><br><small>Ümmünaz Yanık</small></h4>
               </div>
           </div>
 
@@ -153,8 +151,8 @@
               <h2>APQ<br><small>Advisory Panel on the Question of The Persian Gulf</small></h2>
 
               <div class="members">
-                <h4>President<br><small>N/A</small></h4>
-                <h4>Deputy President<br><small>N/A</small></h4>
+                <h4>President<br><small>Can Jozef Saul</small></h4>
+                <h4>Deputy President<br><small>İris Benardete</small><small>Kayra Bahadır</small></h4>
               </div>
           </div>
 
@@ -162,9 +160,8 @@
               <h2>ARAB LEAGUE<br><small>Arab League Committee</small></h2>
 
               <div class="members">
-                <h4>President<br><small>N/A</small></h4>
-                <h4>Deputy President<br><small>N/A</small></h4>
-                <h4>Deputy President<br><small>N/A</small></h4>
+                <h4>President<br><small>Kaya Güvendi</small></h4>
+                <h4>Deputy President<br><small>Zeynep Büyükyazgan</small><br><small>Selin Eryiğit</small></h4>
               </div>
           </div>
 
