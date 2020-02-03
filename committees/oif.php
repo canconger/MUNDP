@@ -57,13 +57,13 @@
     <h3>Rapport de Recherche</h3>
     p><strong>Rapport 1</strong> <i>by İsmet Bilgiç</i><br>
       Promouvoir la liberté d'expression et la presse dénationalisée dans les régimes Arabes<br>
-      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+      <a href="reports20/OIF1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
     p><strong>Rapport 2</strong> <i>by Peren Erol</i><br>
       Prévenenir les pratiques traditionnelles affectant la santé des femmes<br>
-      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+      <a href="reports20/OIF2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
     p><strong>Rapport 3</strong> <i>by İpek Duman</i><br>
     Mesures visant à réduire la dépendance économique du Moyen-Orient à l'égard du pétrole<br>
-      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+      <a href="reports20/OIF3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
 
     </div> <!-- /container -->
