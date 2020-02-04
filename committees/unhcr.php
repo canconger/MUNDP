@@ -55,12 +55,15 @@
         </p>
 
     <h3>Chair Reports</h3>
-    p><strong>Report 1</strong> <i>by Yağız Erdoğdu</i><br>
-        Preventing dicrimination against displaced individuals in various regions of Iraq<br>
-      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    p><strong>Report 2</strong> <i>by Ece Doğramacı</i><br>
+    <p><strong>Report 1</strong> <i>by Yağız Erdoğdu</i><br>
+      Preventing dicrimination against displaced individuals in various regions of Iraq<br>
+      <a href="../reports20/UNHCR1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 3</strong> <i>by N/A</i><br>
       Developing solutions to improve the protection of asylum-seekers in Libya<br>
-      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+      <a href="../reports20/UNHCR2.pdf"
+    <p><strong>Report 3</strong> <i>by Ece Doğramacı</i><br>
+      Developing solutions to improve the protection of asylum-seekers in Libya<br>
+      <a href="../reports20/UNHCR3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
     </div> <!-- /container -->
 

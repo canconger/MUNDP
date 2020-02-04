@@ -55,15 +55,15 @@
     </p>
 
     <h3>Chair Reports</h3>
-    p><strong>Report 1</strong> <i>by Mark Musa Mitrani</i><br>
+    <p><strong>Report 1</strong> <i>by Mark Musa Mitrani</i><br>
       The question of Israeli economic restrictions on the Palestinian territory<br>
-      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    p><strong>Report 2</strong> <i>by Ümmünaz Yazık</i><br>
+      <a href="../reports20/ECOSOC1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 2</strong> <i>by Ümmünaz Yazık</i><br>
       Ensuring the protection of the environment through water management and industrial waste control<br>
-      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    p><strong>Report 3</strong> <i>by Mehmet Deniz Birlikçi</i><br>
+      <a href="../reports20/ECOSOC2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 3</strong> <i>by Mehmet Deniz Birlikçi</i><br>
       Employing targeted measures to combat unemployment with a focus on women and the youth<br>
-      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+      <a href="../reports20/ECOSOC3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
 
 

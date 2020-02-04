@@ -55,15 +55,15 @@
       </p>
 
     <h3>Chair Reports</h3>
-    p><strong>Report 1</strong> <i>by Zeynep Yılmaz</i><br>
+    <p><strong>Report 1</strong> <i>by Zeynep Yılmaz</i><br>
       Taking measures to resolve the political unrest in Lebanon<br>
-      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    p><strong>Report 2</strong> <i>by Erin Güneri</i><br>
+      <a href="../reports20/UNSC1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 2</strong> <i>by Erin Güneri</i><br>
       The Situation in Sudan<br>
-      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    p><strong>Report 3</strong> <i>by İris Benardete</i><br>
+      <a href="../reports20/UNSC2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 3</strong> <i>by İris Benardete</i><br>
       Combatting the Spread of Mers-Cov Disease in the Middle East<br>
-      <a href="reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+      <a href="../reports20/UNSC3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
     </div> <!-- /container -->
 

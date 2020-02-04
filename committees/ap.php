@@ -59,8 +59,14 @@
     </p>
 
     <h3>Chair Reports</h3>
-    <p><strong>Report 1</strong> <i>by İris Benardete</i><br>
-      Combatting the Spread of Mers-Cov Disease in the Middle East<br>
+    <p><strong>Report 1</strong> <i>by N/A</i><br>
+      Amending legislation to criminalise terrorism and money laundering<br>
+      <a href="../reports20/APQ.pdf" 
+    <p><strong>Report 2</strong> <i>by Kaya Bahadır</i><br>
+      Developing strategies for the eradication of corruption by increasing democratic accountability<br>
+      <a href="../reports20/APQ2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 3</strong> <i>by İris Benardete</i><br>
+      Combatting the Spread of Mers-CoV Disease in the Middle East<br>
       <a href="../reports20/APQ.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
     </div> <!-- /container -->
 
