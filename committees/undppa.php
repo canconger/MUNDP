@@ -55,15 +55,12 @@
     </p>
 
     <h3>Chair Reports</h3>
-    <p><strong>Report 1</strong> <i>by Zeynep Şener</i><br>
+    p><strong>Report 1</strong> <i>by Zeynep Şener</i><br>
       Advancing political negotiations to resolve Israeli-Palestinian conflict<br>
       <a href="../reports20/UNDPPA1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by N/A</i><br>
-        Facilitating political accountability and the protection of human rights in Iraq
-      <a href="../reports20/UNDPPA3.pdf"
-    <p><strong>Report 3</strong> <i>by Sude Metin</i><br>
+    p><strong>Report 2</strong> <i>by Sude Metin</i><br>
       Promoting reconciliation and regional cooperation to ensure security and development in Afghanistan<br>
-      <a href="../reports20/UNDPPA3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+      <a href="../reports20/UNDPPA2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
 
     </div> <!-- /container -->

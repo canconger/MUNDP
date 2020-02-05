@@ -52,17 +52,16 @@
 
 
     <h3>Chair Reports</h3>
-    <p><strong> Chair Reports Not Available</strong>
-  <!-- <p><strong>Report 1</strong> <i>by İris Benardete</i><br>
+    p><strong>Report 1</strong> <i>by İris Benardete</i><br>
       Combatting the Spread of Mers-Cov Disease in the Middle East<br>
       <a href="../reports20/HISTORICAL1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 1</strong> <i>by İris Benardete</i><br>
+    p><strong>Report 1</strong> <i>by İris Benardete</i><br>
       Combatting the Spread of Mers-Cov Disease in the Middle East<br>
       <a href="../reports20/HISTORICAL2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 1</strong> <i>by İris Benardete</i><br>
+    p><strong>Report 1</strong> <i>by İris Benardete</i><br>
       Combatting the Spread of Mers-Cov Disease in the Middle East<br>
       <a href="../reports20/HISTORICAL3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-  -->
+
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>

@@ -55,15 +55,15 @@
     </p>
 
     <h3>Chair Reports</h3>
-    <p><strong>Report 1</strong> <i>by Ali Sukan</i><br>
+    p><strong>Report 1</strong> <i>by Ali Sukan</i><br>
       Addressing racial discrimination in Saudi Arabia through the development and implementation of domestic legislation<br>
-      <a href="../reports20/OHCHR1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
-    <p><strong>Report 2</strong> <i>by N/A</i><br>
+      <a href="../reports20/OHCR1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    p><strong>Report 2</strong> <i>by </i><br>
       Advocating for freedom of expression in the media<br>
-      <a href="../reports20/OHCR2H2.pdf"
-    <p><strong>Report 3</strong> <i>by Derin Çakmak</i><br>
+      <a href="../reports20/OHCR2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    p><strong>Report 3</strong> <i>by Derin Çakmak</i><br>
       The question of the Yemen humanitarian crisis<br>
-      <a href="../reports20/OHCHR3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+      <a href="../reports20/OHSCR3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
     </div> <!-- /container -->
 
