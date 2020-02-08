@@ -56,9 +56,14 @@
 
     <h3>Chair Reports</h3>
     <p><strong>Report 1</strong> <i>by Kaya Güvendi</i><br>
-      Working towards the economic independence independence of Gaza<br>
-      <a href="../reports/ARABLEAGUE1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+      Working towards the economic independence of Gaza<br>
+      <a href="../reports20/AB1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+    <p><strong>Report 1</strong> <i>by Kaya Güvendi</i><br>
+      Achieving a peaceful and democratic political transition in Syria<br>
 
+    <p><strong>Report 1</strong> <i>by Zeynep Büyükyazgan</i><br>
+      Taking political measures to resolve the Libyan conflict<br>
+      <a href="../reports20/AB3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
     </div> <!-- /container -->
 
     <? include("../_includes/footer.php"); ?>
