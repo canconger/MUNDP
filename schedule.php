@@ -46,7 +46,7 @@
                               <hr>
                               <p><strong>13.30-15.00</strong><br>STOFF Training</p>
                               <p><strong>16.00-17.30</strong><br>Cocktail and Registration </p>
-                              <p><strong>16.45-17.15</strong><br>Heads of States Meeting (Arab League Delegates)</p>
+                              <p><strong>16.45-17.15</strong><br>Heads of State Meeting (Arab League Delegates)</p>
                               <p><strong>17.30-18.30</strong><br>Opening Ceremony</p>
                               <p><strong>18.30-19.00</strong><br>Committees Meet</p>
                               <p><strong>19.00-19.15</strong><br>STOFF Debriefing</p>

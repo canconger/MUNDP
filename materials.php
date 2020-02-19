@@ -50,12 +50,12 @@
         <h2>Conference Handbook</h2>
         <hr>
 
-        <iframe style="border: 0px" src="https://indd.adobe.com/view/4797936d-07f2-4952-85f8-c5cc73f68e37" width="100%" height="460px" frameborder="0" allowfullscreen=""></iframe>
+        <iframe style="border: 0px" src="https://indd.adobe.com/view/17d1d696-d9e8-4f8f-93ce-c9b3bb4e26fe" width="100%" height="460px" frameborder="0" allowfullscreen=""></iframe>
 
         <h2>Stoff Handbook</h2>
         <hr>
 
-        <iframe style="border: 0px" src="https://indd.adobe.com/view/44ee7250-a2ce-4f67-bf6b-a9c8dd79f624" width="100%" height="460px" frameborder="0" allowfullscreen=""></iframe>
+        <iframe style="border: 0px" src="https://indd.adobe.com/view/40543618-4db9-42e8-a7de-5cb3a273c4b7" width="100%" height="460px" frameborder="0" allowfullscreen=""></iframe>
 
         <h2>MUNDP 2020 Invitational Package</h2>
         <hr>

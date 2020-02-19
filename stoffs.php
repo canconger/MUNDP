@@ -60,7 +60,7 @@
               <h2>OHCHR<br><small>Office of the U.N. High Commissioner for Human Rights</small></h2>
 
               <div class="members">
-                <h4>President<br><small>Onur Kaan Şekerel</small></h4>
+                <h4>President<br><small>Demir Timuray</small></h4>
                 <h4>Deputy President<br><small>Ali Sukan</small><br><small>Derin Çakmak</small></h4>
               </div>
           </div>
@@ -161,7 +161,7 @@
 
               <div class="members">
                 <h4>President<br><small>Kaya Güvendi</small></h4>
-                <h4>Deputy President<br><small>Zeynep Büyükyazgan</small><br><small>Selin Eryiğit</small></h4>
+                <h4>Deputy President<br><small>Zeynep Büyükyazgan</small><br><small>Alp Altınbaşak</small></h4>
               </div>
           </div>
 

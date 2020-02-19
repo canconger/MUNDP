@@ -33,6 +33,7 @@
                 <li><a href="<?= URL ?>contact.php" class="visible-md visible-sm">Contact</a></li>
                 <li><a href="<?= URL ?>kocschool.php" class="visible-md visible-sm">The Koç School</a></li>
                 <li><a href="<?= URL ?>istanbul.php" class="visible-md visible-sm">Istanbul</a></li>
+                <li><a href="<?= URL ?>sponsorships.php" class="visible-md visible-sm">Sponsorships</a></li>
                 <li role="separator" class="divider"></li>
                 <li class="hidden"><a href="<?= URL ?>schedule.php">Schedule</a></li>
                 <li class="hidden"><a href="<?= URL ?>deadlines.php">Deadlines</a></li>

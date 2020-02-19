@@ -57,13 +57,13 @@
     <h3>Chair Reports</h3>
     <p><strong>Report 1</strong> <i>by Cansu Çağıran</i><br>
       The safeguarding of cultural heritage sites from destruction resulting from regional conflict<br>
-      <a href="../reports/UNESCO 1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+      <a href="../reports20/UNESCO1.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
     <p><strong>Report 2</strong> <i>by Ergün Açıkgöz</i><br>
       Promoting the integration of women in branches of Science, Technology, Engineering and Mathematics (STEM)<br>
-      <a href="../reports/UNESCO 2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+      <a href="../reports20/UNESCO2.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
     <p><strong>Report 3</strong> <i>by Alara Balcısoy</i><br>
       Preventing violent extremism resulting from religious indoctrination through education<br>
-      <a href="../reports/UNESCO 3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
+      <a href="../reports20/UNESCO3.pdf" class="btn btn-success btn-sm" target="_blank">Download the Report</a></p>
 
     </div> <!-- /container -->
 
