@@ -34,10 +34,17 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-md-6 padding-bottom-24">
-              <a href= "https://www.tadim.com"><img src="../sponsors/tadım.png" height="100px" alt="Tadım"></a>
-              <a href= "http://www.tavukdunyasi.com"><img src="../sponsors/tavukdünyası.jpg" height="100px" alt="Tavuk Dünyası"></a>
-              <a href= "https://www.erikli.com.tr/urunlerimiz/erikli-mineral"><img src="../sponsors/jacobs.jpg" height="100px" alt="Jacobs"></a>
-              <a href= "https://www.migros.com.tr"><img src="../sponsors/migros.png" height="100px" alt="Migros Online Market"></a>
+                <div class="col-xs-12 col-md-6 text-center stofflist">
+                  <a href= "https://www.migros.com.tr"><img src="img/sponsors/migros.png" height="200px" alt="Migros Online Market"></a> <br>
+                </div>
+
+                <div class="col-xs-12 col-md-6 text-center stofflist">
+              <a href= "https://www.tadim.com"><img src="img/sponsors/tadım.png" height="100px" alt="Tadım"></a>
+              <a href= "http://www.tavukdunyasi.com"><img src="img/sponsors/tavukdünyası.jpg" height="120px" alt="Tavuk Dünyası"></a>
+              <a href= "https://www.erikli.com.tr/urunlerimiz/erikli-mineral"><img src="img/sponsors/erikli.jpg" height="200px" alt="Erikli"></a>
+              <a href= "https://www.jacobsdouweegberts.com"><img src="img/sponsors/jacobs.jpg" height="150px" alt="Jacobs"></a>
+              <a href="https://www.turkishairlines.com" target="_blank"><img src="img/sponsors/turkishairlines-big.jpg" height="100px"></a>
+              </div>
             </div>
         </div>
     </div>

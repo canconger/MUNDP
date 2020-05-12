@@ -339,6 +339,25 @@
       });
     })-->
 
+    <!--<script>
+    $(document).ready(function(){
+      swal({
+        title: "MUNDP 2020 is now over",
+        //text: "Check the photos in our social media",
+        type: "warning",
+        showCancelButton: true,
+        confirmButtonClass: "btn-success",
+        confirmButtonText: "Instagram",
+        closeOnConfirm: false
+        confirmButtonClass: "btn-success",
+        confirmButtonText: "Facebook",
+        closeOnConfirm: false
+      },
+      function(){
+        window.location.href = 'registration/registration.php';
+      });
+    })-->
+
     </script>
     <!--
 	<script>
