@@ -152,7 +152,7 @@
       We as the Executive Committee are delighted to see you all in February to partake in what will hopefully be the most memorable MUNDP experience to date. While celebrating the 20th anniversary of MUNDP, be sure to lobby, debate, and prove that the solutions for the problems at hand have been delayed for no reason at all!
       <br><br>
 		</p>
-		<p>Yours sincerely,<br>Defne Genç<br>Beyza Sema Koç</p>
+		<p>Yours sincerely,<br>Secretaries-General<br></p>
 	  </div>
 	  <div class="col-xs-12 col-md-4">
 		<!-- <h2>MUNDP 2018 <small>is starting in</small></h2>
